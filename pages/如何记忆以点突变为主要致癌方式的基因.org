@@ -1,0 +1,21 @@
+---
+title: "如何记忆以点突变为主要致癌方式的基因"
+creation date: 2022-10-28 21:14 
+modification date: 2022-10-28 21:10
+---
+* 如何记忆以点突变为主要致癌方式的基因
+
+** Keywords
+[[点突变]]
+
+** Content
+- [[RAS]]
+- [[BRAF]]
+- [[p53]]
+- [[KIT]]
+
+** Mnemonic
+- 只穿BRA的Rose有53个Hello kitty
+
+*** Reference
+- [[如何记忆 KIT常见于哪些肿瘤]]

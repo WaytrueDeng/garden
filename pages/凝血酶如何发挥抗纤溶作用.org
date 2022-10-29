@@ -1,0 +1,12 @@
+---
+title: "凝血酶如何发挥抗纤溶作用"
+creation date: 2022-10-28 16:58 
+modification date: 2022-10-28 16:10
+---
+* 凝血酶如何发挥抗纤溶作用
+** Keywords
+[[凝血酶]],[[抗纤溶]]
+** Content
+[[凝血酶]]通过与[[TM]]结合,从而激活[[TAFI]]而发挥抗纤溶作用
+*** Reference
+>“此外，凝血酶通 过与凝血酶调节蛋白的结合还可激活凝血酶激活的纤溶抑制物(thrombin-activatable fibrinolysis inhibi­ tor, TAFI) ，抑制纤维蛋白的溶解,稳定凝血块。” (Wang, 2018, p. 79)

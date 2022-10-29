@@ -1,0 +1,18 @@
+---
+title: "如何记忆B类神经元的作用?"
+creation date: 2022-10-28 19:55 
+modification date: 2022-10-28 19:10
+---
+* 如何记忆B类神经元的作用
+
+** Keywords
+
+
+** Content
+自主神经的节前纤维
+
+** Mnemonic
+记住口诀:快慢AC,前后BC.
+
+*** Reference
+- [[如何记忆C类纤维的传入传出作用]]

@@ -1,0 +1,19 @@
+---
+title: "如何记忆哪些疾病表现为细胞内玻璃样变性"
+creation date: 2022-10-28 20:57 
+modification date: 2022-10-28 20:10
+---
+* 如何记忆哪些疾病表现为细胞内玻璃样变性
+
+** Keywords
+[[玻璃样变性]]
+
+** Content
+- 大量蛋白尿时近端小管吞噬蛋白质后
+- [[Mallory小体]]:中间丝前角蛋白
+- [[Russel小体]]:[[多发性骨髓瘤]]等疾病的[[浆细胞]]免疫蛋白
+
+** Mnemonic
+Mallory的M 与middle对应
+
+*** Reference

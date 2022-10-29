@@ -1,0 +1,12 @@
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "assets",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "pages",
+  "alwaysUpdateLinks": true,
+  "vimMode": false,
+  "showFrontmatter": true,
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": true,
+  "newLinkFormat": "relative"
+}

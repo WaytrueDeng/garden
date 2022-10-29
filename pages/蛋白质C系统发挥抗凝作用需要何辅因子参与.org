@@ -1,0 +1,11 @@
+---
+title: "蛋白质C系统发挥抗凝作用需要何辅因子参与"
+creation date: 2022-10-28 16:54 
+modification date: 2022-10-28 16:10
+---
+* 蛋白质C系统发挥抗凝作用需要何辅因子参与
+** Keywords
+[[蛋白质C系统]],[[抗凝]]
+** Content
+需要[[PS]]蛋白质S的参与
+*** Reference

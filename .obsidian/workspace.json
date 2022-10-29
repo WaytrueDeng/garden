@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "00bbf5abd934eeba",
+    "type": "split",
+    "children": [
+      {
+        "id": "f900ea88d08d1fc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9148911f60bfc107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pages/如何记忆肌梭的传入神经.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5eb492f037a05f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "63d6f31d6b3cc02c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1e27ce1ab74e047",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b30e7dba65bc2fb9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9e136c3cc6e55a9a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2eaecda08155571f",
+    "type": "split",
+    "children": [
+      {
+        "id": "8490dfba43ff18b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4ea525ebbb32a822",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pages/如何记忆肌梭的传入神经.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a974de9a60d3b249",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pages/如何记忆肌梭的传入神经.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5959ef42c57ef81b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "be216f3fd393fb99",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pages/如何记忆肌梭的传入神经.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "9148911f60bfc107",
+  "lastOpenFiles": [
+    "pages/如何记忆大肠的癌前病变.md",
+    "pages/如何记忆 KIT常见于哪些肿瘤.md",
+    "pages/如何记忆肌梭的结构与功能.md",
+    "pages/如何记忆肌梭的传入神经.md",
+    "pages/如何记忆黑色素瘤的标记.md",
+    "pages/如何记忆大肠癌癌前病变中的几个英语综合征.md",
+    "pages/凝血酶如何发挥抗纤溶作用.md",
+    "pages/何物质使得凝血酶由促凝物变为抗凝物及其作用机制.md",
+    "pages/蛋白质C系统发挥抗凝作用需要何辅因子参与.md",
+    "pages/玻璃样变性的本质是.md"
+  ]
+}

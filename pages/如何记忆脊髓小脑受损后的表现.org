@@ -1,0 +1,18 @@
+---
+title: "如何记忆脊髓小脑受损后的表现"
+creation date: 2022-10-28 20:33 
+modification date: 2022-10-28 20:10
+---
+* 如何记忆脊髓小脑受损后的表现
+
+** Keywords
+[[脊髓小脑]]
+
+** Content
+* 表现为共济失调
+
+** Mnemonic
+- 根据拼音来记忆,脊ji→共济(ji)失调
+
+*** Reference
+- [[如何记忆什么是共济失调]]

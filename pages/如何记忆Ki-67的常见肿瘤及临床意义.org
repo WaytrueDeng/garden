@@ -1,0 +1,17 @@
+---
+title: "如何记忆Ki-67的常见肿瘤及临床意义"
+creation date: 2022-10-28 21:37 
+modification date: 2022-10-28 21:10
+---
+* 如何记忆Ki-67的常见肿瘤及临床意义
+
+** Keywords
+
+
+** Content
+常见于[[Burkitt淋巴瘤]],其能反应肿瘤的增殖活性
+
+** Mnemonic
+看Burkitt的后几各字母是不是和Ki(6)T(7)很像
+
+*** Reference

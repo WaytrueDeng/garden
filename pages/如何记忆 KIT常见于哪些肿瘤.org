@@ -1,0 +1,18 @@
+---
+title: "如何记忆 KIT常见于哪些肿瘤"
+creation date: 2022-10-28 21:22 
+modification date: 2022-10-28 21:10
+---
+* 如何记忆 KIT常见于哪些肿瘤
+
+** Keywords
+
+
+** Content
+[[胃肠间质细胞瘤]],[[精原细胞瘤]]
+
+** Mnemonic
+Hello Kitty做胃肠镜
+
+*** Reference
+- [[如何记忆以点突变为主要致癌方式的基因]]
