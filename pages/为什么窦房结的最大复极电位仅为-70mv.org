@@ -1,8 +1,4 @@
----
-title: "为什么窦房结的最大复极电位仅为-70mv"
-creation date: 2022-10-28 19:36 
-modification date: 2022-10-28 19:10
----
+
 * 为什么窦房结的最大复极电位仅为-70mv
 
 ** Keywords

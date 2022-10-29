@@ -1,8 +1,4 @@
----
-title: "如何记忆C类纤维的传入传出作用"
-creation date: 2022-10-28 19:53 
-modification date: 2022-10-28 19:10
----
+
 * 如何记忆C类纤维的传入传出作用
 
 ** Keywords

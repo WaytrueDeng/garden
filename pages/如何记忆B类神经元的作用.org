@@ -1,8 +1,4 @@
----
-title: "如何记忆B类神经元的作用?"
-creation date: 2022-10-28 19:55 
-modification date: 2022-10-28 19:10
----
+
 * 如何记忆B类神经元的作用
 
 ** Keywords

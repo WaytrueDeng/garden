@@ -1,8 +1,4 @@
----
-title: "如何理解神经组织能否化生"
-creation date: 2022-10-28 21:03 
-modification date: 2022-10-28 21:10
----
+
 * 如何理解神经组织能否化生
 
 ** Keywords

@@ -1,8 +1,4 @@
----
-title: "玻璃样变性的本质是"
-creation date: 2022-10-28 20:48 
-modification date: 2022-10-28 20:10
----
+
 * 玻璃样变性的本质是
 
 ** Keywords
