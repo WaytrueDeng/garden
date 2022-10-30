@@ -1,0 +1,113 @@
+* 概念的公式化表达
+** [[社会存在]]等于? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 自然地理环境+人口因素+生产方式(决定)
+** [[生产方式]]等于? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** [[生产关系]]+[[生产力]]
+** [[生产力]]等于? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** [[生产资料]]+[[劳动者]]
+*** [[劳动者]]是生产力中最? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 最活跃的因素
+*** 划分阶级的基础是? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+**** [[生产资料]]
+** [[生产资料]]等于? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** [[劳动资料]]+[[劳动对象]]
+*** 最重要的劳动资料是? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 生产工具
+** [[生产关系]]等于? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 生产资料的所有制关系
+*** 生产过程中人与人的关系
+*** 产品的分配关系
+*** 生产关系中最重要最具有决定性的要素是? #card
+**** 生产资料的所有制关系
+***
+** [[社会意识]]等于? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** [[社会心理]](低级)+[[社会意识形式]](高级)
+*** [[社会心理]]与 [[社会意识形式]]之间的关系? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 社会心理是社会意识形式的基础,社会意识形式指导与影响社会心理
+***
+** [[社会意识形式]]包括? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** [[非社会意识形态]]+[[社会意识形态]]
+*** [[社会意识形态]]包括了哪些部分? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 道晢教法术
+**** 道德,哲学,宗教,法律,艺术
+*** 社会意识形式
+** [[上层建筑]]等于? #card
+:PROPERTIES:
+:id: 63556c33-d7d1-4e09-8c6a-e77725da24a5
+:END:
+*** [[政治上层建筑]]+[[观念上层建筑]](意识形态)
+* 第一对与第二对社会基本矛盾为? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+** 第一对为生产力与生产关系的矛盾
+** 第二对为经济基础与上层建筑之间的矛盾
+* 为什么说生产力决定生产关系? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+** 第一:生产力的状况决定生产关系的性质 
+#+BEGIN_QUOTE
+有什么样的生产力，最终就会形成什么样的生产关系，生产力的性质、发展水平以及发展要求决定着生产资料所有制关系、因而决定着人们在生产过程中的地位和作用，决定着人们对产品的分配关系。
+#+END_QUOTE
+** 第二:生产力的变化决定生产关系的发展
+* 什么是经济基础? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+** 由生产力所决定的生产关系的总合
+* ((63556c33-d7d1-4e09-8c6a-e77725da24a5))
+* 什么是上层建筑? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+** 建立在经济基础上的社会意识形态+与之相适应的制度,设施与组织
+** 其中社会意识形态对应观念上层建筑+相应的制度设施与组织对应政治上层建筑
+* 政治上层建筑与观念上层建筑之间的关系? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+** 政治上层建筑在观念上层建筑的指导下建立起来的
+** 政治建筑一旦形成就会影响并制约人们的思想理论观点
+* 在整个上层建筑中居主导地位的上层建筑及其核心是? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+** 局主导地位的是政治上层建筑,其核心是国家政权
+*

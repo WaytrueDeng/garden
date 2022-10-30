@@ -1,0 +1,10 @@
+* :PROPERTIES:
+:title: 如何记忆支原体肺炎的疼痛特点? #card
+:END:
+* [[支原体肺炎]]表现为发热咽痛肌痛
+:PROPERTIES:
+:id: 63456603-c5d4-438f-a072-00701023cb59
+:END:
+* #+BEGIN_TIP
+记忆为一支抽油烟机痛
+#+END_TIP

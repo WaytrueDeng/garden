@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       a9878422-ec94-4040-b688-b83122affe71
+:END:
+#+title: 如何记忆脑磷脂的X基团 
+#+creationTime: [2022-10-30 Sun 14:07] 
+* Keywords
+- [[roam:脑磷脂]]
+* Contents
+- [[roam:乙醇胺]]
+* Mnemonic
+- 乙醇喝多了脑袋晕
+- 或者记忆为乙脑
+
+* Reference

@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       69987e98-24f8-46b2-a045-08564e74f43c
+:END:
+#+title: 如何记忆胞内与胞外催化胆固醇变为胆固醇酯的酶 
+#+creationTime: [2022-10-30 Sun 13:01] 
+* Keywords
+- 
+* Contents
+- 细胞内为[[id:0a1b3966-136b-4135-8ab3-a899d310be7a][ACAT]]
+- 细胞外为[[id:a253438f-5222-4ee0-9c22-5d03abbdab44][LCAT]]
+* Mnemonic
+- 记忆为细胞外为白猫,细胞内为黑猫(An暗)
+
+* Reference
+- [[id:e4acebc6-6ea3-49e6-a522-9cc7b2585ae5][如何记忆apoA1的作用]]

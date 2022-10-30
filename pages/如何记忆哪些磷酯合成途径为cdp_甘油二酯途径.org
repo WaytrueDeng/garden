@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       0b984f2b-e0b1-4801-a0ac-29fafeec6678
+:END:
+#+title: 如何记忆哪些磷酯合成途径为CDP-甘油二酯途径
+#+creationTime: [2022-10-30 Sun 14:31] 
+* Keywords
+- 
+* Contents
+- [[id:99958d43-7558-4dbb-b088-da8fc6aed4f7][心磷酯]]
+- [[roam:磷酯酰丝氨酸]]
+- [[roam:磷酯酰肌醇]]
+* Mnemonic
+- [[file:../assets/磷酯合成甘油二酯途径与CDP甘油二酯途径.png]]
+* Reference
+
+

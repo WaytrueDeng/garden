@@ -1,0 +1,412 @@
+* #+title: 天天师兄/生理学/细胞信号转导
+:PROPERTIES:
+:ID:       63495375-3790-41eb-9bf0-81f26b7bd1eb
+:END:
+* [[../assets/image_1665899534729_0.png]]
+* 受体的本质大多是? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+** 蛋白质
+* 膜受体包括哪四大类? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+** 离子通道型受体
+** G蛋白耦联受体
+** 酶联型受体
+** 招募型受体
+* 核受体介导的信号转导
+:PROPERTIES:
+:collapsed: true
+:END:
+** [[如何记忆]]核受体的配体? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+#+BEGIN_TIP
+李维佳
+#+END_TIP
+*** 类固醇激素
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 醛固酮
+**** [[GC]]
+**** 性激素(雄,雌,孕)
+**** 活化的VitD
+*** [[维甲酸]]
+:PROPERTIES:
+:id: 634950a5-cd48-4d41-bcfc-47df6272c05e
+:END:
+**** 为活化的维生素A,全反式[[维甲酸]]用于治疗M3型白血病
+*** [[甲状腺激素]]
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 属于[[胺类]]激素 
+#+BEGIN_TIP
+甲状腺素,儿茶酚胺,和退黑素:记忆为退下请安
+#+END_TIP
+** 核受体至少包括哪些结构域? #card
+:PROPERTIES:
+:id: 634f848e-5ea2-47f7-9aed-96db222fa571
+:END:
+*** [[../assets/image_1665749464252_0.png]]
+*** 激素结合结构域→实现配体结合受体
+*** DNA结合结构域→实现受体结合DNA
+:PROPERTIES:
+:collapsed: true
+:END:
+**** [[DNA结合结构域]]包括? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+***** [[锌指结构]]
+***** [[亮氨酸拉链]]
+***** [[螺旋环螺旋]]
+*** 转录激活结构域→实现激活转录
+** 效应
+*** [[甲状腺激素诱导蛋白]]包括? #甲状腺激素
+:PROPERTIES:
+:id: 63495375-3790-41eb-9bf0-81f26b7bd1eb
+:END:
+**** 钠钾泵与解耦联蛋白
+*** 类固醇激素具有哪两种效应? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 慢速基因效应 主要
+**** 快速非基因效应→与膜受体做结合
+***
+* 离子通道型受体介导的信号转导(以化学/配体门控通道为代表)
+:PROPERTIES:
+:END:
+** 配体+受体→通道打开→电导↑→离子流动
+** 配体
+:PROPERTIES:
+:END:
+*** 主要是神经递质
+:PROPERTIES:
+:id: 634f848e-e8f4-4fcf-8925-6042fd54a2b5
+:END:
+**** [[乙酰胆碱]]
+**** [[谷氨酸]]
+**** [[γ-氨基丁酸]]([[GABA]])
+**** [[甘氨酸]]
+:PROPERTIES:
+:collapsed: true
+:END:
+***** [[破伤风]]毒素阻断[[甘氨酸]]的释放(其本身为抑制性神经递质)→持续的兴奋收缩→咀嚼肌痉挛→张口痉挛牙关紧闭
+**** [[5-羟色胺]]([[5-HT]])
+** 受体
+:PROPERTIES:
+:END:
+*** 结构:离子通道与受体是^^同一个蛋白质^^
+*** 类型
+:PROPERTIES:
+:END:
+**** 非选择性阳离子通道型受体:结合的配体有 ^^[[ACh]], [[5-HT]], [[谷氨酸]]^^
+**** 阴离子通道受体结合的配体有: ^^[[GABA]], [[甘氨酸]]^^
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 当[[GABA]]结合突触后膜上的[[GABA-A受体]]或[[GABA-C受体]]→Cl⁻通道打开→Cl⁻内流→突触后膜产生抑制性电位[[IPSP]]
+**** [[如何记忆]] [[谷氨酸]]与 [[甘氨酸]]谁是结合阳离子谁是结合阴离子受体? #card
+:PROPERTIES:
+:END:
+***** 谷子要晒太 <span style="color:red;">阳</span>,甘霖要等 <span style="color:red;">阴天</span>
+**** [[ACh]]的M-R是何[[G蛋白耦联受体]],N受体才是何^^离子通道型^^受体? #card
+:PROPERTIES:
+:id: 634f848e-417c-456b-895f-54ca0b92432f
+:END:
+[[GABA-B受体]]是 [[G蛋白耦联受体]], [[GABA-A受体]]与 [[GABA-C受体]]是^^离子通道型受体^^
+[[如何记忆]]? 
+#+BEGIN_TIP
+记忆为BGM
+#+END_TIP
+* [[G蛋白耦联受体]]([[GPCR]])
+:PROPERTIES:
+:collapsed: true
+:END:
+** G蛋白由哪些亚基构成? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** α,β,γ三个亚基构成
+** G蛋白与[[GDP]]和[[GTP]]结合时的活性如何变化? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 与[[GDP]]结合时无活性
+*** 与[[GTP]]结合时有活性
+** [[G蛋白]]主要是哪个亚基与[[GDP]]和[[GTP]]结合? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** α亚基 [[../assets/image_1665756897152_0.png]]
+** α亚基本身具有何种活性? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** GTP酶使G蛋白在失活态与激活态之间相互变化
+[[霍乱]]使α亚基的GTP酶活性失活使得其与GTP一直结合,持续处于激活状态
+** 与G蛋白耦联的受体是? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 7跨膜受体
+** G蛋白的激活过程为? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 激素与七跨膜受体结合后→α亚基与GTP结合→与β与γ分离
+*** G蛋白激活下游的效应器
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 如激活[[AC]]→ATP变为[[cAMP]]→[[PKA]](依赖环[[腺苷]]酸的蛋白激酶)
+:PROPERTIES:
+:collapsed: true
+:END:
+***** PKA属于[[丝苏氨酸激酶]]→使得下游蛋白质磷酸化
+:PROPERTIES:
+:id: 63495ec3-5a6f-4eeb-92c8-0010798667da
+:END:
+****** 如使[[糖原合酶]]磷酸化后失活使得[[糖原]]合成减少
+****** 如使[[磷酸化酶激酶]]磷酸化后激活,使得[[磷酸化酶]]磷酸化→使得[[磷酸化酶]]活化→使得[[糖原]]分解增多
+
+如 [[胰高血糖素]]走此通路使得血糖升高
+**** PLC-IP₃-Ca²⁺/DG-PKC途径
+:PROPERTIES:
+:collapsed: true
+:END:
+***** PLC使得PIP₂变为IP₃(三磷酸肌醇)+DG(二脂酰甘油)
+:PROPERTIES:
+:collapsed: true
+:END:
+****** IP₃与IP₃受体结合使得内质网释放出Ca²⁺
+***** PKC由谁激活? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+****** Ca²⁺与[[DG]]一起激活[[PKC]]
+***** [[../assets/image_1665756110611_0.png]]
+**** [[如何记忆]]以[[cAMP]]作为第二信使的配体? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 3A3促胰高血糖素
+:PROPERTIES:
+:END:
+****** 3A:[[儿茶酚胺]][[CA]]
+****** 血管紧张素[[AngⅡ]]
+****** 血管升压素[[ADH]]
+***** 3促
+:PROPERTIES:
+:collapsed: true
+:END:
+****** 促甲状腺激素TSH
+****** ACTH
+****** FSH/LH
+**** 如何记忆以IP₃-Ca²⁺/DG作为第二信使的配体
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 3ATRH胃泌素
+****
+** 激活的G蛋白可以激活或抑制G蛋白效应器
+:PROPERTIES:
+:collapsed: true
+:END:
+*** Gs活化AC 如β-R
+*** GI抑制AC 如α₂-R
+*** Gq激活PLC 例如α₁
+*** Gt 激活cGMP-PDE→使cGMP变为5-GMP→例如光受体导致视杆细胞处的超极化型感受器电位
+*** [[../assets/image_1665757273134_0.png]]
+*** [[cAMP]]在不同部位的作用不同
+:PROPERTIES:
+:id: 634b816f-8d01-43a7-b715-a04a35b91c1d
+:END:
+**** 如在心肌中cAMP增加→心肌收缩力↑
+**** 支气管平滑肌cAMP↑→平滑肌舒张
+:PROPERTIES:
+:collapsed: true
+:END:
+***** [[氨茶碱]]导致PDE↓→使得cAMP↑→支气管平滑肌舒张
+***** [[沙丁胺醇]]→激动β₂-R→AC↑→cAMP↑→支气管平滑肌舒张
+** 蛋白激酶
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 催化蛋白质中的氨基酸发生^^磷酸化^^
+*** 发生^^磷酸化^^后的蛋白质活性可增加或下降
+*** [[如何记忆]]被磷酸化的氨基酸一般都是? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 老鼠屎 丝,苏,酪氨酸
+*** [[PKA]],[[PKC]],[[Ca²⁺-CaMK]]都是丝苏氨酸蛋白激酶
+* [[酶联型受体]]介导的信号转导
+:PROPERTIES:
+:END:
+
+#+BEGIN_TIP
+类似于离子通道型受体与,与GPCR相区别
+[[../assets/image_1665897178900_0.png]] 
+#+END_TIP
+** 酪氨酸激酶受体
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 配体
+:PROPERTIES:
+:END:
+**** [[生长因子]]:EGF(表皮生长因子),胰岛素样生长因子IGF
+**** [[胰岛素]]
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 胰岛素结合 [[酪氨酸激酶受体]]→使胰岛素受体底物([[IRS]])磷酸化
+:PROPERTIES:
+:background-color: #533e7d
+:END:
+
+{{embed ((63494e69-c540-497c-b788-79e07d13c12c))}}
+****** 可以通过Grb2通路
+****** 也可以通过PI3K,[[PIP3]]→PKB/AKT 胰岛素降糖的主要通路,*此通路也与生长有关*
+
+抑癌基因[[PTEN]]水解 [[PIP3]] 抑制此通路
+
+与胰高血糖素升糖做对比
+**** #+BEGIN_TIP
+生长激素
+- 可以走TKAR酪氨酸激酶结合型受体
+- 而其产生的IGF胰岛素样生长因子又可以走TKR
+-  而其中的转化生长因子又走的丝苏氨酸激酶受体
+#+END_TIP
+*** 通路
+:PROPERTIES:
+:id: 63556c30-8316-4fac-ab64-bdb1a57fb997
+:END:
+**** [[MAPK通路]]
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 如何记忆MAPK通路? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+****** 吉尔救RAS,KKK
+***** 在此通路中何为酪氨酸激酶? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+****** 受体 如EGFR
+****** 注意:MAPK/KK/KKK 为丝苏氨酸蛋白激酶
+***** EGF→EGFR酪氨酸激酶受体
+***** [[EGFR]]的酪氨酸激酶磷酸化何物质? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+****** 其自己,使自己称为含有磷酸化的酪氨酸的酶
+***** [[Grb2]]为什么能够承上起下? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+****** 其含有的SH₂结构域能够识别被磷酸化的酪氨酸激酶
+****** 其含有的SH₃结构域能够识别富含脯氨酸的蛋白质→[[SOS]]
+#+BEGIN_TIP
+[[如何记忆]]记忆为富不过三代
+#+END_TIP
+****** [[../assets/image_1665895322702_0.png]]
+***** [[SOS]](鸟苷酸交换蛋白)又被称为GEF/GRF(鸟苷酸交换因子与鸟苷酸释放因子)
+:PROPERTIES:
+:collapsed: true
+:END:
+****** 所谓的鸟苷酸交换是指将下游[[RAS]]蛋白的鸟苷酸[[GDP]]换为[[GTP]],成为有活性的
+***** [[RAS蛋白]]
+:PROPERTIES:
+:collapsed: true
+:END:
+****** 又称为小G蛋白或低分子量G蛋白
+****** 与G蛋白相比均能结合GTP/GDP且均具有GTP酶活性
+***** MAPKKK [[丝苏氨酸蛋白激酶]] RAF
+***** MAPKK [[丝苏氨酸蛋白激酶]]  MEK
+***** MAPK 丝裂原蛋白激酶 [[丝苏氨酸蛋白激酶]] ERK
+**** [[PI3K-PIP3-PKB/AKT]]
+:PROPERTIES:
+:collapsed: true
+:END:
+***** EFG与胰岛素均能走这条路
+***** PBK中存在一个PH结构域能够识别PIP3
+** 酪氨酸激酶结合型受体
+:PROPERTIES:
+:END:
+*** 受体本身没有活性,但是与之结合的[[JAK]],[[SRC]],[[TEC]],[[ZAP]]有酪氨酸激酶活性
+*** 配体:
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 生长因子,生长激素,EPO,干扰素,PRL,催产素,催乳素,白介素,.......
+**** 主要是调控增殖分化
+*** 通路
+:PROPERTIES:
+:collapsed: true
+:END:
+**** JAK-STAT(转录因子)
+**** SRC→FAK(转录因子)
+** 鸟苷酸环化酶受体
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 配体:[[钠尿肽]]([[ANP]],[[BNP]]),[[NO]],[[CO]]
+*** NO,CO为可溶性气体与胞质中的sGC(可溶性GC)结合发挥作用
+*** 通路:GC→cGMP→PKG
+*** 效应:如钠尿肽可拮抗[[RAAS]]
+** 丝苏氨酸激酶受体
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 配体:[[TGF-β]]
+*** 通路:TGF-β→[[SMAD]]
+***
+* [[招募型受体]]
+:PROPERTIES:
+:collapsed: true
+:END:
+** 自身没有酶的活性
+** 可以将[[酪氨酸激酶结合型受体]]看做一种类型的招募型受体
+** 配体主要是
+*** 细胞因子(例如白介素与集落刺激因子)
+** 效应主要是(调控造血细胞,免疫细胞功能)
+* [[第二信使]]
+** 如何记忆第二信使包括哪些? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** AD花生钙奶献给007
+*** A for cAMP
+*** D for DG [[甘油二酯]]
+*** 花生 for 花生四烯酸
+:PROPERTIES:
+:END:
+**** 如何记忆花生四烯酸代谢产物? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 白血病花钱 [[白三烯]]与[[前列腺素]](参与发热与疼痛 可用NSAIDS类 但是会导致其保护胃黏膜的作用下降 故可加用[[米索前列醇]])
+*** 钙 for Ca²⁺
+*** 奶 for cGMP谐音
+*** 献 for 神经酰胺
+*** 0 for IP3
+*** 0 for PIP3 注意不是PIP2 只为一种膜上的磷脂
+*** 7 for 气体
+** 有第二信使的途径
+:PROPERTIES:
+:collapsed: true
+:END:
+*** [[GPCR]]
+*** 鸟苷酸环化酶受体
+*** PI3K/AKT [[../assets/image_1665899294996_0.png]]
+*

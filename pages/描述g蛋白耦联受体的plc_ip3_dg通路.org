@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       eb216acc-8402-4c3c-af35-6c81dbe773c5
+:END:
+#+title: 描述G蛋白耦联受体的PLC-IP3-DG通路 
+#+creationTime: [2022-10-30 Sun 15:04] 
+* Keywords
+- 
+* Contents
+* Mnemonic
+
+#+DOWNLOADED: screenshot @ 2022-10-30 15:05:15
+[[file:../assets/20221030-150515_screenshot.png]]
+
+* Reference

@@ -1,0 +1,836 @@
+* {{cards 红宝书/Unit1-5}}
+** Summary: 51 items, 51 review counts [[2022-10-25]]
+*** Remembered:   35 (68%)
+*** Forgotten :   16 (31%)
+** Summary: 27 items, 27 review counts [[2022-10-24]]
+*** Remembered:   15 (55%)
+*** Forgotten :   12 (44%)
+** Summary: 1 items, 1 review counts [[2022-10-23]]
+:PROPERTIES:
+:collapsed: true
+:END:
+*** Remembered:   1 (100%)
+*** Forgotten :   0 (0%)
+** Summary: 17 items, 17 review counts [[2022-10-23]]
+:PROPERTIES:
+:collapsed: true
+:END:
+*** Remembered:   10 (58%)
+*** Forgotten :   7 (41%)
+* put a period to sth? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 1
+:card-next-schedule: 2022-10-27T03:05:13.165Z
+:card-last-interval: 4
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-23T03:05:13.165Z
+:END:
+** 中止某事.考虑到period有句号的意思
+* perish the thought? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 2
+:card-next-schedule: 2022-10-30T01:23:16.226Z
+:card-last-interval: 4.43
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-25T15:23:16.226Z
+:END:
+** 没门儿,甭想了
+* in the/its right/wrong perspective? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 1
+:card-next-schedule: 2022-10-27T03:03:22.779Z
+:card-last-interval: 4
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-23T03:03:22.779Z
+:END:
+** 正确的
+* enlarge on/upon? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 2
+:card-next-schedule: 2022-10-30T01:23:20.585Z
+:card-last-interval: 4.43
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-25T15:23:20.585Z
+:END:
+** 详述,细说
+* rake
+:PROPERTIES:
+:collapsed: true
+:END:
+** rake in? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 2
+:card-next-schedule: 2022-10-30T01:23:33.131Z
+:card-last-interval: 4.43
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-25T15:23:33.133Z
+:END:
+*** (轻易地)赚大钱 rake 做动词有耙,梳理的意思→把钱耙成一堆
+*** {{embed ((6354bae8-e69e-4c6a-9d08-cd194d773f37))}}
+** rake up? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 1
+:card-next-schedule: 2022-10-27T03:08:16.912Z
+:card-last-interval: 4
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-23T03:08:16.912Z
+:END:
+*** 朝花夕拾 rake做动词有检索的意思
+* at any rate? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 1
+:card-next-schedule: 2022-10-27T03:05:04.765Z
+:card-last-interval: 4
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-23T03:05:04.766Z
+:END:
+** 无论如何
+* by a ratio of? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 2
+:card-next-schedule: 2022-10-30T01:23:35.446Z
+:card-last-interval: 4.43
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-25T15:23:35.446Z
+:END:
+** 根据....的比率
+* sense
+:PROPERTIES:
+:collapsed: true
+:END:
+** make sense? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 2
+:card-next-schedule: 2022-10-30T01:23:18.353Z
+:card-last-interval: 4.43
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-25T15:23:18.353Z
+:END:
+*** 讲得通 sense有道理合理性的意思
+** in a sense? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 2
+:card-next-schedule: 2022-10-30T01:23:27.703Z
+:card-last-interval: 4.43
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-25T15:23:27.704Z
+:END:
+*** 从某种意义上说 sense有合理的意思
+* in sequence? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 1
+:card-next-schedule: 2022-10-27T03:11:55.275Z
+:card-last-interval: 4
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-23T03:11:55.275Z
+:END:
+** 依次,逐一
+* token
+:PROPERTIES:
+:collapsed: true
+:END:
+** in token of? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 2
+:card-next-schedule: 2022-10-28T05:42:20.698Z
+:card-last-interval: 4.14
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-24T02:42:20.698Z
+:END:
+*** 作为...的标志 token有标志象征的意思
+*** 注意不能用 in sign/symbol of
+** by the same token? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 1
+:card-next-schedule: 2022-10-27T03:05:50.488Z
+:card-last-interval: 4
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-23T03:05:50.488Z
+:END:
+*** 由于相同的原因/同样地
+* when the chips are down? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 1
+:card-next-schedule: 2022-10-27T03:04:44.966Z
+:card-last-interval: 4
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-23T03:04:44.966Z
+:END:
+** 当紧要关头在关键时刻.当土豆被削成薄片的时候不要被砍到手了!
+**
+* by choice? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 1
+:card-next-schedule: 2022-10-27T03:04:39.029Z
+:card-last-interval: 4
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-23T03:04:39.030Z
+:END:
+** 凭爱好
+* booming? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 1
+:card-next-schedule: 2022-10-27T03:05:54.521Z
+:card-last-interval: 4
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-23T03:05:54.522Z
+:END:
+** 兴旺发达的
+* People may have different *[[version]]s* of the same matter? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 1
+:card-next-schedule: 2022-10-27T03:03:42.220Z
+:card-last-interval: 4
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-23T03:03:42.220Z
+:END:
+** 说法,看法
+* cargo vessel? #card
+:PROPERTIES:
+:card-last-score: 5
+:card-repeats: 1
+:card-next-schedule: 2022-10-27T03:04:17.592Z
+:card-last-interval: 4
+:card-ease-factor: 2.6
+:card-last-reviewed: 2022-10-23T03:04:17.592Z
+:END:
+** 货船,载货船
+* address oneself to sth? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 1
+:card-next-schedule: 2022-10-28T05:41:54.216Z
+:card-last-interval: 4.14
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-24T02:41:54.216Z
+:END:
+** 把注意力集中于某问题
+* adjust  to sth? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 1
+:card-next-schedule: 2022-10-28T05:40:16.527Z
+:card-last-interval: 4.14
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-24T02:40:16.527Z
+:END:
+** 适应某事
+* She braced（herself）up and tried once more. [[brace up]]? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 1
+:card-next-schedule: 2022-10-28T05:38:28.136Z
+:card-last-interval: 4.14
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-24T02:38:28.136Z
+:END:
+** 打起精神,重新鼓起勇气
+* brain
+:PROPERTIES:
+:collapsed: true
+:END:
+** brain drain? #card
+:PROPERTIES:
+:card-last-score: 5
+:card-repeats: 1
+:card-next-schedule: 2022-10-27T09:40:11.771Z
+:card-last-interval: 3.3
+:card-ease-factor: 2.6
+:card-last-reviewed: 2022-10-24T02:40:11.771Z
+:END:
+*** 人材外流
+** brain trust? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 1
+:card-next-schedule: 2022-10-28T05:41:43.451Z
+:card-last-interval: 4.14
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-24T02:41:43.452Z
+:END:
+*** 智囊团
+** beat one's brains(out) 费尽心思,动脑筋
+** [[rack]] one's brain(s)? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 2
+:card-next-schedule: 2022-10-30T01:20:57.778Z
+:card-last-interval: 4.43
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-25T15:20:57.779Z
+:END:
+*** 绞尽脑汁
+* branch
+:PROPERTIES:
+:collapsed: true
+:END:
+** branch out? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 2
+:card-next-schedule: 2022-10-30T01:22:09.788Z
+:card-last-interval: 4.43
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-25T15:22:09.788Z
+:END:
+*** 扩大业务范围
+** branch off? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 1
+:card-next-schedule: 2022-10-28T05:41:30.764Z
+:card-last-interval: 4.14
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-24T02:41:30.764Z
+:END:
+*** 走上歧路
+* brand
+:PROPERTIES:
+:collapsed: true
+:END:
+** be branded on one's memory? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 1
+:card-next-schedule: 2022-10-28T05:42:01.283Z
+:card-last-interval: 4.14
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-24T02:42:01.284Z
+:END:
+*** 被铭记在某人心中
+** be branded as? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 1
+:card-next-schedule: 2022-10-28T05:42:06.248Z
+:card-last-interval: 4.14
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-24T02:42:06.249Z
+:END:
+*** 被认为是
+* touch
+** /In his lecture he touched on the major aspects of the controversy/[[ touch on]]? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 1
+:card-next-schedule: 2022-10-28T05:41:39.640Z
+:card-last-interval: 4.14
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-24T02:41:39.641Z
+:END:
+*** 关系到某事
+** editing tools to help people touch up photos | [[touch up]]? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 2
+:card-next-schedule: 2022-10-30T01:20:54.938Z
+:card-last-interval: 4.43
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-25T15:20:54.939Z
+:END:
+*** 润色改进
+* vice versa? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 1
+:card-next-schedule: 2022-10-28T05:41:17.184Z
+:card-last-interval: 4.14
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-24T02:41:17.184Z
+:END:
+** 反之亦然
+* come out of the closet? #card
+:PROPERTIES:
+:card-last-score: 5
+:card-repeats: 1
+:card-next-schedule: 2022-10-27T09:41:04.529Z
+:card-last-interval: 3.3
+:card-ease-factor: 2.6
+:card-last-reviewed: 2022-10-24T02:41:04.529Z
+:END:
+** 公之于众
+* Everybody must abide by the highway [[code]]? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 2
+:card-next-schedule: 2022-10-30T01:23:23.914Z
+:card-last-interval: 4.43
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-25T15:23:23.914Z
+:END:
+** 每个人都必须遵守公路*法则*
+* personal
+** personal abuse? #card
+:PROPERTIES:
+:card-last-score: 1
+:card-repeats: 1
+:card-next-schedule: 2022-10-25T16:00:00.000Z
+:card-last-interval: -1
+:card-ease-factor: 2.5
+:card-last-reviewed: 2022-10-25T15:21:05.421Z
+:END:
+*** 人身攻击
+** personal effects? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 1
+:card-next-schedule: 2022-10-28T05:42:10.570Z
+:card-last-interval: 4.14
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-24T02:42:10.570Z
+:END:
+*** 私有财产 
+#+BEGIN_QUOTE
+1.  Also called: personal effects
+personal property or belongings
+#+END_QUOTE
+* in form? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 1
+:card-next-schedule: 2022-10-28T05:42:12.070Z
+:card-last-interval: 4.14
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-24T02:42:12.070Z
+:END:
+** 形式上
+* fortune
+** come in to a fortune? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 2
+:card-next-schedule: 2022-10-30T01:20:50.466Z
+:card-last-interval: 4.43
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-25T15:20:50.467Z
+:END:
+*** 继承大笔遗产
+** make a fortune? #card
+:PROPERTIES:
+:card-last-score: 3
+:card-repeats: 1
+:card-next-schedule: 2022-10-28T05:42:08.532Z
+:card-last-interval: 4.14
+:card-ease-factor: 2.36
+:card-last-reviewed: 2022-10-24T02:42:08.532Z
+:id: 6354bae8-e69e-4c6a-9d08-cd194d773f37
+:END:
+*** 发财
+* a [[foul]] [[soul]]? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-30T01:15:34.722Z
+:card-last-reviewed: 2022-10-25T15:15:34.722Z
+:card-last-score: 3
+:END:
+* take advantage of? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-10-25T16:00:00.000Z
+:card-last-reviewed: 2022-10-25T15:10:27.125Z
+:card-last-score: 1
+:END:
+** 利用....,占....便宜
+* It is [[advisable]] that..? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-10-25T16:00:00.000Z
+:card-last-reviewed: 2022-10-25T15:15:28.071Z
+:card-last-score: 1
+:END:
+** ...是明智的,可取的
+* affecting? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-30T01:15:08.551Z
+:card-last-reviewed: 2022-10-25T15:15:08.551Z
+:card-last-score: 3
+:END:
+** 动人的感人的
+* break
+** break in? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-30T01:17:04.385Z
+:card-last-reviewed: 2022-10-25T15:17:04.385Z
+:card-last-score: 3
+:END:
+*** 打断,插入.强行闯入
+** break out? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-10-25T16:00:00.000Z
+:card-last-reviewed: 2022-10-25T15:09:26.091Z
+:card-last-score: 1
+:END:
+*** 逃出.突发爆炸
+** break up? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-10-25T16:00:00.000Z
+:card-last-reviewed: 2022-10-25T15:14:28.515Z
+:card-last-score: 1
+:END:
+*** 终止
+** break down? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-30T01:17:17.637Z
+:card-last-reviewed: 2022-10-25T15:17:17.637Z
+:card-last-score: 3
+:END:
+*** 分解,破坏
+** break through? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-10-25T16:00:00.000Z
+:card-last-reviewed: 2022-10-25T15:10:22.145Z
+:card-last-score: 1
+:END:
+*** 逃出
+* breed
+** bread breed us? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-30T01:14:36.663Z
+:card-last-reviewed: 2022-10-25T15:14:36.663Z
+:card-last-score: 3
+:END:
+*** 面包养育了我们
+** a Chinese bred and born? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-30T01:17:06.450Z
+:card-last-reviewed: 2022-10-25T15:17:06.451Z
+:card-last-score: 3
+:END:
+*** 一个土生土长的中国人
+* The article's major flaw is its [[brevity]]
+** 这篇文章的主要缺点是太简略
+** 简洁,简练
+* [[Collective]] leadership is important in the government? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-30T01:14:13.059Z
+:card-last-reviewed: 2022-10-25T15:14:13.059Z
+:card-last-score: 3
+:END:
+** 集体的
+* commend itself to? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-10-25T16:00:00.000Z
+:card-last-reviewed: 2022-10-25T15:17:46.918Z
+:card-last-score: 1
+:END:
+** 给...好印象
+* out of the common? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-30T01:15:10.860Z
+:card-last-reviewed: 2022-10-25T15:15:10.860Z
+:card-last-score: 3
+:END:
+** 非同寻常的
+* Content [[determine]]s form #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-30T01:17:13.126Z
+:card-last-reviewed: 2022-10-25T15:17:13.126Z
+:card-last-score: 3
+:END:
+** 决定,决心
+* Her explanation sounded [[plausible]] #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-30T01:15:06.581Z
+:card-last-reviewed: 2022-10-25T15:15:06.581Z
+:card-last-score: 3
+:END:
+** 似乎有道理的
+* plot to do sth? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-30T01:19:31.026Z
+:card-last-reviewed: 2022-10-25T15:19:31.026Z
+:card-last-score: 3
+:END:
+** 密谋做某事
+* ponderous? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-10-25T16:00:00.000Z
+:card-last-reviewed: 2022-10-25T15:14:09.599Z
+:card-last-score: 1
+:END:
+** adj.笨重的，（指讲话、文章
+风格等）沉闷的，乏味的
+* brisk
+** The business is brisk in this supermarket. #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-30T01:14:57.457Z
+:card-last-reviewed: 2022-10-25T15:14:57.457Z
+:card-last-score: 3
+:END:
+*** 兴隆繁荣的
+** The actress is walking at a brisk pace #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-30T01:16:33.367Z
+:card-last-reviewed: 2022-10-25T15:16:33.367Z
+:card-last-score: 3
+:END:
+*** 轻快的,生机勃勃的
+* aggravate? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-10-25T16:00:00.000Z
+:card-last-reviewed: 2022-10-25T15:13:59.280Z
+:card-last-score: 1
+:END:
+** ag（为了）+grav（重的）+ate（动词后缀）一>加重
+* aggregate
+** in （the） aggregate? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-10-25T16:00:00.000Z
+:card-last-reviewed: 2022-10-25T15:07:40.030Z
+:card-last-score: 1
+:END:
+*** 总数,总计
+** on aggregate? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-30T01:15:01.287Z
+:card-last-reviewed: 2022-10-25T15:15:01.287Z
+:card-last-score: 3
+:END:
+*** 总分
+* agitate
+** agitate for? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-30T01:17:15.670Z
+:card-last-reviewed: 2022-10-25T15:17:15.671Z
+:card-last-score: 3
+:END:
+*** 煽动
+** agitate against? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-10-25T16:00:00.000Z
+:card-last-reviewed: 2022-10-25T15:15:16.946Z
+:card-last-score: 1
+:END:
+*** 鼓吹反对
+* Night and day [[alternate]]? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-30T01:19:22.261Z
+:card-last-reviewed: 2022-10-25T15:19:22.263Z
+:card-last-score: 3
+:END:
+** 轮流 交替
+* comparable and comparative? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-30T01:17:02.701Z
+:card-last-reviewed: 2022-10-25T15:17:02.701Z
+:card-last-score: 3
+:END:
+** 可比较的与相比之下
+* compete→[[competent]]? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-30T01:07:52.028Z
+:card-last-reviewed: 2022-10-25T15:07:52.029Z
+:card-last-score: 3
+:END:
+** 有能力胜任的
+* comply→[[compliment]]→[[complement]]? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-30T01:20:06.819Z
+:card-last-reviewed: 2022-10-25T15:20:06.819Z
+:card-last-score: 3
+:END:
+** 遵从→恭维→补充,补足
+* I fully [[endorse]] your opinion on this subject? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-10-25T16:00:00.000Z
+:card-last-reviewed: 2022-10-25T15:10:17.811Z
+:card-last-score: 1
+:END:
+** 赞同
+* in the outset? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-30T01:12:22.810Z
+:card-last-reviewed: 2022-10-25T15:12:22.810Z
+:card-last-score: 3
+:END:
+** 在一开始的时候
+* He [[specialize]]s in modem language? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-30T01:16:28.836Z
+:card-last-reviewed: 2022-10-25T15:16:28.836Z
+:card-last-score: 3
+:END:
+** 专攻,专门研究
+* it was [[acclaim]]ed as a great discovery? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-10-25T16:00:00.000Z
+:card-last-reviewed: 2022-10-25T15:11:37.277Z
+:card-last-score: 1
+:END:
+** 称赞,赞扬
+* accomodate
+** accomodate to? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-30T01:15:12.304Z
+:card-last-reviewed: 2022-10-25T15:15:12.304Z
+:card-last-score: 3
+:END:
+*** 改变以适应
+** accomodate with? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-10-25T16:00:00.000Z
+:card-last-reviewed: 2022-10-25T15:17:09.034Z
+:card-last-score: 1
+:END:
+*** 向...提供方便
+* charge
+** in charge of? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-10-25T16:00:00.000Z
+:card-last-reviewed: 2022-10-25T15:15:19.810Z
+:card-last-score: 1
+:END:
+*** 对..负责
+* The land slopes to the sea by a  [[gradual]] descent? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-30T01:17:36.771Z
+:card-last-reviewed: 2022-10-25T15:17:36.771Z
+:card-last-score: 3
+:END:
+** 逐渐的
+* a storm is [[imminent]]? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-10-25T16:00:00.000Z
+:card-last-reviewed: 2022-10-25T15:07:28.201Z
+:card-last-score: 1
+:END:
+** 不好的事即将来临的
+* likely→[[likelihood]]? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-30T01:14:01.443Z
+:card-last-reviewed: 2022-10-25T15:14:01.444Z
+:card-last-score: 3
+:END:
+** 可能地→可能性
+*

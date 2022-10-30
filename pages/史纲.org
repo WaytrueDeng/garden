@@ -1,0 +1,158 @@
+:PROPERTIES:
+:ID:       2623a50e-a184-42f3-bbb5-19df2d4d59eb
+:END:
+#+title: 史纲
+* 进入近代后中华民族的磨难与抗争
+** 中国近代史的起点?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** [[鸦片战争]]
+** 近代中国的主要矛盾和历史任务
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 如何记忆近代中国的主要矛盾是?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 帝国主义与中华民族的矛盾 记成外部矛盾
+**** 封建主义和人民大众的矛盾 记成内部矛盾
+** 抵御外国武装侵略，争取民族独立的斗争
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 中国近代史上中国人民第一次大规模的反侵略武装斗争?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 广州三元里人民的抗英斗争
+*** 瓜分中国的狂潮到来的标志?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 中日[[甲午战争]]和《[[马关条约]]》的签订。
+*** 反侵略战争失败的根本原因?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 社会制度的腐败
+*** 中国人民的民族意识普遍觉醒于?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** [[甲午战争]]后
+*** 近代中国睁眼看世界的第一人是?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 林则徐
+*** 师夷长技以制夷由谁于何书中提出?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 魏源:海国图志
+*** 响亮地喊出了"救亡"的口号的是?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 严复
+*** 不仅主张学习西方的科学技术，同时也要求吸纳西方的政治、经济学说的是哪四人?
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 王薛马郑
+**** 王韬、薛福成、马建忠、郑观应等人
+** [[鸦片战争]]使中国完全沦为半殖民地半封建社会了吗？
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 鸦片战争以后，中国是"逐步"沦为半殖民地半封建社会的，"逐步"两个字很关键。
+** 中国完全沦为半殖民地半封建社会是在?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 《[[辛丑条约]]》签订以后
+** 近代以后，中国最早产生的新阶级是哪个阶级?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 工人阶级和资产阶级都是新产生的阶级，都与新生产方式相结合。工人阶级是最早产生的新兴阶级，早于中国资产阶级
+** [[小资产阶级]]属于资产阶级吗?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 小资产阶级不属于资产阶级，属于劳动人民的范畴，是先进阶级。
+** [[小资产阶级]]与资产阶级最大的区别在于?
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 它虽然小有资产，但是自食其力，不剥削其他劳动者
+** 为什么要一切从国情出发？
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 国情决定矛盾，矛盾决定任务，有了任务之后才有革命的性
+质、道路、路线等一系列问题。这类知识点要按照这个逻辑进行
+归类
+* 不同社会力量对出路的探索
+** 太平天国由盛转衰的分水岭是 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-30T12:57:41Z
+:FC_TYPE:  normal
+:ID:       32913eed-771c-4165-ad9f-e3b762c72b3e
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-30T12:57:41Z |
+:END:
+*** 天京事变
+** 最能体现太平天国社会理想和这次农民起义特色的纲领性文件及其进步性 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-30T13:00:58Z
+:FC_TYPE:  normal
+:ID:       3f811459-6e7f-40c9-af05-a48553168b11
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-30T13:00:58Z |
+:END:
+*** 天朝田亩制度:其从根本上否定了封建社会的基础
+** 太平天国农民战争失败的根本原因 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-30T13:01:57Z
+:FC_TYPE:  normal
+:ID:       20260cad-d269-4265-8365-fa5e5569fbd0
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-30T13:01:57Z |
+:END:
+*** 农民阶级的局限性
+** 洋务运动失败的根本原因是 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-30T13:07:33Z
+:FC_TYPE:  normal
+:ID:       4cb58334-d0d5-4fae-9ad1-9c17fa253911
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-30T13:07:33Z |
+:END:
+*** 洋务运动具有封建性
+** 太平天国有没有彻底废除封建土地剥削制度 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-30T13:11:24Z
+:FC_TYPE:  normal
+:ID:       d2ad76ca-b116-45db-8f51-d733016e8647
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-30T13:11:24Z |
+:END:
+*** 没有。说其“主张废除”是对的，说其“彻底否定”也是对的，但是说其“废除了封建土地剥削制度”就是错的

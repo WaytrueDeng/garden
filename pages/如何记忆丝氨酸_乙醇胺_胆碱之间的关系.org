@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       34884562-1374-482d-a1fa-61eab661e0d6
+:END:
+#+title: 如何记忆丝氨酸-乙醇胺-胆碱之间的关系 
+#+creationTime: [2022-10-30 Sun 14:15] 
+* Keywords
+- 
+* Contents
+- [[roam:丝氨酸]]脱羧变为[[roam:乙醇胺]]再甲基化变成胆碱
+* Mnemonic
+  #+DOWNLOADED: screenshot @ 2022-10-30 14:20:18
+  - [[file:../assets/丝氨酸乙醇胺胆碱之间的关系.png]]
+
+* Reference

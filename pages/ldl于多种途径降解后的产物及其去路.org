@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       e2b12f68-8ad9-43be-9344-39f9f8da3abc
+:END:
+#+title: LDL于多种途径降解后的产物及其去路 
+#+creationTime: [2022-10-30 Sun 12:58] 
+* Keywords
+-
+* Contents
+- 产物主要是胆固醇
+- 更新细胞膜
+- 转变为胆固醇脂
+- 转变为脂肪酸
+- 抑制[[roam:LDL受体]]与[[roam:HMG-CoA还原酶]]
+* Mnemonic
+* Reference

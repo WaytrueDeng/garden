@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       64614ba0-f1df-442b-b5c5-e49c874cf1d8
+:END:
+#+title: VLDL 
+#+creationTime: [2022-10-30 Sun 12:38] 
+* Keywords
+- 
+* Contents
+* Mnemonic
+* Reference

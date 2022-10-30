@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       fd7cddab-90bc-4526-8c29-b0a1829735b5
+:END:
+#+title: LPL 
+#+creationTime: [2022-10-30 Sun 12:38] 
+* Keywords
+- 
+* Contents
+* Mnemonic
+* Reference

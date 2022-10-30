@@ -1,0 +1,4 @@
+* :PROPERTIES:
+:heading: 1
+:END:
+# waytruewiki

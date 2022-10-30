@@ -1,0 +1,24 @@
+* :PROPERTIES:
+:title: 天天师兄/内科学/呼吸系统/COPD
+:END:
+* 慢支与COPD首先累及? #card
+** 慢支首先累及大气道
+** COPD首先累及小气道
+* 提示小气道阻塞的指标包括? #card
+** 最大呼气流速容量曲线[[MEFV]]↓
+** [[闭合容积]]↑
+** 动态顺应性↓.静态顺应性↑
+* COPD造成低氧血症的机制包括? #card
+** 通气功能障碍肺泡通气量下降
+** 换气功能障碍(Va/A失调)与弥散功能障碍
+** #+BEGIN_TIP
+所以COPD既可以为Ⅰ型呼衰,又可以为Ⅱ型呼衰
+#+END_TIP
+* [[如何记忆]]COPD的三大并发症? #card
+** C for circulation 右心功能不全
+** O for Oxygen 低氧血症
+** P for pneumothorax 气胸
+* 哪些疾病会导致肺透亮度增加? #card
+** 气多了:COPD,哮喘
+** 血少了:肺动脉栓塞
+*

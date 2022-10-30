@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       d8958631-73d2-4d1b-8968-5767d91a642b
+:END:
+#+title: CM 
+#+creationTime: [2022-10-30 Sun 12:38]  

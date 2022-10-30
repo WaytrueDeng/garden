@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       84b87148-c529-45bb-a703-1d5faea715e2
+:END:
+#+title: ox-LDL被何受体所介导的途径降解 
+#+creationTime: [2022-10-30 Sun 13:08] 
+* Keywords
+- [[id:cef3fadb-5da2-47bb-b46d-df8bdc563c5f][清道夫受体]],其无法通过[[id:0a0c2544-ba7b-495a-8295-c5effda38046][LDL受体]]而被降解
+* Contents
+* Mnemonic
+* Reference

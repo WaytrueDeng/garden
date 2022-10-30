@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       314ed6c8-a8d8-4548-ba0c-3127eca044a3
+:END:
+#+title: 如何记忆脂蛋白的胆固醇含量
+#+creationTime: [2022-10-30 Sun 13:27] 
+* Keywords
+- 
+* Contents
+- [[id:81486fd4-409e-40e9-962e-63079d7a64ad][LDL]]>[[roam:HDL]]>[[id:64614ba0-f1df-442b-b5c5-e49c874cf1d8][VLDL]]>[[id:d8958631-73d2-4d1b-8968-5767d91a642b][CM]]
+* Mnemonic
+- 记忆为两盒维C
+* Reference
+
+

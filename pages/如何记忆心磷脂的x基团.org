@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       aa145e57-1daa-41c4-97e7-901d05a3fae4
+:END:
+#+title: 如何记忆心磷脂的X基团
+#+creationTime: [2022-10-30 Sun 14:09] 
+* Keywords
+- [[roam:心磷脂]]
+* Contents
+- [[roam:磷酯酰甘油]]
+* Mnemonic
+- 两个磷酸甘油心连心手拉手
+* Reference
+
+

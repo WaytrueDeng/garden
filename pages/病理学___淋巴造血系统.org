@@ -1,0 +1,109 @@
+* 主要考察的是淋巴瘤,因为淋巴瘤需要病理科诊断,白血病检验科就行
+* {{embed ((63556d9d-c45d-44e6-9d0d-fd2b675f2ba7))}}
+* [[HL]]
+** 如何记忆典型的 [[R-S细胞]]的病理特点? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 三大一红无分裂
+*** 三大:细胞大,核大,核仁大
+*** 一红:核仁红
+*** 一般无核分裂象 如何理解其一般无核分裂象因为其还可以见于其他细胞
+:PROPERTIES:
+:id: 6359fb6a-578b-452b-916a-bb6c5945c28b
+:END:
+*** {{embed ((63556d9d-81e6-4846-83ec-fc8ed11d1013))}}
+** 预后最好的淋巴瘤是? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** ((63556d9d-bb68-4f62-88f3-8a8a33c8b160))
+** 只要是经典的 [[HL]]都有典型的何细胞? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** [[R-S细胞]]
+** 如何记忆[[CHL]]中的[[结节硬化型]]的特点? #card
+*** 结节→姐姐→*青年妇女*→胸→*纵隔肿块*
+*** 结节硬化→*纤维化*→生硬的感觉→*不易向其他类型转变*
+** 如何记忆内科学与病理学认为 [[HL]]的发病率排序? #card
+*** 内科学:婚戒,病理学结婚.先有症状,先有婚戒>混合细胞型>淋巴细胞减少型
+* [[NHL]]
+** 我国成人最常见的 [[NHL]]是? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** [[弥漫大B细胞型淋巴瘤]]
+** 欧美成人最常见的 [[NHL]]是? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** [[小淋巴/CLL]] 
+#+BEGIN_QUOTE
+{{embed ((63556d9d-6443-4b39-a61e-79f13dff0e71))}}
+#+END_QUOTE
+** 15岁以下最常见的 [[NHL]]是? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** {{embed ((63556d9d-b079-4cf3-8260-e2df84c1b18a))}}
+** [[弥漫大B细胞型淋巴瘤]]
+:PROPERTIES:
+:collapsed: true
+:END:
+*** {{embed ((63556d9d-ddc0-4018-9232-7192ad8f8434))}}
+*** [[弥漫大B细胞型淋巴瘤]]双表达是指? #card
+**** [[myc]]+ [[BCL-2]]的双表达
+*** [[弥漫大B细胞型淋巴瘤]]双打击是指? #card
+**** [[myc]]+ [[BCL-2]]或 [[BCL-6]]的异位
+** [[滤泡淋巴瘤]]
+:PROPERTIES:
+:collapsed: true
+:END:
+*** {{embed ((63556d9d-b707-4346-bc1c-27e4057204b1))}}
+***
+** [[小淋巴/CLL]]
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 如何理解[[小淋巴/CLL]]是慢粒? #card
+**** 因为淋巴细胞的成熟是体积变小的过程,所以越成熟体积越小
+*** {{embed ((63556d9d-6443-4b39-a61e-79f13dff0e71))}}
+** [[淋巴母细胞淋巴瘤]]
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 如何记忆 [[B-ALL]]与 [[T-ALL]]的常见人群? #card
+**** B for boy 常见于儿童
+**** T for teenager常见于青少年
+*** 如何理解WBC数量超过100x10^9 所见于何种白血病? #card
+**** 肯定不见于急性白血病,只有慢性白血病在那慢慢造才能超过100
+****
+** [[Burkitt]]
+*** #反常识 虽然是淋巴瘤但是Burkitt地方型最易累及的是? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 颌骨
+*** [[满天星现象]]是指? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 瘤细胞间是有胞质丰富的巨噬细胞→没有特异性,但可以提示疾病的预后差
+*** 如何记忆 [[满天星现象]] 还可以见于? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+**** [[Burkitt]] [[套细胞淋巴瘤]],[[AIDS]], [[前体细胞淋巴瘤]]
+**** 在*勃*之*前*戴*套*可以防[[AIDS]]
+*** [[Burkitt]]侵犯到骨髓就可以被认为是? #card
+**** L3
+** ((63556d9c-0ae4-44b0-bc1c-d8de6d13380d))
+***
+** [[套细胞淋巴瘤]]
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 如何记忆惰性淋巴瘤中侵袭性最将淋巴瘤是? #card
+**** [[套细胞淋巴瘤]]:在内科学中甚至都不认为其为惰性淋巴瘤
+***

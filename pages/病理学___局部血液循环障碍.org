@@ -1,0 +1,109 @@
+* 描述右心衰肝淤血时槟榔杆的病理变化为? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+** 小液中央血窦扩张淤血呈暗红色+周边肝细胞脂肪变性呈黄色
+* 肝的脂肪变性首先发生于小叶中央还是小叶周边? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+** 小叶中央,但是由于太严重了导致坏死等,所以在槟榔肝时仅见小叶周边有脂肪变性
+* [[含铁血黄素]]尿试验阳性见于急性还是慢性血管内溶血? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+** 慢性,因为产生含铁血黄素需要时间
+* 慢性血管内溶血经常考的疾病是? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+** [[PNH]]
+* [[肺肉质变]]见于何疾病其表现为? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+** 大叶性肺炎/机化性肺炎,病变肺呈褐色肉样外观
+* 大叶性肺炎常累及双侧肺还是单侧肺? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+** 单侧肺,与慢性左心衰表现的肺褐色硬化相鉴别
+* 急性肺淤血与慢性肺淤血分别是何处发生肺水肿其X表现又有何差异? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+** 急性肺淤血是肺泡性肺水肿,表现为肺门蝴蝶征
+** 慢性肺淤血是间质性肺水肿,表现为kerleyB线
+* 急性左心衰致肺淤血肺泡腔内有心衰细胞吗? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+** 没有
+* [[血栓形成]]
+:PROPERTIES:
+:collapsed: true
+:END:
+** #多选 血栓形成的原因包括? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 内皮下细胞损伤→胶原暴露
+*** 血液缓慢涡流形成
+*** 血液凝固性增加
+** ((63556d9c-d518-4752-ae0f-5e2d718c0482))
+** 如何记忆连续性血栓? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 记忆成白刀进红刀子出
+*** 白色血栓在头部,红色血栓在尾部
+** 白色血栓教材里见于哪些疾病? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** [[风湿性心脏病]]的疣状血栓
+*** [[NSTEMI]]的白色血栓
+** #S 混合血栓见于哪些疾病? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 二狭左心房,心梗左心室,动脉粥样硬化溃疡,动脉瘤 
+#+BEGIN_TIP
+血液容易打转转,附着在壁上
+#+END_TIP
+** [[红色血栓主要见于何处?]]
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 下肢深静脉
+** 如何理解血栓再通? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 由于机化使得血栓脱水变窄,或者部分被溶解吸收,机化部分的肉芽组织内的血管内皮细胞长到形成的腔隙内形成新的血管腔
+*** [[../assets/image_1666702227861_0.png]]
+** 什么是静脉石与动脉石? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 静脉血栓钙化叫静脉石
+*** 动脉血栓钙化叫动脉石
+** #吹毛求疵防变态 肺栓塞来自于下肢深静脉的以膝以上还是膝以下多见? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 膝以上
+** [[脂肪栓塞]]除了见于长骨骨折外还可以见于? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 糖尿病人脂代谢紊乱
+* 梗死
+** #反常识 梗死最常见的原因是? #card
+*** 血栓形成.而不是栓塞
+** [[如何理解]]心肌梗死最重要的治疗? #card
+*** 因为是原位血栓形成所以最重要的是抗板而不是肺梗死时的溶栓
+** 如何理解[[肺梗死]]的条件包括而其中先决条件是? #card
+*** 严重淤血与组织疏松
+*** 而先决条件是严重淤血.因为肺是双重血供器官按道理是不容易梗死的,所以必须在严重淤血的基础上才能发生梗死.双重血供不是肺梗死的条件反而是不容易梗死的条件
+*** 只有组织疏松血液才能扩散才能表现为红色

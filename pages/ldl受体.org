@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       0a0c2544-ba7b-495a-8295-c5effda38046
+:END:
+#+title: LDL受体
+#+creationTime: [2022-10-30 Sun 13:09]  

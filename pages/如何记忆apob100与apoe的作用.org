@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       7e9024ee-7946-4426-847c-e604a5f32f57
+:END:
+#+title: 如何记忆apoB100与apoE的作用 
+#+creationTime: [2022-10-30 Sun 11:41] 
+* Keywords
+- [[roam:LDL]]
+* Contents
+- [[roam:apoB100]]与[[roam:apoE]]识别[[roam:LDL受体]]
+* Mnemonic
+- 拿下LDL冠军奖金100亿
+* Reference

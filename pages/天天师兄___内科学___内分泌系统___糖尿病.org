@@ -1,0 +1,403 @@
+* #+title: 天天师兄/内科学/内分泌系统/糖尿病
+* [[如何记忆]] [[IRS]]的分布部位
+:PROPERTIES:
+:id: 63494e69-c540-497c-b788-79e07d13c12c
+:END:
+** 1骨
+** 2肝B
+** 脑脂
+** 脑垂
+* 特殊类型的糖尿病与β细胞功能基因缺陷有关的主要考察哪两种疾病,分别有何特点? #card
+** MODY青少年中的成年人发病型糖尿病
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 常显遗传 与[[肥厚型心肌病]]相同
+*** 高度异质性
+*** 无酮症倾向,至少五年内不需要用胰岛素治疗
+** 线粒体基因突变糖尿病
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 常伴[[神经性耳聋]]
+*** 母系遗传(发病早)
+* Ⅰ型糖尿病发病机制主要是何种自身免疫? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+** T细胞介导的细胞免疫 [[../assets/image_1665901125054_0.png]]
+* Ⅱ型糖尿病的发病机制
+:PROPERTIES:
+:collapsed: true
+:END:
+** Ⅱ型糖尿病中的始发因素是? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** [[胰岛素抵抗]]
+**** 胰岛素抵抗机制包括? #card
+:PROPERTIES:
+:id: 634ba296-6462-4e59-a3e8-c1d58b18d225
+:END:
+***** 胰岛素信号转导受阻
+****** 炎症因子
+****** ^^脂质超载^^→肥胖与胰岛素抵抗密切相关
+** Ⅱ型糖尿病的关键因素是? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** β细胞功能缺陷
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 胰岛素分泌下降
+**** 胰岛素分泌模式异常
+***** 早时相分泌下降←胰岛素储存下降
+***** 晚时相峰值后移 与晚期 [[倾倒综合征]]做类比 [[餐后低血糖]]
+** [[胰高血糖素]]异常
+*** 哪些因素使得T2DM中的胰高血糖素发生异常? #card
+**** α/β细胞比例升高 毕竟β细胞减少了
+**** α细胞对葡萄糖的敏感性下降
+**** 胰高血糖素样肽-1(GLP-1下降)→胰高血糖素升高
+*** 什么是[[双高综合征]]? #card
+**** [[胰高血糖素]]本身是可以促进[[胰岛素]]分泌的,当前期胰岛B细胞数量尚未严重受损时可以使[[胰高血糖素]]与[[胰岛素]]一起升高
+****
+* 糖尿病的临床表现
+:PROPERTIES:
+:collapsed: true
+:END:
+** 三多一少
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 多尿
+:PROPERTIES:
+:collapsed: true
+:END:
+**** [[渗透性利尿]]
+*** 多饮
+*** 多食
+*** 体重减轻
+* 起病情况
+** [[如何记忆]]T1DM与T2DM的起病人群差异? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** Ⅰ型为40岁以下的瘦瘦多见:毕竟三多一少怎么胖的起来
+*** Ⅱ型为40岁以上的胖胖多见,毕竟脂质抵抗是其发病机制中的重要环节
+* 并发症
+** [[酮症酸中毒]]([[DKA]])
+:PROPERTIES:
+:collapsed: true
+:END:
+*** DKA最易见于T1DM
+*** 酮症酸中毒时的血酮体浓度标准? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+**** \>3mmol/L
+*** 酮体在细胞何处生成? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 肝线粒体内
+*** 血糖多在? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 16.7-33.3mmol/L
+*** 治疗
+:PROPERTIES:
+:collapsed: true
+:END:
+**** [[DKA]]最关键的治疗是? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 补液!
+:PROPERTIES:
+:collapsed: true
+:END:
+****** 一是对抗休克
+****** 二是改善微循环使得胰岛素能够分布到各种组织
+****** 补[[生理盐水]]
+**** [[胰岛素]]
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 种类:只能给短效/普通胰岛素/RI 只有其能静脉注射
+***** 剂量:给小剂量,可加首次负荷量10-20U,后0.1u/kg*h
+:PROPERTIES:
+:collapsed: true
+:END:
+****** 循证医学已经证明小剂量已经达到最优效果
+****** 大剂量可能导致血糖骤降
+****** 大剂量可能导致低钾血症
+***** 先用生理盐水+RI→当血糖降到13.9mmol/L→改用5%葡萄糖生理盐水或%葡萄糖+RI #未考过的极可能考点
+:PROPERTIES:
+:collapsed: true
+:END:
+****** 低血糖是可能死人的
+**** 补钾
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 补液稀释,胰岛素促进转入细胞,不恰当补碱都会导致低钾→即使治疗前血钾正常也需补钾
+***** 血K⁺正常
+:PROPERTIES:
+:collapsed: true
+:END:
+****** 尿量>40ml/h 立即补钾
+****** 尿量<30ml/h→待尿量增加补钾
+***** 血K⁺<3.5 立即补钾
+***** 血钾>5.5→暂缓补钾,观察下再补
+**** 补碱
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 仅重度的DKA pH<7.1或HCO₃⁻<5才补NaHCO₃
+***** 若不恰当补碱则可能导致
+:PROPERTIES:
+:collapsed: true
+:END:
+****** 解离曲线左移
+****** K⁺进入细胞内
+****** 反跳性碱中毒
+****** 反常性脑脊液酸中毒
+:PROPERTIES:
+:collapsed: true
+:END:
+******* CO₂穿过血脑屏障的速度>HCO₃⁻
+****** [[脑水肿]]
+:PROPERTIES:
+:collapsed: true
+:END:
+******* 不恰当补碱: 氧解离左移
+******* 缺氧
+******* 不恰当补液
+******* 血糖下降过快:→渗透压不平衡
+******* 渗透压不平衡
+******* 使用[[甘露醇]]:临床上用其来治疗脑水肿但事[[DKA]]所致的需要慎用[[甘露醇]]
+** {{embed ((6354d355-77ca-453a-a48d-05c541eaad4f))}}
+** DKA,HHS与低血糖昏迷如何鉴别? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** DKA与HHS为脱水所以皮肤为干燥的
+*** 低血糖时交感神经兴奋所以为潮湿的
+** 慢性并发症
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 糖尿病肾病多发生的在糖尿病病史超过多少年的人? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 10
+*** 糖尿病肾病Ⅲ期最重要的诊断指标是尿蛋白量为? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 微量蛋白尿30-300mg/d
+*** 慢性糖尿病Ⅰ,Ⅱ期为什么滤过增加? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 与内皮细胞通透性增加有关
+*** 糖尿病肾病的分期 
+#+BEGIN_TIP
+[[../assets/image_1665906213145_0.png]] 
+#+END_TIP
+*** 糖尿病肾病的首选治疗为何药? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+**** 用[[ACEI/ARB]]将血压降到130/80
+:PROPERTIES:
+:collapsed: true
+:END:
+***** 能减低尿蛋白
+***** 能增敏胰岛素受体
+**** 不宜用激素
+*** 糖尿病视网膜病变的分期
+:PROPERTIES:
+:collapsed: true
+:END:
+**** #+BEGIN_TIP
+[[../assets/image_1665906660583_0.png]] 
+#+END_TIP
+**** 软性渗出主要是渗出蛋白质
+***
+* 糖尿病的辅助检查
+:PROPERTIES:
+:collapsed: true
+:END:
+** 尿糖与血糖检查谁更重要? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 血糖
+*** 尿糖受肾糖阈影响,其与糖尿病无直接关系只能作为检查线索
+** 确诊标准 任一一项
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 空腹血糖:FPG>=7mmol/L(英语F for fasting 禁食 隔夜禁食8小时 第二日早上空腹测血糖)
+*** OGTT,2小时>11.1
+*** 症状,任意时间>11.1
+** 肾性糖尿有无糖耐量减低? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 无
+** 糖化血红蛋白能否显示瞬时水平? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 不能
+** 糖化血红蛋白能否显示血糖的波动情况? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 不能
+** 糖化血红蛋白能否显示曾经发生过的低血糖? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 不能
+** 糖化血糖的控制目标是小于? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 7%
+* 糖尿病的病情监测
+** [[../assets/image_1665908571261_0.png]]
+** 空腹血糖的监测指标为? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 4.4-7mmol/L
+** 非空腹血糖的监测指标为? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+*** <=10
+** 脂类LDL-C未合并ASCVD例如冠心病时要求小于? #card #未考过的极可能考点
+:PROPERTIES:
+:id: 6354d355-d129-4377-ab82-f9218358043b
+:END:
+*** 2.6mmol/L 爱点肉
+** 脂类LDL-C合并ASCVD时要求小于? #未考过的极可能考点
+:PROPERTIES:
+:id: 6354d355-7a97-4da1-988f-fc8d00c3a5da
+:END:
+*** 1.8 一点吧
+** 糖尿病治疗首选哪类降脂药?但是当何时需要换用另一种降脂药? #未考过的极可能考点
+:PROPERTIES:
+:collapsed: true
+:ID:       47ff2c70-c4e0-44b0-a4b3-aa039f00a52a
+:END:
+*** 首选[[他汀类]]药物,但是当甘油三酯>5.7时首选[[贝特类]],其目的是减少[[胰腺炎]]的发生
+*** 注意 甘油三酯的监测指标为<1.7
+* 糖尿病的治疗
+:PROPERTIES:
+:id: 634d59cc-1095-4588-ada0-5ea79180f669
+:END:
+** 瓜糖给胖胖,尿奶给瘦瘦
+** [[胰岛素]]
+:PROPERTIES:
+:END:
+*** T1DM当然是首选胰岛素,但是哪些情况的T2DM也需要使用呢? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+**** [[../assets/image_1665908949059_0.png]]
+*** 胰岛素的制剂类型
+:PROPERTIES:
+:collapsed: true
+:END:
+**** [[../assets/image_1665909536616_0.png]]
+*** 采用胰岛素替代治疗后的早晨空腹血糖仍较高,可能的原因是? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+**** [[../assets/image_1665909744292_0.png]]
+*** 当发生DKA,HHS,糖尿病肾病,糖心,糖视网膜时都选择何药物? #card
+:PROPERTIES:
+:collapsed: true
+:END:
+**** [[胰岛素]]
+** [[GLP-1]]与 [[DPP-Ⅳ]]
+:PROPERTIES:
+:collapsed: true
+:END:
+*** [[../assets/image_1665910347687_0.png]]
+*** [[../assets/image_1665981416215_0.png]]
+*** GLP-1有种减肥的感觉,所以适用于Ⅱ型肥胖者
+** [[双胍类]]
+:PROPERTIES:
+:END:
+*** 机制
+**** 使肝糖原的分解减少
+**** 增加靶组织对胰岛素的敏感性增加 T2DM? #card
+:PROPERTIES:
+:id: 634cdc4f-c848-4084-bb1a-25ec66982cff
+:END:
+**** 葡萄糖的摄取与无氧氧化增加
+**** 乳酸循环下降→无氧氧化增加+乳酸循环下降→该药有个*最严重*的不良反应就是乳酸酸中毒
+*** 特点
+**** 不增加体重,延缓血管并发症,改善血脂
+**** 最主要的不良反应是胃肠道反应,最严重的反应是乳酸酸中毒
+
+[[如何记忆]]: 将胍与阿卡波糖想象成固体不易消化
+*** 应用
+**** [[T2DM]]的一线药 ((634cdc4f-c848-4084-bb1a-25ec66982cff))? #card
+**** 禁用于
+***** 严重肾功能不全 GFR<45 乳酸排不走
+***** 严重肝功能不全
+*****
+***
+** [[α-糖苷酶抑制剂]]
+:PROPERTIES:
+:id: 634d59cc-1e6f-4ced-a287-fd59108e8d01
+:END:
+*** 特点
+**** 不增加体重
+**** 最主要的不良反应是胃肠道反应
+*** 应用
+**** 控制餐后高血糖,要求在进食第一口食物立即使用
+**** 禁用于慢性肠胃病
+** [[磺脲类]]
+:PROPERTIES:
+:collapsed: true
+:END:
+*** [[胰岛素的分泌机制]]
+**** 葡萄糖经过GLUT2进入胰岛B细胞→产生ATP增多→胰岛素敏感的钾通道关闭→细胞膜去极化→L型钙通道开放→Ca²⁺内流触发装有胰岛素的囊泡释放
+**** [[磺脲类]]与[[格列奈类]]通过作用于胰岛素敏感的钾通道,使之关闭,从而*非胰岛素依赖性*使胰岛素分泌
+**** 对比 [[GLP-1]]使葡萄糖释放为*胰岛素依赖型*,作用于GLP-1受体,使体内的ATP(ATP来源于葡萄糖的氧化)→cAMP
+**** 因此 [[磺脲类]]与 [[格列奈类]]相比于 [[GLP-1]]时的明显缺点是可能会造成明显的低血糖
+*** [[../assets/image_1665983385675_0.png]]
+** [[格列奈类]]
+:PROPERTIES:
+:id: 634d59cc-13cd-49fc-a5e4-28a0583911c0
+:END:
+*** 主要刺激胰岛素早时相分泌,起效快,持续短
+*** 低血糖的不良反应没有磺尿类常见
+** [[SGLT-2抑制剂]] #未考过的极可能考点
+:PROPERTIES:
+:collapsed: true
+:END:
+*** [[../assets/image_1665983908110_0.png]]
+*** [[SGLT-2]]主要存在近端小管,减少葡萄糖重吸收→肾糖阈降低
+*** [[../assets/image_1665984253018_0.png]]
+**** [[SGLT-2抑制剂]]对于内分泌,心内,与肾内均有改善作用
+*** [[../assets/image_1665984394488_0.png]]
+*** [[如何记忆]]:把所有都清干*净*
+*** [[慢性心衰]]的四架马车
+**** 金三角:ACEI/ARB, [[β受体阻滞剂]], [[醛固酮受体拮抗剂]]
+**** [[SGLT-2抑制剂]]
+****
+** 降低餐后血糖可以选用哪些药物? #card
+*** ((634d59cc-1e6f-4ced-a287-fd59108e8d01))适用于胖
+*** ((634d59cc-13cd-49fc-a5e4-28a0583911c0)),适用于瘦子
+**

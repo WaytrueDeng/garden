@@ -1,0 +1,38 @@
+* :PROPERTIES:
+:title: 天天师兄/外科学/大肠癌
+:END:
+* 哪些疾病是大肠癌的癌前病变? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-10-21T14:06:56.306Z
+:card-last-reviewed: 2022-10-17T14:06:56.307Z
+:card-last-score: 5
+:END:
+** ![image.png](../assets/image_1665667277156_0.png)
+* 大肠癌最早的表现是? #card
+** 排便习惯与粪便性状的改变
+* 为什么直肠癌首选直肠指检? #card
+** 因为70%为低位直肠癌
+* 如何记忆结肠癌的病理类型与分布特点? #card
+** 左浸右隆溃疡多,黏液胶样预后差
+* 现在**结肠癌**合并肠梗阻是否可以一期手术? #card
+** 可以
+** 但是若题目明显强调水肿,充血则不可,应做近端造口,远端封闭二期手术
+* 如何记忆直肠癌Miles术的指征? #card
+** ![image.png](../assets/image_1665668297722_0.png)
+** 腹膜返折以下
+** 齿状线上<5cm
+** 距离肛缘<7cm
+** 都是一个意思
+* 如何记忆Dixon术的指征? #card
+** \>=5cm/7cm
+* 什么情况下选择hartmann术? #card
+** Miles无法耐受
+** Dixon合并肠梗阻
+* 不同术式的图示
+** ![image.png](../assets/image_1665668698046_0.png)
+* 九版教材认为只要肛门外扩约肌与肛提肌未受累均可考虑做? #card
+** ![image.png](../assets/image_1665669064444_0.png)
+** Dixon

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       6e0985c2-b810-46b2-94c2-6418c5a09fa5
+:END:
+#+title: 如何记忆卵磷脂的X基团 
+#+creationTime: [2022-10-30 Sun 14:06] 
+* Keywords
+- 
+* Contents
+- [[roam:胆碱]]
+* Mnemonic
+- 胆碱谐音为蛋,看到蛋就要相当卵,看到卵就要想到蛋
+* Reference

@@ -2,7 +2,7 @@
 :ID:       d0dc0f13-850d-4b28-b23c-56e33d415c80
 :END:
 #+title: 红宝书Unit1-5
-* put a period to sth? :drill:
+* put a period to sth? :fc:
 :PROPERTIES:
 :collapsed: true
 :card-last-interval: 4
@@ -14,7 +14,7 @@
 :ID:       713be631-110b-404c-be9d-8a835cacfbcd
 :END:
 ** 中止某事.考虑到period有句号的意思
-* perish the thought? :drill:
+* perish the thought? :fc:
 :PROPERTIES:
 :collapsed: true
 :card-last-interval: 4.43
@@ -26,7 +26,7 @@
 :ID:       886a8252-95fc-4fb7-a719-860bd63f625b
 :END:
 ** 没门儿,甭想了
-* in the/its right/wrong perspective? :drill:
+* in the/its right/wrong perspective? :fc:
 :PROPERTIES:
 :collapsed: true
 :card-last-interval: 4
@@ -38,7 +38,7 @@
 :ID:       a2e4d500-6b6b-4079-9d44-9ee94d5ab1b7
 :END:
 ** 正确的
-* enlarge on/upon? :drill:
+* enlarge on/upon? :fc:
 :PROPERTIES:
 :collapsed: true
 :card-last-interval: 4.43
@@ -54,7 +54,7 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-** rake in? :drill:
+** rake in? :fc:
 :PROPERTIES:
 :card-last-interval: 4.43
 :card-repeats: 2
@@ -66,7 +66,7 @@
 :END:
 *** (轻易地)赚大钱 rake 做动词有耙,梳理的意思→把钱耙成一堆
 *** {{embed ((6354bae8-e69e-4c6a-9d08-cd194d773f37))}}
-** rake up? :drill:
+** rake up? :fc:
 :PROPERTIES:
 :collapsed: true
 :card-last-interval: 4
@@ -78,7 +78,7 @@
 :ID:       8a25d07c-6a43-430e-84d8-e0292196d249
 :END:
 *** 朝花夕拾 rake做动词有检索的意思
-* at any rate? :drill:
+* at any rate? :fc:
 :PROPERTIES:
 :collapsed: true
 :card-last-interval: 4
@@ -90,7 +90,7 @@
 :ID:       df0675a3-e3e2-4ec5-a8a7-4e0f59a5db4e
 :END:
 ** 无论如何
-* by a ratio of? :drill:
+* by a ratio of? :fc:
 :PROPERTIES:
 :collapsed: true
 :card-last-interval: 4.43
@@ -106,7 +106,7 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-** make sense? :drill:
+** make sense? :fc:
 :PROPERTIES:
 :collapsed: true
 :card-last-interval: 4.43
@@ -118,7 +118,7 @@
 :ID:       869a67f8-cd69-4887-b102-e1701feb4b61
 :END:
 *** 讲得通 sense有道理合理性的意思
-** in a sense? :drill:
+** in a sense? :fc:
 :PROPERTIES:
 :collapsed: true
 :card-last-interval: 4.43
@@ -130,7 +130,7 @@
 :ID:       ea11a666-d60f-4ef6-8cab-a68f289e3988
 :END:
 *** 从某种意义上说 sense有合理的意思
-* in sequence? :drill:
+* in sequence? :fc:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -146,13 +146,13 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-** in token of? :drill:
+** in token of? :fc:
 :PROPERTIES:
 :ID:       9025b960-4272-4307-a56a-61e8132a7050
 :END:
 *** 作为...的标志 token有标志象征的意思
 *** 注意不能用 in sign/symbol of
-** by the same token? :drill:
+** by the same token? :fc:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -163,7 +163,7 @@
 :ID:       bbce4cb8-fc25-4266-9840-477185291260
 :END:
 *** 由于相同的原因/同样地
-* when the chips are down? :drill:
+* when the chips are down? :fc:
 :PROPERTIES:
 :collapsed: true
 :card-last-interval: 4
@@ -176,7 +176,7 @@
 :END:
 ** 当紧要关头在关键时刻.当土豆被削成薄片的时候不要被砍到手了!
 **
-* by choice? :drill:
+* by choice? :fc:
 :PROPERTIES:
 :collapsed: true
 :card-last-interval: 4
@@ -188,7 +188,7 @@
 :ID:       ff1bb5fe-9fde-4e16-b9a5-ac41143f10be
 :END:
 ** 凭爱好
-* booming? :drill:
+* booming? :fc:
 :PROPERTIES:
 :collapsed: true
 :card-last-interval: 4
@@ -200,7 +200,7 @@
 :ID:       0ad6a1ad-cd7b-47b6-ad0d-2614813b9d6e
 :END:
 ** 兴旺发达的
-* People may have different *[[version]]s* of the same matter? :drill:
+* People may have different *[[version]]s* of the same matter? :fc:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -212,7 +212,7 @@
 :ID:       7c226237-6805-44c5-af59-4412cb3f93b7
 :END:
 ** 说法,看法
-* cargo vessel? :drill:
+* cargo vessel? :fc:
 :PROPERTIES:
 :collapsed: true
 :card-last-interval: 4
@@ -224,7 +224,7 @@
 :ID:       24b2aef8-262c-4dc9-a023-2dfe27502e1d
 :END:
 ** 货船,载货船
-* address oneself to sth? :drill:
+* address oneself to sth? :fc:
 :PROPERTIES:
 :collapsed: true
 :card-last-interval: 4.14
@@ -236,7 +236,7 @@
 :ID:       faa84c64-9012-4bed-9631-2ff0e92e02cc
 :END:
 ** 把注意力集中于某问题
-* adjust  to sth? :drill:
+* adjust  to sth? :fc:
 :PROPERTIES:
 :collapsed: true
 :card-last-interval: 4.14
@@ -248,7 +248,7 @@
 :ID:       0bb00f70-9200-4c75-a367-15f226ff20e3
 :END:
 ** 适应某事
-* She braced（herself）up and tried once more. [[brace up]]? :drill:
+* She braced（herself）up and tried once more. [[brace up]]? :fc:
 :PROPERTIES:
 :collapsed: true
 :card-last-interval: 4.14
@@ -264,7 +264,7 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-** brain drain? :drill:
+** brain drain? :fc:
 :PROPERTIES:
 :collapsed: true
 :card-last-interval: 3.3
@@ -276,7 +276,7 @@
 :ID:       6de61757-2709-4b04-a2fa-cf14df2e6f89
 :END:
 *** 人材外流
-** brain trust? :drill:
+** brain trust? :fc:
 :PROPERTIES:
 :collapsed: true
 :card-last-interval: 4.14
@@ -289,7 +289,7 @@
 :END:
 *** 智囊团
 ** beat one's brains(out) 费尽心思,动脑筋
-** [[rack]] one's brain(s)? :drill:
+** [[rack]] one's brain(s)? :fc:
 :PROPERTIES:
 :collapsed: true
 :card-last-interval: 4.43
@@ -304,7 +304,7 @@
 * branch
 :PROPERTIES:
 :END:
-** branch out? :drill:
+** branch out? :fc:
 :PROPERTIES:
 :card-last-interval: 4.43
 :card-repeats: 2
@@ -315,7 +315,7 @@
 :ID:       f83d2744-0c7c-4424-b494-4b9f3707a84a
 :END:
 *** 扩大业务范围
-** branch off? :drill:
+** branch off? :fc:
 :PROPERTIES:
 :card-last-interval: 4.14
 :card-repeats: 1
@@ -329,7 +329,7 @@
 * brand
 :PROPERTIES:
 :END:
-** be branded on one's memory? :drill:
+** be branded on one's memory? :fc:
 :PROPERTIES:
 :card-last-interval: 4.14
 :card-repeats: 1
@@ -340,7 +340,7 @@
 :ID:       37b9cd8b-ed8c-4362-8c81-37f01b63ea15
 :END:
 *** 被铭记在某人心中
-** be branded as? :drill:
+** be branded as? :fc:
 :PROPERTIES:
 :card-last-interval: 4.14
 :card-repeats: 1
@@ -352,7 +352,7 @@
 :END:
 *** 被认为是
 * touch
-** /In his lecture he touched on the major aspects of the controversy/[[ touch on]]? :drill:
+** /In his lecture he touched on the major aspects of the controversy/[[ touch on]]? :fc:
 :PROPERTIES:
 :collapsed: true
 :card-last-interval: 4.14
@@ -364,7 +364,7 @@
 :ID:       01a3100f-3d36-43e0-a4b2-2350b00557c4
 :END:
 *** 关系到某事
-** editing tools to help people touch up photos | [[touch up]]? :drill:
+** editing tools to help people touch up photos | [[touch up]]? :fc:
 :PROPERTIES:
 :collapsed: true
 :card-last-interval: 4.43
@@ -376,7 +376,7 @@
 :ID:       7f864025-c83d-4e58-8227-8fc5d8f872d2
 :END:
 *** 润色改进
-* vice versa? :drill:
+* vice versa? :fc:
 :PROPERTIES:
 :card-last-interval: 4.14
 :card-repeats: 1
@@ -387,7 +387,7 @@
 :ID:       23dee2d1-f112-4216-a1ad-e3934d479150
 :END:
 ** 反之亦然
-* come out of the closet? :drill:
+* come out of the closet? :fc:
 :PROPERTIES:
 :card-last-interval: 3.3
 :card-repeats: 1
@@ -398,7 +398,7 @@
 :ID:       76f30bc8-aee7-4cba-85df-19e7b4bdd602
 :END:
 ** 公之于众
-* Everybody must abide by the highway [[code]]? :drill:
+* Everybody must abide by the highway [[code]]? :fc:
 :PROPERTIES:
 :card-last-interval: 4.43
 :card-repeats: 2
@@ -410,7 +410,7 @@
 :END:
 ** 每个人都必须遵守公路*法则*
 * personal
-** personal abuse? :drill:
+** personal abuse? :fc:
 :PROPERTIES:
 :collapsed: true
 :card-last-interval: -1
@@ -422,7 +422,7 @@
 :ID:       863a40b3-62e7-4758-9db3-1ef81f977e16
 :END:
 *** 人身攻击
-** personal effects? :drill:
+** personal effects? :fc:
 :PROPERTIES:
 :collapsed: true
 :card-last-interval: 4.14
@@ -438,7 +438,7 @@
 1.  Also called: personal effects
 personal property or belongings
 #+END_QUOTE
-* in form? :drill:
+* in form? :fc:
 :PROPERTIES:
 :card-last-interval: 4.14
 :card-repeats: 1
@@ -450,7 +450,7 @@ personal property or belongings
 :END:
 ** 形式上
 * fortune
-** come in to a fortune? :drill:
+** come in to a fortune? :fc:
 :PROPERTIES:
 :collapsed: true
 :card-last-interval: 4.43
@@ -462,7 +462,7 @@ personal property or belongings
 :ID:       e4d32362-b82d-4bd0-b008-e9fd5f17dc1b
 :END:
 *** 继承大笔遗产
-** make a fortune? :drill:
+** make a fortune? :fc:
 :PROPERTIES:
 :id: 6354bae8-e69e-4c6a-9d08-cd194d773f37
 :collapsed: true
@@ -474,7 +474,7 @@ personal property or belongings
 :card-last-score: 3
 :END:
 *** 发财
-* a [[foul]] [[soul]]? :drill:
+* a [[foul]] [[soul]]? :fc:
 :PROPERTIES:
 :card-last-interval: 4.43
 :card-repeats: 1
@@ -484,7 +484,7 @@ personal property or belongings
 :card-last-score: 3
 :ID:       619841ff-c46d-4ef5-9ea6-fcdbe8ce6f01
 :END:
-* take advantage of? :drill:
+* take advantage of? :fc:
 :PROPERTIES:
 :card-last-interval: -1
 :card-repeats: 1
@@ -495,7 +495,7 @@ personal property or belongings
 :ID:       fb4d0427-8e15-4f9d-a2cf-00aee9836314
 :END:
 ** 利用....,占....便宜
-* It is [[advisable]] that..? :drill:
+* It is [[advisable]] that..? :fc:
 :PROPERTIES:
 :card-last-interval: -1
 :card-repeats: 1
@@ -506,7 +506,7 @@ personal property or belongings
 :ID:       79cc3d8c-5c0f-4746-95af-8fc4ebdfab44
 :END:
 ** ...是明智的,可取的
-* affecting? :drill:
+* affecting? :fc:
 :PROPERTIES:
 :card-last-interval: 4.43
 :card-repeats: 1
@@ -518,7 +518,7 @@ personal property or belongings
 :END:
 ** 动人的感人的
 * break
-** break in? :drill:
+** break in? :fc:
 :PROPERTIES:
 :card-last-interval: 4.43
 :card-repeats: 1
@@ -530,7 +530,7 @@ personal property or belongings
 :ID:       b3c2b959-5e7b-4ea1-a573-5d3c92b95e19
 :END:
 *** 打断,插入.强行闯入
-** break out? :drill:
+** break out? :fc:
 :PROPERTIES:
 :card-last-interval: -1
 :card-repeats: 1
@@ -542,7 +542,7 @@ personal property or belongings
 :ID:       b8f77206-1767-45d0-9f15-d1b9c66b9b95
 :END:
 *** 逃出.突发爆炸
-** break up? :drill:
+** break up? :fc:
 :PROPERTIES:
 :card-last-interval: -1
 :card-repeats: 1
@@ -554,7 +554,7 @@ personal property or belongings
 :ID:       f6aeebd9-7c7f-45a0-8c30-3151496b0aea
 :END:
 *** 终止
-** break down? :drill:
+** break down? :fc:
 :PROPERTIES:
 :card-last-interval: 4.43
 :card-repeats: 1
@@ -566,7 +566,7 @@ personal property or belongings
 :ID:       4bd6a49d-10ed-4be2-959e-83fdb3b28f94
 :END:
 *** 分解,破坏
-** break through? :drill:
+** break through? :fc:
 :PROPERTIES:
 :card-last-interval: -1
 :card-repeats: 1
@@ -579,7 +579,7 @@ personal property or belongings
 :END:
 *** 逃出
 * breed
-** bread breed us? :drill:
+** bread breed us? :fc:
 :PROPERTIES:
 :card-last-interval: 4.43
 :card-repeats: 1
@@ -590,7 +590,7 @@ personal property or belongings
 :ID:       d8d81ae5-9a16-451c-adf5-1a33ce290c83
 :END:
 *** 面包养育了我们
-** a Chinese bred and born? :drill:
+** a Chinese bred and born? :fc:
 :PROPERTIES:
 :card-last-interval: 4.43
 :card-repeats: 1
@@ -604,7 +604,7 @@ personal property or belongings
 * The article's major flaw is its [[brevity]]
 ** 这篇文章的主要缺点是太简略
 ** 简洁,简练
-* [[Collective]] leadership is important in the government? :drill:
+* [[Collective]] leadership is important in the government? :fc:
 :PROPERTIES:
 :card-last-interval: 4.43
 :card-repeats: 1
@@ -615,7 +615,7 @@ personal property or belongings
 :ID:       8cbcbbc3-001a-445e-a45a-6f3cae62fd18
 :END:
 ** 集体的
-* commend itself to? :drill:
+* commend itself to? :fc:
 :PROPERTIES:
 :card-last-interval: -1
 :card-repeats: 1
@@ -626,7 +626,7 @@ personal property or belongings
 :ID:       f8a0bb56-beae-482e-bf9a-1d8f0c5666cd
 :END:
 ** 给...好印象
-* out of the common? :drill:
+* out of the common? :fc:
 :PROPERTIES:
 :card-last-interval: 4.43
 :card-repeats: 1
@@ -637,7 +637,7 @@ personal property or belongings
 :ID:       8e8c6076-7156-49ec-8af2-03cf6ae23781
 :END:
 ** 非同寻常的
-* Content [[determine]]s form :drill:
+* Content [[determine]]s form :fc:
 :PROPERTIES:
 :card-last-interval: 4.43
 :card-repeats: 1
@@ -648,7 +648,7 @@ personal property or belongings
 :ID:       8ce17373-5eeb-4dcb-9920-d1b64c11ea2f
 :END:
 ** 决定,决心
-* Her explanation sounded [[plausible]] :drill:
+* Her explanation sounded [[plausible]] :fc:
 :PROPERTIES:
 :card-last-interval: 4.43
 :card-repeats: 1
@@ -659,7 +659,7 @@ personal property or belongings
 :ID:       34a9da8b-d215-41cd-9364-67c0d35458ec
 :END:
 ** 似乎有道理的
-* plot to do sth? :drill:
+* plot to do sth? :fc:
 :PROPERTIES:
 :card-last-interval: 4.43
 :card-repeats: 1
@@ -670,7 +670,7 @@ personal property or belongings
 :ID:       84b1aff9-262f-437a-b8cf-0b198d7117f7
 :END:
 ** 密谋做某事
-* ponderous? :drill:
+* ponderous? :fc:
 :PROPERTIES:
 :card-last-interval: -1
 :card-repeats: 1
@@ -683,7 +683,7 @@ personal property or belongings
 ** adj.笨重的，（指讲话、文章
 风格等）沉闷的，乏味的
 * brisk
-** The business is brisk in this supermarket. :drill:
+** The business is brisk in this supermarket. :fc:
 :PROPERTIES:
 :card-last-interval: 4.43
 :card-repeats: 1
@@ -694,7 +694,7 @@ personal property or belongings
 :ID:       10fc98de-ae19-4dd7-a259-c8b0adcaf03c
 :END:
 *** 兴隆繁荣的
-** The actress is walking at a brisk pace :drill:
+** The actress is walking at a brisk pace :fc:
 :PROPERTIES:
 :card-last-interval: 4.43
 :card-repeats: 1
@@ -705,7 +705,7 @@ personal property or belongings
 :ID:       82bbad9b-c4a8-4ad2-b999-c925d81d4508
 :END:
 *** 轻快的,生机勃勃的
-* aggravate? :drill:
+* aggravate? :fc:
 :PROPERTIES:
 :card-last-interval: -1
 :card-repeats: 1
@@ -717,7 +717,7 @@ personal property or belongings
 :END:
 ** ag（为了）+grav（重的）+ate（动词后缀）一>加重
 * aggregate
-** in （the） aggregate? :drill:
+** in （the） aggregate? :fc:
 :PROPERTIES:
 :card-last-interval: -1
 :card-repeats: 1
@@ -728,7 +728,7 @@ personal property or belongings
 :ID:       45e14e5f-ea42-4b33-9b69-91579aff4fbf
 :END:
 *** 总数,总计
-** on aggregate? :drill:
+** on aggregate? :fc:
 :PROPERTIES:
 :card-last-interval: 4.43
 :card-repeats: 1
@@ -740,7 +740,7 @@ personal property or belongings
 :END:
 *** 总分
 * agitate
-** agitate for? :drill:
+** agitate for? :fc:
 :PROPERTIES:
 :card-last-interval: 4.43
 :card-repeats: 1
@@ -751,7 +751,7 @@ personal property or belongings
 :ID:       6e7449e0-d58f-4583-bf58-11e77ba1c9e6
 :END:
 *** 煽动
-** agitate against? :drill:
+** agitate against? :fc:
 :PROPERTIES:
 :card-last-interval: -1
 :card-repeats: 1
@@ -762,7 +762,7 @@ personal property or belongings
 :ID:       7bcf2429-c025-4801-9fb1-61f74e18c850
 :END:
 *** 鼓吹反对
-* Night and day [[alternate]]? :drill:
+* Night and day [[alternate]]? :fc:
 :PROPERTIES:
 :card-last-interval: 4.43
 :card-repeats: 1
@@ -773,7 +773,7 @@ personal property or belongings
 :ID:       e7389015-9788-482f-8734-80ce1b60550f
 :END:
 ** 轮流 交替
-* comparable and comparative? :drill:
+* comparable and comparative? :fc:
 :PROPERTIES:
 :card-last-interval: 4.43
 :card-repeats: 1
@@ -784,7 +784,7 @@ personal property or belongings
 :ID:       574ae1af-a69e-4716-9426-5f4b4fdfc8ab
 :END:
 ** 可比较的与相比之下
-* compete→[[competent]]? :drill:
+* compete→[[competent]]? :fc:
 :PROPERTIES:
 :card-last-interval: 4.43
 :card-repeats: 1
@@ -795,7 +795,7 @@ personal property or belongings
 :ID:       4783a835-83a0-4c56-ad21-952a3d3549cc
 :END:
 ** 有能力胜任的
-* comply→[[compliment]]→[[complement]]? :drill:
+* comply→[[compliment]]→[[complement]]? :fc:
 :PROPERTIES:
 :card-last-interval: 4.43
 :card-repeats: 1
@@ -806,7 +806,7 @@ personal property or belongings
 :ID:       9bd3bc61-7fcd-47cf-ab58-b2be3e47eb70
 :END:
 ** 遵从→恭维→补充,补足
-* I fully [[endorse]] your opinion on this subject? :drill:
+* I fully [[endorse]] your opinion on this subject? :fc:
 :PROPERTIES:
 :card-last-interval: -1
 :card-repeats: 1
@@ -817,7 +817,7 @@ personal property or belongings
 :ID:       a83b4e04-fc38-4236-a97e-55ab22e27303
 :END:
 ** 赞同
-* in the outset? :drill:
+* in the outset? :fc:
 :PROPERTIES:
 :card-last-interval: 4.43
 :card-repeats: 1
@@ -828,7 +828,7 @@ personal property or belongings
 :ID:       73a89f63-57a7-414e-b601-f355f26ab6dd
 :END:
 ** 在一开始的时候
-* He [[specialize]]s in modem language? :drill:
+* He [[specialize]]s in modem language? :fc:
 :PROPERTIES:
 :card-last-interval: 4.43
 :card-repeats: 1
@@ -839,7 +839,7 @@ personal property or belongings
 :ID:       3b8fd10e-784e-4d64-96a1-f33f78e8a3ee
 :END:
 ** 专攻,专门研究
-* it was [[acclaim]]ed as a great discovery? :drill:
+* it was [[acclaim]]ed as a great discovery? :fc:
 :PROPERTIES:
 :card-last-interval: -1
 :card-repeats: 1
@@ -851,7 +851,7 @@ personal property or belongings
 :END:
 ** 称赞,赞扬
 * accomodate
-** accomodate to? :drill:
+** accomodate to? :fc:
 :PROPERTIES:
 :card-last-interval: 4.43
 :card-repeats: 1
@@ -862,7 +862,7 @@ personal property or belongings
 :ID:       70c2f1a7-82f8-4065-9f3e-9f0d780435f0
 :END:
 *** 改变以适应
-** accomodate with? :drill:
+** accomodate with? :fc:
 :PROPERTIES:
 :card-last-interval: -1
 :card-repeats: 1
@@ -874,7 +874,7 @@ personal property or belongings
 :END:
 *** 向...提供方便
 * charge
-** in charge of? :drill:
+** in charge of? :fc:
 :PROPERTIES:
 :card-last-interval: -1
 :card-repeats: 1
@@ -885,7 +885,7 @@ personal property or belongings
 :ID:       0137b298-9ad2-46ce-b5d3-175ecbecbbbc
 :END:
 *** 对..负责
-* The land slopes to the sea by a  [[gradual]] descent? :drill:
+* The land slopes to the sea by a  [[gradual]] descent? :fc:
 :PROPERTIES:
 :card-last-interval: 4.43
 :card-repeats: 1
@@ -896,7 +896,7 @@ personal property or belongings
 :ID:       07c2595a-c779-4b69-928b-4dce9412902d
 :END:
 ** 逐渐的
-* a storm is [[imminent]]? :drill:
+* a storm is [[imminent]]? :fc:
 :PROPERTIES:
 :card-last-interval: -1
 :card-repeats: 1
@@ -907,7 +907,7 @@ personal property or belongings
 :ID:       fd937dd5-df92-456f-ae52-f3070fdffd58
 :END:
 ** 不好的事即将来临的
-* likely→[[likelihood]]? :drill:
+* likely→[[likelihood]]? :fc:
 :PROPERTIES:
 :card-last-interval: 4.43
 :card-repeats: 1

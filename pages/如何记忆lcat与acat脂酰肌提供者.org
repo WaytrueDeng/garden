@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       02123e9e-18d5-422f-85cb-7233a8598a76
+:END:
+#+title: 如何记忆LCAT与ACAT脂酰肌提供者
+#+creationTime: [2022-10-30 Sun 15:46] 
+* Keywords
+- 
+* Contents
+- [[id:a253438f-5222-4ee0-9c22-5d03abbdab44][LCAT]]为[[roam:卵磷酯]]
+- [[id:0a1b3966-136b-4135-8ab3-a899d310be7a][ACAT]]为脂酰CoA
+
+* Mnemonic
+- luan卵
+* Reference
+
+

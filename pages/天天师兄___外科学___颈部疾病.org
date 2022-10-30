@@ -1,0 +1,359 @@
+* :PROPERTIES:
+:title: 天天师兄/外科学/颈部疾病
+:END:
+* {{cards 天天师兄/外科学/颈部疾病}}
+** Summary: 11 items, 11 review counts [[2022-10-17]]
+*** Remembered:   8 (72%)
+*** Forgotten :   3 (27%)
+* 甲亢
+** 甲亢的外科术式为? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-10-21T13:54:44.610Z
+:card-last-reviewed: 2022-10-17T13:54:44.611Z
+:card-last-score: 5
+:END:
+*** 甲状腺大部分切除术80-90加峡部
+** 甲亢的外科手术禁忌症为? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-10-21T13:53:15.490Z
+:card-last-reviewed: 2022-10-17T13:53:15.491Z
+:card-last-score: 5
+:END:
+*** 青少年
+*** 合并严重的肝肾功能损害导致不能耐受手术
+*** #+BEGIN_TIP
+思路应该是:哪些人不能切甲状腺?
+#+END_TIP
+** 高功能腺瘤如何处理? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-10-17T16:00:00.000Z
+:card-last-reviewed: 2022-10-17T14:01:49.882Z
+:card-last-score: 1
+:END:
+*** 患侧腺叶+部分切除+冰冻切片
+** 术前准备
+collapsed:: true
+*** 甲亢术BMR与脉率前要求为? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-10-21T14:03:18.045Z
+:card-last-reviewed: 2022-10-17T14:03:18.045Z
+:card-last-score: 5
+:END:
+**** BMR<20,脉率<90
+*** 碘剂主要抑制甲状腺素的? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-10-21T14:02:41.937Z
+:card-last-reviewed: 2022-10-17T14:02:41.938Z
+:card-last-score: 5
+:END:
+**** 释放
+*** 碘剂为什么使甲状腺缩小变硬? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-10-21T13:58:00.999Z
+:card-last-reviewed: 2022-10-17T13:58:00.999Z
+:card-last-score: 5
+:END:
+**** 抑制TSH
+*** 为什么术前准备可以使用普奈洛尔? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-10-21T14:03:01.853Z
+:card-last-reviewed: 2022-10-17T14:03:01.853Z
+:card-last-score: 5
+:END:
+**** 既可以抑制T4转变为T3,又可以抑制交感神经
+*** 术前准备中的药物哪些药物可以单用? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-10-21T14:02:58.450Z
+:card-last-reviewed: 2022-10-17T14:02:58.450Z
+:card-last-score: 5
+:END:
+**** 碘剂与普奈洛尔可以单用,硫脲类不行
+** {{embed [[甲亢用药总结]]}}
+* [[甲状腺癌]]
+collapsed:: true
+** 乳头状癌常单中心发病? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-10-17T16:00:00.000Z
+:card-last-reviewed: 2022-10-17T14:03:27.453Z
+:card-last-score: 1
+:END:
+*** 为多中心病灶,常累及双侧病灶,所以常全切或近全切
+** 乳头状癌可以呈囊性吗? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-10-21T13:55:54.580Z
+:card-last-reviewed: 2022-10-17T13:55:54.581Z
+:card-last-score: 5
+:END:
+*** 可以
+** 如何记忆乳头状癌的核特点? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-10-21T14:03:00.824Z
+:card-last-reviewed: 2022-10-17T14:03:00.825Z
+:card-last-score: 5
+:END:
+*** 幸福癌→性福癌→**乳**头,**毛**玻璃样核,核**沟**,你懂得
+** [[甲状腺乳头状癌]][[毛玻璃]]核的原因是由于? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-10-21T13:55:46.601Z
+:card-last-reviewed: 2022-10-17T13:55:46.601Z
+:card-last-score: 5
+:END:
+*** 细胞核的染色质少稀疏而呈毛玻璃样
+** 早期即可发生血道转移的癌包括? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-10-21T14:01:24.461Z
+:card-last-reviewed: 2022-10-17T14:01:24.461Z
+:card-last-score: 5
+:END:
+*** 病理学: 绒癌,甲状腺滤泡癌,HCC肝细胞癌
+*** 外科学:乳腺癌与肺腺癌
+** 髓样癌的类癌综合征为分泌何物质,其表现为? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-10-21T14:03:42.820Z
+:card-last-reviewed: 2022-10-17T14:03:42.820Z
+:card-last-score: 5
+:END:
+*** 分泌5-HT其表现为腹泻面部潮红多汗
+** [[如何记忆]]未分化癌包括哪些类型? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-10-21T14:01:28.715Z
+:card-last-reviewed: 2022-10-17T14:01:28.715Z
+:card-last-score: 5
+:END:
+*** 小梭巨混(小说剧情混乱)
+** #A 怀疑一个肿瘤发生骨转移可以做? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-10-21T14:03:05.261Z
+:card-last-reviewed: 2022-10-17T14:03:05.262Z
+:card-last-score: 5
+:END:
+*** ECT(骨扫描)
+** [[如何记忆]] <55岁的分化型甲状腺癌临床分期规律? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-10-17T16:00:00.000Z
+:card-last-reviewed: 2022-10-17T14:03:57.687Z
+:card-last-score: 1
+:END:
+*** 任何M0都是Ⅰ期,任何M1都是Ⅱ期
+** 未分化癌
+collapsed:: true
+*** #S 未分化癌的治疗方法为? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-10-21T13:54:36.809Z
+:card-last-reviewed: 2022-10-17T13:54:36.810Z
+:card-last-score: 5
+:END:
+**** 外放疗 
+#+BEGIN_TIP
+其无法摄碘故无法用I131内放疗
+#+END_TIP
+*** #A 只有哪些类型的甲状腺癌可以做腺叶切除? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-10-21T13:56:56.674Z
+:card-last-reviewed: 2022-10-17T13:56:56.674Z
+:card-last-score: 5
+:END:
+**** 必须满足
+**** ![image.png](../assets/image_1665584209937_0.png)
+*** 最小的淋巴结清扫范围为? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-10-21T13:54:40.598Z
+:card-last-reviewed: 2022-10-17T13:54:40.598Z
+:card-last-score: 5
+:END:
+**** Ⅵ组淋巴结
+** 甲状腺癌手术后为什么给甲状腺素? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-10-21T13:54:57.341Z
+:card-last-reviewed: 2022-10-17T13:54:57.341Z
+:card-last-score: 5
+:END:
+*** 补甲状腺素
+*** 抑制^^TSH^^防止甲状腺癌复发
+** 如何判断是否能使用Ⅰ131? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-10-17T16:00:00.000Z
+:card-last-reviewed: 2022-10-17T13:58:22.176Z
+:card-last-score: 1
+:END:
+*** ^^分化^^型的残留组织>1%
+*** ^^未分化型^^不具有摄碘功能所以不能使用内放射,只能外放射
+** 使用何指标检测甲状腺分化型癌的复发? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-21T13:57:46.560Z
+:card-last-reviewed: 2022-10-17T13:57:46.561Z
+:card-last-score: 3
+:END:
+*** 甲状腺球蛋白TG:一定是分化型,因为未分化型没得功能
+*** 注意不是TSH
+* 结节性甲状腺肿
+collapsed:: true
+** 结节性甲状腺肿可由何转变而来
+collapsed:: true
+*** 单纯性甲状腺肿
+** #A 甲状腺迅速增大包括哪些疾病如何鉴别? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-10-21T13:55:02.313Z
+:card-last-reviewed: 2022-10-17T13:55:02.314Z
+:card-last-score: 5
+:id: 6346cec9-fd26-43cf-b4e2-176adc283ded
+:END:
+*** 亚甲炎
+*** 甲状腺癌
+*** 甲状腺瘤囊变出血
+*** 结节性甲状腺肿退化为囊性后出血
+*** #+BEGIN_TIP
+仅有甲状腺癌为不痛其,因出血肿大者均会发痛
+#+END_TIP
+* 亚甲炎
+collapsed:: true
+** 亚甲炎由何感染所致? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-10-17T16:00:00.000Z
+:card-last-reviewed: 2022-10-17T13:51:22.307Z
+:card-last-score: 1
+:END:
+*** 病毒感染,所以有1-3周的前驱感染
+** ((6346cec9-fd26-43cf-b4e2-176adc283ded))
+** 亚甲炎的病理特点为? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-10-21T13:51:35.308Z
+:card-last-reviewed: 2022-10-17T13:51:35.309Z
+:card-last-score: 5
+:END:
+*** [[肉芽肿]]性炎,一些没妈的疯姐姐,压伤了矩阵猫
+** 亚甲炎的T3T4与摄碘率变化的重要的特点是什么? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-10-21T14:03:12.612Z
+:card-last-reviewed: 2022-10-17T14:03:12.612Z
+:card-last-score: 5
+:END:
+*** 分离
+* 桥本
+collapsed:: true
+** 桥本最重要的特点为什么? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-10-21T13:53:42.563Z
+:card-last-reviewed: 2022-10-17T13:53:42.563Z
+:card-last-score: 5
+:END:
+*** ^^TPOAb^^ 90%
+*** ^^TGAb^^60%
+** 桥本是否有甲状腺痛? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-10-17T16:00:00.000Z
+:card-last-reviewed: 2022-10-17T14:04:15.520Z
+:card-last-score: 1
+:END:
+*** 无痛
+** 桥本的甲状腺质地为? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-10-21T13:51:55.567Z
+:card-last-reviewed: 2022-10-17T13:51:55.567Z
+:card-last-score: 5
+:END:
+*** 硬,因为纤维化很多
+** 为什么只有亚甲炎表现为分离现象而桥本没有? #card
+:PROPERTIES:
+:card-last-interval: 4
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-10-21T13:55:22.063Z
+:card-last-reviewed: 2022-10-17T13:55:22.063Z
+:card-last-score: 5
+:END:
+*** 桥本一来就很严重!
+* {{embed [[甲状腺疾病鉴别]]}}
+*
+*
+*

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       d4300a7e-8034-4b3b-b70e-0975971b1a2a
+:END:
+#+title: 如何记忆apoCⅡ的作用 
+#+creationTime: [2022-10-30 Sun 12:28] 
+* Keywords
+- [[id:5845fad5-0d47-45f5-9bc4-8fae9a31dc19][apoCⅡ]]
+* Contents
+激活[[id:fd7cddab-90bc-4526-8c29-b0a1829735b5][LPL]]
+* Mnemonic
+- China LPL
+* Reference

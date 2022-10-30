@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5c2beb9d-d030-40a6-8626-08727fb908fe
+:END:
+#+title: 介导LDL于单核巨噬系统降解的受体是 
+#+creationTime: [2022-10-30 Sun 13:05] 
+* Keywords
+- [[id:81486fd4-409e-40e9-962e-63079d7a64ad][LDL]]
+* Contents
+- [[roam:清道夫受体]]
+* Mnemonic
+* Reference

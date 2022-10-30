@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       e4acebc6-6ea3-49e6-a522-9cc7b2585ae5
+:END:
+#+title: 如何记忆apoA1的作用 
+#+creationTime: [2022-10-30 Sun 11:38] 
+* Keywords
+- 
+* Contents
+- 激活[[roam:LCAT]]
+- 激活[[roam:HDL受体]]
+* Mnemonic
+- 高([[roam:HDL]])寿阿姨(a 1)养白猫(light cat)
+* Reference

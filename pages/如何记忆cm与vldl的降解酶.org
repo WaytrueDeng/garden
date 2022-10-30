@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       b2c84f08-98ad-47cd-a554-0c4c4df8d7ed
+:END:
+#+title: 如何记忆CM与VLDL的降解酶 
+#+creationTime: [2022-10-30 Sun 12:34] 
+* Keywords
+-
+* Contents
+- [[id:d8958631-73d2-4d1b-8968-5767d91a642b][CM]]与[[id:64614ba0-f1df-442b-b5c5-e49c874cf1d8][VLDL]]均被[[id:fd7cddab-90bc-4526-8c29-b0a1829735b5][LPL]]降解
+* Mnemonic
+- 因为CM与VLDL表面均有[[id:5845fad5-0d47-45f5-9bc4-8fae9a31dc19][apoCⅡ]]
+* Reference
+- [[id:d4300a7e-8034-4b3b-b70e-0975971b1a2a][如何记忆apoCⅡ的作用]]

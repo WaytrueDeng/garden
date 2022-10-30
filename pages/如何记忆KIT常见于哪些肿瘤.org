@@ -1,8 +1,8 @@
 :PROPERTIES:
-:ID:       92ec205b-9ade-4387-bb82-72ef24068e2c
+:ID:       3fa486d7-1ba2-433b-b404-03b05d9ddcb4
 :END:
 
-#+title: 如何记忆 KIT常见于哪些肿瘤
+#+title: 如何记忆KIT常见于哪些肿瘤
 
 ** Keywords
 

@@ -1,0 +1,6 @@
+:PROPERTIES:
+:ID:       9a0f38e3-54b0-4335-86fd-6998c608e1e9
+:ROAM_ALIASES: DAG DG
+:END:
+#+title: 甘油二酯
+#+creationTime: [2022-10-30 Sun 15:01]  

@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       bc27c98e-347a-44f0-8006-514e9feff617
+:END:
+#+title: 如何记忆甘油磷酯的分解
+#+creationTime: [2022-10-30 Sun 14:50] 
+* Keywords
+- [[roam:甘油磷酯]]
+* Contents
+- [[roam:磷酯酶A1]]生成溶血磷酯2,[[roam:磷酯酶A2]]生成溶血磷酯
+- [[roam:PLC]]即磷酯酶C生成[[id:9a0f38e3-54b0-4335-86fd-6998c608e1e9][甘油二酯]],为重要的第二信使即[[id:9a0f38e3-54b0-4335-86fd-6998c608e1e9][DG]].如在PIP2变为IP3与DG过程中起到的作用
+- [[roam:磷酯酶D]]生成磷酯酸
+* Mnemonic
+
+#+DOWNLOADED: screenshot @ 2022-10-30 14:52:18
+[[file:../assets/甘油磷酯的分解.png]]
+
+* Reference
+[[id:eb216acc-8402-4c3c-af35-6c81dbe773c5][描述G蛋白耦联受体的PLC-IP3-DG通路]]

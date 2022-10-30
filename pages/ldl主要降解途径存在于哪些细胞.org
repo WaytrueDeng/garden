@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       c901c968-e7b4-48c4-93a6-91431ec9fe84
+:END:
+#+title: LDL主要降解途径存在于哪些细胞 
+#+creationTime: [2022-10-30 Sun 12:52] 
+* Keywords
+- [[id:81486fd4-409e-40e9-962e-63079d7a64ad][LDL]]
+* Contents
+- 多种细胞
+* Mnemonic
+* Reference

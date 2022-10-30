@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       b147e682-2fe4-4d1b-b256-41c6f27fad63
+:END:
+#+title: 介导LDL多种细胞降解的受体是 
+#+creationTime: [2022-10-30 Sun 12:53]
+* Contents
+- [[roam:LDL]]
+* Keywords
+- [[roam:apoB100]]
+* Mnemonic
+* Reference
+- [[id:7e9024ee-7946-4426-847c-e604a5f32f57][如何记忆apoB100与apoE的作用]]

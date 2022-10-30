@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       ab48144d-08df-40f0-bc6e-88d1195e1483
+:END:
+#+title: 如何记忆LCAT与ACAT的合成部位 
+#+creationTime: [2022-10-30 Sun 15:45] 
+* Keywords
+- [[id:a253438f-5222-4ee0-9c22-5d03abbdab44][LCAT]] [[id:0a1b3966-136b-4135-8ab3-a899d310be7a][ACAT]]
+* Contents
+- [[id:a253438f-5222-4ee0-9c22-5d03abbdab44][LCAT]]由肝细胞合成
+- ACAT由所在细胞合成
+* Mnemonic
+* Reference

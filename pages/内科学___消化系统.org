@@ -1,0 +1,10 @@
+* #+title: 内科学/消化系统
+* 炎症性肠病
+:PROPERTIES:
+:heading: 1
+:END:
+** {{embed [[溃疡性结肠炎]]}}
+** {{embed [[克罗恩病]]}}
+* {{embed [[肝硬化]]}}
+*
+*

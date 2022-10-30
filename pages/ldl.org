@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       81486fd4-409e-40e9-962e-63079d7a64ad
+:END:
+#+title: LDL 
+#+creationTime: [2022-10-30 Sun 12:55]  

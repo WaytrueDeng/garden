@@ -1,0 +1,422 @@
+* {{cards 病理学/循环系统}}
+** Summary: 36 items, 36 review counts [[2022-10-27]]
+*** Remembered:   31 (86%)
+*** Forgotten :   5 (13%)
+* [[风湿病]]
+:PROPERTIES:
+:collapsed: true
+:END:
+** 风湿病的变性类型? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-31T22:50:19.272Z
+:card-last-reviewed: 2022-10-27T12:50:19.272Z
+:card-last-score: 3
+:END:
+*** [[黏液样变性]]
+** 风湿病的坏死类型? #card
+:PROPERTIES:
+:card-last-interval: 8.34
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-11-04T20:55:01.227Z
+:card-last-reviewed: 2022-10-27T12:55:01.227Z
+:card-last-score: 5
+:END:
+*** [[纤维素样坏死]]
+**** 纤维素样坏死的物质是? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-31T22:51:13.093Z
+:card-last-reviewed: 2022-10-27T12:51:13.093Z
+:card-last-score: 3
+:END:
+***** 胶原纤维而不是纤维素
+** 风湿病的病理变化分为哪些时期? #card
+:PROPERTIES:
+:card-last-interval: 8.34
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-11-04T20:54:57.087Z
+:card-last-reviewed: 2022-10-27T12:54:57.087Z
+:card-last-score: 5
+:END:
+*** 渗出期
+*** 增生期/肉芽肿期
+**** ((63556d9b-171f-4042-b0d5-7c860e3183f6))
+*** 纤维化期/硬化期
+** [[风湿性心脏病]]可以分为哪三个层次? #card
+:PROPERTIES:
+:card-last-interval: 8.34
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-11-04T20:53:50.937Z
+:card-last-reviewed: 2022-10-27T12:53:50.937Z
+:card-last-score: 5
+:END:
+*** [[风湿性心内膜炎]]
+**** 风湿病最主要的危害体现在? #card
+:PROPERTIES:
+:card-last-interval: 8.34
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-11-04T20:54:46.853Z
+:card-last-reviewed: 2022-10-27T12:54:46.854Z
+:card-last-score: 5
+:END:
+***** 风湿病侵犯心瓣膜,其最常累及二尖瓣
+*** [[风湿性心肌炎]]
+**** 风湿性心肌炎形成的纤维化叫做心肌纤维化还是心肌间质纤维化? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-31T22:50:27.855Z
+:card-last-reviewed: 2022-10-27T12:50:27.855Z
+:card-last-score: 3
+:END:
+***** 心肌间质纤维化因为 [[Aschoff小体]]仅见于心肌间质
+***** 而心肌纤维化指的是心肌的实质
+*** [[风湿性心包炎]]
+**** {{embed ((63556d9c-8708-4547-8f42-585c7f4d8c87))}}
+** {{embed ((63556d9d-6c87-4de3-9df6-aa8906cc14fb))}}
+** [[风湿性脑病]]的病人可以表现为何种疾病? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-10-27T16:00:00.000Z
+:card-last-reviewed: 2022-10-27T12:54:51.297Z
+:card-last-score: 1
+:END:
+*** 累及椎体外系时表现为小舞蹈病.注意与亨廷顿相区别
+* [[感染性心内膜炎]]
+:PROPERTIES:
+:collapsed: true
+:END:
+** 急性感染性心内膜炎栓子形成的梗死具有何种特点? #card
+:PROPERTIES:
+:card-last-interval: 8.34
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-11-04T20:55:19.480Z
+:card-last-reviewed: 2022-10-27T12:55:19.480Z
+:card-last-score: 5
+:END:
+*** 其栓子往往带有细菌形成感染性梗死
+* [[心肌病]]
+:PROPERTIES:
+:collapsed: true
+:END:
+** [[肥厚型心肌病]]
+*** [[肥厚型心肌病]]最特征的肥厚部位是? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-31T22:50:50.684Z
+:card-last-reviewed: 2022-10-27T12:50:50.684Z
+:card-last-score: 3
+:END:
+**** 非对称的室间隔肥厚
+** [[扩张型心肌病]]
+:PROPERTIES:
+:collapsed: true
+:END:
+*** #吹毛求疵防变态 #加深理解 [[扩张型心肌病]]目前认为其发生心肌扩张的原因是? #card
+:PROPERTIES:
+:card-last-interval: 8.34
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-11-04T20:57:03.848Z
+:card-last-reviewed: 2022-10-27T12:57:03.849Z
+:card-last-score: 5
+:END:
+**** 免疫损害
+*** [[扩张型心肌病]]心腔扩张的顺序? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-31T22:51:00.656Z
+:card-last-reviewed: 2022-10-27T12:51:00.656Z
+:card-last-score: 3
+:END:
+**** 早期是左心室扩张,后期可全心腔扩张
+***
+** [[限制性心肌病]]
+*** 限制性心肌病的病变特点及部位? #card
+:PROPERTIES:
+:card-last-interval: 8.34
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-11-04T20:57:08.711Z
+:card-last-reviewed: 2022-10-27T12:57:08.712Z
+:card-last-score: 5
+:END:
+**** 心内膜及心内膜下*心肌纤维化*:注意与 [[风湿性心肌炎]]鉴别
+*** 限制性心肌病与肥厚型心肌病均表现为心室腔的? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-31T22:51:29.262Z
+:card-last-reviewed: 2022-10-27T12:51:29.262Z
+:card-last-score: 3
+:END:
+**** 缩小
+*** 限制性心肌病的收缩功能与心室壁厚度如何变化? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-10-27T16:00:00.000Z
+:card-last-reviewed: 2022-10-27T12:55:39.753Z
+:card-last-score: 1
+:END:
+**** 几乎正常
+** #吹毛求疵防变态 [[致心律失常型右室心肌病]]的病理特点是? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-31T22:52:02.441Z
+:card-last-reviewed: 2022-10-27T12:52:02.441Z
+:card-last-score: 3
+:END:
+*** 右室心肌被一些纤维脂肪组织所替代了
+* [[心肌炎]]
+:PROPERTIES:
+:collapsed: true
+:END:
+** 可以形成肉芽肿的心肌炎是? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-10-27T16:00:00.000Z
+:card-last-reviewed: 2022-10-27T12:49:46.559Z
+:card-last-score: 1
+:END:
+*** [[特发性巨细胞性心肌炎]]
+**
+* [[高血压]]
+:PROPERTIES:
+:collapsed: true
+:END:
+** [[缓进型高血压]]
+:PROPERTIES:
+:collapsed: true
+:END:
+*** 高血压的动脉硬化的特点是? #card
+:PROPERTIES:
+:card-last-interval: 8.34
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-11-04T20:54:44.232Z
+:card-last-reviewed: 2022-10-27T12:54:44.232Z
+:card-last-score: 5
+:END:
+**** [[细动脉硬化]]
+*** 高血压最容易累及哪些细动脉? #card
+:PROPERTIES:
+:card-last-interval: 8.34
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-11-04T20:53:54.658Z
+:card-last-reviewed: 2022-10-27T12:53:54.658Z
+:card-last-score: 5
+:END:
+**** 肾小球入球小动脉
+**** 视网膜
+**** 脾
+*** #反常识 肾脏入球小动脉虽然叫小动脉但其实质上属于? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-31T22:50:34.541Z
+:card-last-reviewed: 2022-10-27T12:50:34.542Z
+:card-last-score: 3
+:END:
+**** 细动脉
+*** 什么叫做细动脉硬化? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-31T22:50:56.321Z
+:card-last-reviewed: 2022-10-27T12:50:56.321Z
+:card-last-score: 3
+:END:
+**** 即细动脉发生 [[玻璃样变性]]
+*** [[SMC]]不仅与 [[动脉粥样硬化]]有关还与 [[高血压]]有关,其在高血压中的作用是? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-31T22:51:15.854Z
+:card-last-reviewed: 2022-10-27T12:51:15.854Z
+:card-last-score: 3
+:END:
+**** 分泌细胞外基质
+*** [[如何理解]]细动脉硬化的机制? #card
+:PROPERTIES:
+:card-last-interval: 8.34
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-11-04T20:57:21.137Z
+:card-last-reviewed: 2022-10-27T12:57:21.137Z
+:card-last-score: 5
+:END:
+**** 最重要的是高血压所导致的血浆中蛋白沉积于血管壁中
+**** 其次是 [[SMC]]分泌胶原蛋白进一步加重蛋白沉积
+**** 沉积的[[胶原蛋白]]与[[SMC]]分泌的蛋白挤压死[[SMC]]后使在修复其过程中又会出现[[胶原蛋白]]沉积
+***
+*** 高血压导致的脑出血最常见的部位及原因? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-10-27T16:00:00.000Z
+:card-last-reviewed: 2022-10-27T12:55:32.507Z
+:card-last-score: 1
+:END:
+**** 基底节(豆状核)
+**** 因为支配它的豆纹动脉分支从大脑中动脉分出呈直角
+*** #吹毛求疵防变态 脑干的出血常见于? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-31T22:50:47.413Z
+:card-last-reviewed: 2022-10-27T12:50:47.413Z
+:card-last-score: 3
+:END:
+**** 脑桥
+** [[急进型高血压]]
+*** 如何理解急进型高血压所发生的血管病变类型是? #card
+:PROPERTIES:
+:card-last-interval: 8.34
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-11-04T20:51:56.235Z
+:card-last-reviewed: 2022-10-27T12:51:56.235Z
+:card-last-score: 5
+:id: 63592e8d-4e88-46c3-96d5-00a3779073c2
+:END:
+**** 坏死性细动脉炎:细动脉纤维素样坏死 细动脉直接受不了这么高的血压
+**** 增生性小动脉硬化:胶原纤维增多致血管壁呈层状洋葱皮,同心圆样增厚 小动脉因为有肌纤维与较厚的中膜等还是能抗住这么高的血压
+*** [[如何理解]][[高血压]]中的[[玻璃样变性]]与[[纤维素样坏死]]之间的关系? #card
+:PROPERTIES:
+:card-last-interval: 8.34
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-11-04T20:56:05.568Z
+:card-last-reviewed: 2022-10-27T12:56:05.569Z
+:card-last-score: 5
+:END:
+**** 其物质承担者都是胶原纤维,若胶原纤维增多沉积则称为玻璃样变性,若胶原纤维坏死则称为纤维素样坏死
+* [[动脉粥样硬化]]
+** #吹毛求疵防变态 单核巨噬细胞与平滑肌细胞吞噬脂类的受体分别是? #card
+:PROPERTIES:
+:card-last-interval: 8.34
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-11-04T20:56:09.431Z
+:card-last-reviewed: 2022-10-27T12:56:09.431Z
+:card-last-score: 5
+:END:
+*** 清道夫受体与LPL受体
+** [[动脉粥样硬化]]的早期病变及其主要成分是? #card
+:PROPERTIES:
+:card-last-interval: 8.34
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-11-04T20:53:57.942Z
+:card-last-reviewed: 2022-10-27T12:53:57.942Z
+:card-last-score: 5
+:END:
+*** [[脂纹]]主要成分是泡沫细胞
+** 如何记忆动脉粥样硬化的病变发展不同时期的表现? #card
+:PROPERTIES:
+:card-last-interval: 8.34
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-11-04T20:53:39.852Z
+:card-last-reviewed: 2022-10-27T12:53:39.852Z
+:card-last-score: 5
+:END:
+*** 脂纹→纤维斑块→粥样斑块
+*** 早上跑步,中午戴帽,晚上喝粥
+** 纤维斑块底部细胞等发生坏死主要是受何物质的影响? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-31T22:49:58.173Z
+:card-last-reviewed: 2022-10-27T12:49:58.173Z
+:card-last-score: 3
+:END:
+*** OX-LDL
+** #未考过的极可能考点 粥样斑块的底部与边缘会出现? #card
+:PROPERTIES:
+:card-last-interval: 4.43
+:card-repeats: 1
+:card-ease-factor: 2.36
+:card-next-schedule: 2022-10-31T22:50:05.277Z
+:card-last-reviewed: 2022-10-27T12:50:05.277Z
+:card-last-score: 3
+:END:
+*** 肉芽组织
+*** 注意形成纤维斑块的组织没有肉芽组织,但是粥样斑块形成后可以在底部与边缘形成肉芽组织
+** ((63556d9b-16da-45bf-8e3f-8571b72d60f3))
+**
+** 动脉粥样硬化累及冠脉时最常见于? #card
+:PROPERTIES:
+:card-last-interval: 8.34
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-11-04T20:57:10.162Z
+:card-last-reviewed: 2022-10-27T12:57:10.163Z
+:card-last-score: 5
+:END:
+*** 左前降支
+** 动脉粥样硬化所导致的心肌梗死何时溶解吸收?何时形成肉芽组织取代?何时形成慢性纤维斑痕? #card
+:PROPERTIES:
+:card-last-interval: 8.34
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-11-04T20:53:31.019Z
+:card-last-reviewed: 2022-10-27T12:53:31.019Z
+:card-last-score: 5
+:END:
+*** 1-2周开始溶解吸收
+*** 逐渐被取代
+*** 6-8周愈合
+*** 记忆为半月两月
+** 动脉粥样硬化累及头颈是血管主要是? #card
+:PROPERTIES:
+:card-last-interval: -1
+:card-repeats: 1
+:card-ease-factor: 2.5
+:card-next-schedule: 2022-10-27T16:00:00.000Z
+:card-last-reviewed: 2022-10-27T12:56:59.536Z
+:card-last-score: 1
+:END:
+*** 颈内动脉起始处
+*** 大脑中动脉,基底动脉,Wills环
+** 动脉粥样硬化累及肾脏何血管造成肾脏何种改变? #card
+:PROPERTIES:
+:card-last-interval: 8.34
+:card-repeats: 1
+:card-ease-factor: 2.6
+:card-next-schedule: 2022-11-04T20:54:31.136Z
+:card-last-reviewed: 2022-10-27T12:54:31.136Z
+:card-last-score: 5
+:END:
+*** 肾动脉→造成大瘢痕固缩肾 注意与[[慢性肾盂肾炎]]的斑痕肾(动脉粥样硬化为大斑痕肾), [[马鞍肾]]相鉴别

@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       da46e13b-28ea-4360-a84e-c02f96847b10
+:END:
+#+title: 如何记忆HDL的降解部位及物质
+#+creationTime: [2022-10-30 Sun 12:30] 
+* Keywords
+- 
+* Contents
+- 逆向运输[[roam:胆固醇]]至肝脏降解
+* Mnemonic
+* Reference
+
+

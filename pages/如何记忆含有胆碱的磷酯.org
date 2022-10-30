@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       93c40044-5869-4ab3-a62d-f68c454e5e0e
+:END:
+#+title: 如何记忆含有胆碱的磷酯 
+#+creationTime: [2022-10-30 Sun 14:12] 
+* Keywords
+-
+* Contents
+- [[roam:磷酯酰胆碱]]
+- [[roam:神经鞘磷酯]]
+* Mnemonic
+- 记忆为蛋壳(qiao)
+* Reference
