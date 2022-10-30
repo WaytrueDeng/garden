@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       4bf76d80-003b-4829-a57c-589e38a9f5aa
+:END:
+#+title: 由核苷酸变为脱氧核苷酸必须发生在何水平上 
+#+creationTime: [2022-10-29 Sat 20:14] 
+* Keywords
+- [[roam:核苷酸]],[[roam:脱氧核苷酸]]
+* Contents
+- NDP的水平
+* Mnemonic
+* Reference

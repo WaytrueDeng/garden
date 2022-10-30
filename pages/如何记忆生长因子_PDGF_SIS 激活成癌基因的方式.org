@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       5831001a-5480-46e3-9d5c-e3953d5b0499
+:END:
 
-* 如何记忆生长因子_PDGF_SIS 激活成癌基因的方式
+#+title: 如何记忆生长因子_PDGF_SIS 激活成癌基因的方式
 
 ** Keywords
 

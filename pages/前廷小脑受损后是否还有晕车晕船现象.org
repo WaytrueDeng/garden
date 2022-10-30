@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       baff1134-ea51-46a1-adf8-6e2bc88ac769
+:END:
 
-* 前廷小脑受损后是否还有晕车晕船现象
+#+title: 前廷小脑受损后是否还有晕车晕船现象
 
 ** Keywords
 [[前廷小脑]]

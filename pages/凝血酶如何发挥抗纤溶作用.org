@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       3815b2a0-2e4a-4e2c-999c-edf3491ac473
+:END:
 
-* 凝血酶如何发挥抗纤溶作用
+#+title: 凝血酶如何发挥抗纤溶作用
 ** Keywords
 [[凝血酶]],[[抗纤溶]]
 ** Content

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       bd774444-c08d-4471-8155-288b589487d8
+:END:
+#+title: 如何记忆丙肝特有的病理表现 
+#+creationTime: [2022-10-29 Sat 19:06] 
+* Keywords
+- [[roam:HCV]]
+* Contents
+- 脂肪变性
+- 汇管区滤泡增生
+- 胆管损伤
+* Mnemonic
+- 胖→脂肪变性,胖的像泡泡→汇管区淋巴滤泡形成,胆管损伤
+* Reference

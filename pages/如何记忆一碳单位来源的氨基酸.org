@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       14676eb0-8530-47f5-9f59-eba1f418c935
+:END:
+#+title: 如何记忆一碳单位来源的氨基酸 
+#+creationTime: [2022-10-29 Sat 20:02] 
+* Keywords
+- [[roam:一碳单位]]
+* Contents
+- [[roam:丝氨酸]],[[roam:色氨酸]],[[roam:组氨酸]],[[roam:苏氨酸]],[[roam:甘氨酸]]
+* Mnemonic
+- 记忆为施舍竹树干
+* Reference

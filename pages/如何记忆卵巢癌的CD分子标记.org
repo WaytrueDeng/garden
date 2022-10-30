@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       2e44a788-4d94-4cf7-821e-76f524499cf0
+:END:
 
-* 如何记忆卵巢癌的CD分子标记
+#+title: 如何记忆卵巢癌的CD分子标记
 
 ** Keywords
 [[卵巢癌]]

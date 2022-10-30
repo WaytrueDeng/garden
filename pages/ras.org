@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       64b2b40d-3688-4316-b0fd-3942795940d5
+:END:
+#+title: RAS 
+#+creationTime: [2022-10-29 Sat 16:27]  

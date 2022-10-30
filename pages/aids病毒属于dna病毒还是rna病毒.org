@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       0de587ac-9bea-439d-96c0-a0ab4f71b304
+:END:
+#+title: AIDS病毒属于DNA病毒还是RNA病毒 
+#+creationTime: [2022-10-29 Sat 19:00] 
+* Keywords
+- [[roam:AIDS]]
+* Contents
+- 属于RNA病毒
+* Mnemonic
+- AIDS病毒属于逆转录病毒所以当然是RNA病毒啦
+* Reference

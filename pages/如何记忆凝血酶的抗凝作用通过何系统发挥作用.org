@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       a26042bf-9337-48cf-9b3f-febeb9c1394a
+:END:
 
-* 如何记忆凝血酶的抗凝作用通过何系统发挥作用
+#+title: 如何记忆凝血酶的抗凝作用通过何系统发挥作用
 ** Keywords
 [[凝血酶]]
 ** Content

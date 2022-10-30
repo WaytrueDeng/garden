@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       594232fe-fb34-4d92-b69b-204aededb92a
+:END:
 
-* 如何理解神经组织能否化生
+#+title: 如何理解神经组织能否化生
 
 ** Keywords
 [[化生]]

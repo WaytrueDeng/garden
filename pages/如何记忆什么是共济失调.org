@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       436ec8c0-0145-4935-858d-53dfdbd5be89
+:END:
 
-* 如何记忆什么是共济失调
+#+title: 如何记忆什么是共济失调
 
 ** Keywords
 [[共济失调]]

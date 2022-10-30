@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       69a54870-c869-4cc9-9dc8-7dd31b481165
+:END:
 
-* 如何记忆Cyclin-D1的激活机制记忆常见肿瘤
+#+title: 如何记忆Cyclin-D1的激活机制记忆常见肿瘤
 
 ** Keywords
 

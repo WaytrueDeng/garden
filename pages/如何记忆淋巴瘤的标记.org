@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       0faf5477-b7fc-49ae-bae4-2e068a705d9b
+:END:
 
-* 如何记忆淋巴瘤的标记
+#+title: 如何记忆淋巴瘤的标记
 
 ** Keywords
 

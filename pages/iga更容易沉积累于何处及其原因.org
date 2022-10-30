@@ -1,0 +1,18 @@
+:PROPERTIES:
+:ID:       470b6fc4-03a3-4bbb-a39d-157b8d8872fd
+:END:
+#+title: IgA更容易沉积累于何处及其原因 
+#+creationTime: [2022-10-29 Sat 16:36] 
+* Keywords
+- [[id:e5443752-2258-463d-9888-ae4c807a5056][IgA]]
+* Contents
+- [[id:e5443752-2258-463d-9888-ae4c807a5056][IgA]]更容易沉积于系膜区因为系膜区与血管内皮之间无系膜
+* Mnemonic
+#+DOWNLOADED: screenshot @ 2022-10-29 17:36:52
+[[file:../assets/IgA容易沉积于系膜区的原因.png]]
+
+
+
+
+
+* Reference

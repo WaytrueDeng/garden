@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       9f7bf7e7-7bce-4dfe-82c3-d5032281ca0a
+:END:
 
-* 如何记忆ARDS的特征性病理表现
+#+title: 如何记忆ARDS的特征性病理表现
 
 ** Keywords
 

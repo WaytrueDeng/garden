@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       38d5b715-5c40-4d66-9514-13b77f0a9427
+:END:
 
-* 如何记忆B类神经元的作用
+#+title: 如何记忆B类神经元的作用
 
 ** Keywords
 

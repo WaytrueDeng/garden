@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       0156bf85-6cd6-4cd6-9afd-bc590b41cd96
+:END:
 
-* 蛋白质C系统发挥抗凝作用需要何辅因子参与
+#+title: 蛋白质C系统发挥抗凝作用需要何辅因子参与
 ** Keywords
 [[蛋白质C系统]],[[抗凝]]
 ** Content

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       98025db3-08b9-47ff-b1b1-3b8980ab531e
+:END:
+#+title: 如何记忆甘油二酯途径 
+#+creationTime: [2022-10-29 Sat 19:50] 
+* Keywords
+- [[roam:甘油二酯]]
+* Contents
+
+#+DOWNLOADED: screenshot @ 2022-10-29 19:51:56
+[[file:../assets/甘油二酯合成途径真题讲解.png]]
+
+* Mnemonic
+* Reference

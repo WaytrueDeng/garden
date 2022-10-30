@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       2765b165-5096-4c2a-9d75-7a08e5bd5adc
+:END:
+#+title: myc 
+#+creationTime: [2022-10-29 Sat 16:33] 
+* Keywords
+- 
+* Contents
+* Mnemonic
+* Reference

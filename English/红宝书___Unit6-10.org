@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       aaf9e402-ae86-4fe7-9539-487a8199b3c9
+:END:
+#+title: 红宝书Unit6-10
+* The strong *[[beam]]* [[penetrate]]s through the door into a dark house.
+** 束,柱
+* Women in old China were *[[deprive]]d* of the right to be educated
+* At last, we had a *[[desirable]]* residence.
+:PROPERTIES:
+:collapsed: true
+:END:
+** 我们最终有了称心的住所
+* we all *[[desire]]* happiness and health.
+* *[[fling]]* a stone
+** 投掷,扔
+* The output of produce was *[[impair]]*ed by the bad weather
+** 削弱减少,损害损伤
+* *[[impart]]* a secret to a friend
+** 把秘密告诉给朋友
+* *[[implement]]* an agreement
+** 实现履行
+*

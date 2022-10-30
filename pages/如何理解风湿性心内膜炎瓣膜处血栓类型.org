@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       a77d0bb8-19a5-482a-8e13-e38ed7664568
+:END:
+#+title: 如何理解风湿性心内膜炎瓣膜处血栓类型 
+#+creationTime: [2022-10-29 Sat 17:52] 
+* Keywords
+- [[roam:风湿性心内膜炎]]
+* Contents
+- [[roam:白色血栓]]
+* Mnemonic
+- 因为形成[[roam:二狭]]后血小板不容易跟上血流速度一不留神就析出来了
+* Reference

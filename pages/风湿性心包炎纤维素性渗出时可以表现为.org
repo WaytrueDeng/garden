@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       defa924b-a8d9-4b57-b59b-b808d5c2c4b8
+:END:
+#+title: 风湿性心包炎纤维素性渗出时可以表现为 
+#+creationTime: [2022-10-29 Sat 18:43] 
+* Keywords
+- [[id:ac3d46ae-02df-4c3e-bb11-2ab91f1b3f33][风湿病]],[[id:21c3ffdc-b7b6-4b5d-9991-ce158c0a4c7d][心包炎]],[[id:195221db-81da-4cf8-a4e8-ea24a065d805][风湿性心包炎]],
+* Contents
+- 可以表现为[[id:f170a279-6e63-4060-aaa9-4e5fc383fc6a][绒毛心]]→进而发展成为[[roam:缩窄性心包炎]]
+* Mnemonic
+* Reference

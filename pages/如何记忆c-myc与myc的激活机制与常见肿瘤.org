@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       29cd1663-0b6e-4174-a7d7-c5cbb5f1c8d8
+:END:
 
-* 如何记忆c-myc与myc的激活机制与常见肿瘤
+#+title: 如何记忆c-myc与myc的激活机制与常见肿瘤
 
 ** Keywords
 

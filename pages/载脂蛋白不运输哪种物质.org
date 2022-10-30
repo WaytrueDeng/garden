@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       37ff62e8-2bb6-40f1-ae2e-3cf77e8130ad
+:END:
+#+title: 载脂蛋白不运输哪种物质
+#+FILETAGS: 抓规律记特殊
+#+creationTime: [2022-10-29 Sat 20:40] 
+* Keywords
+- [[id:92d1e929-1995-4a95-8a26-7f095240f4a7][脂蛋白]],[[roam:脂肪酸]]
+* Contents
+- [[roam:游离脂肪酸]]是靠[[id:5038730d-59a2-4f8b-ad7a-a48511da58ec][白蛋白]]进行转运的
+* Mnemonic
+* Reference

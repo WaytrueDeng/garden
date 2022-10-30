@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       448f5963-f13b-487c-8d85-d6bf87ebb7ad
+:END:
+#+title: 如何记忆风湿与类风湿的炎症性质 
+#+creationTime: [2022-10-29 Sat 18:52] 
+* Keywords
+-
+* Contents
+- [[id:ac3d46ae-02df-4c3e-bb11-2ab91f1b3f33][风湿病]]与[[roam:类风湿]]均为增生性炎症
+- [[id:ac3d46ae-02df-4c3e-bb11-2ab91f1b3f33][风湿病]]属于特殊的增生性炎即[[roam:肉芽肿]]性炎
+- [[roam:类风湿]]属于普通的增生性炎
+
+* Mnemonic
+- 你知道[[roam:Aschoff小体]]是由巨噬细胞吞噬纤维素样坏死物质而形成的就知道其为肉芽肿性炎
+* Reference

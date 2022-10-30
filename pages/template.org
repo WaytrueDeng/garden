@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       53fdb848-abed-416a-9d8c-488616d81d18
+:END:
+#+title: Cards
+:PROPERTIES:
+:template: cards
+:template-including-parent: false
+:ID:       ae8cb08b-4e5f-48b6-b840-66499344d13f
+:END:
+** Keywords
+** Contents
+** Mnemonic
+** References
+*

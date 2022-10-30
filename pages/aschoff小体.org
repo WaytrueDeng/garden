@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       aa2da4fd-f845-4d9e-bab0-8f434210082e
+:END:
+#+title: Aschoff小体 
+#+creationTime: [2022-10-29 Sat 18:56] 
+* Keywords
+- 
+* Contents
+* Mnemonic
+* Reference

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       4e69e25c-45f0-4e24-8890-1b607501bca8
+:END:
+#+title: 伤寒 
+#+creationTime: [2022-10-29 Sat 17:48] 
+* Keywords
+- 
+* Contents
+* Mnemonic
+* Reference

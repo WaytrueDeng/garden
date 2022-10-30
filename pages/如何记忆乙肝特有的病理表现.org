@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       0476a7c7-595c-4fdc-8166-55f3990c86cf
+:END:
+#+title: 如何记忆乙肝特有的病理表现 
+#+creationTime: [2022-10-29 Sat 19:09] 
+* Keywords
+- [[roam:HBV]],[[roam:乙肝]]
+* Contents
+- 毛玻璃样细胞
+- 砂砾样细胞核
+
+* Mnemonic
+- 玻璃很滑→滑面内质网,HBsAg
+- 砂砾样细胞核core→HBc(core)Ag
+* Reference

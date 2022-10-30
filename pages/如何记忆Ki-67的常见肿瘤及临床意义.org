@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       55b001aa-e02d-4cd7-a340-949cac3f5ed6
+:END:
 
-* 如何记忆Ki-67的常见肿瘤及临床意义
+#+title: 如何记忆Ki-67的常见肿瘤及临床意义
 
 ** Keywords
 

@@ -1,0 +1,7 @@
+:PROPERTIES:
+:ID:       92d1e929-1995-4a95-8a26-7f095240f4a7
+:END:
+#+title: 脂蛋白 
+#+creationTime: [2022-10-29 Sat 20:34] 
+* 载脂蛋白
+- [[id:37ff62e8-2bb6-40f1-ae2e-3cf77e8130ad][载脂蛋白不运输哪种物质]]

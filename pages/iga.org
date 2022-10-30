@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       e5443752-2258-463d-9888-ae4c807a5056
+:END:
+#+title: IgA 
+#+creationTime: [2022-10-29 Sat 16:21] 
+* Keywords
+- 
+* Contents
+* Mnemonic
+* Reference

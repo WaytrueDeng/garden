@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       e005ba26-5e92-463a-80b7-e295fb79a0ca
+:END:
+#+title: IgA肾病与其他类型的肾小球疾病沉积物的差别 
+#+creationTime: [2022-10-29 Sat 15:56] 
+* Keywords
+- [[roam:IgA]]
+* Contents
+- [[roam:IgA肾病]]的沉积物是[[roam:IgA]]而其他类型肾病的沉积物是[[roam:IgG]]
+* Mnemonic
+* Reference

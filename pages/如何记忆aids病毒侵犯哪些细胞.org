@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       ede1f742-26fb-4d4d-9ee9-d7c4d032c5ec
+:END:
+#+title: 如何记忆AIDS病毒侵犯哪些细胞 
+#+creationTime: [2022-10-29 Sat 19:01] 
+* Keywords
+- [[roam:AIDS]]
+* Contents
+- [[roam:CD4阳性T细胞]]
+- [[roam:树突状细胞]]
+- [[roam:单核细胞]]
+- [[roam:神经细胞]]
+* Mnemonic
+- 记忆为四叔单身
+* Reference

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       7cef0bd4-5b10-4753-aac7-7de35bd2bc0f
+:END:
+#+title: DASHBOARD 
+#+creationTime: [2022-10-29 Sat 14:24]  
+
+* 西综
+** 生物化学
+- [[id:92d1e929-1995-4a95-8a26-7f095240f4a7][脂蛋白]]
+
+* 西综真题
+** [[id:0106f7fe-60a0-4757-b528-f8f712c1e2ef][西医综合2013年真题]]

@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       7ca28259-d6b8-4050-b0ff-352e55fc4fc6
+:END:
+#+title: 炎症的主要病理变化包括 
+#+creationTime: [2022-10-29 Sat 18:57] 
+* Keywords
+- [[roam:炎症]]
+* Contents
+- 变性
+- 渗出
+- 增生
+
+* Mnemonic
+* Reference

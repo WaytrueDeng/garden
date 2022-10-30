@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       b2e33dba-60eb-420e-9912-27bf2ab51b8e
+:END:
 
-* 如何记忆Aβ的传入与传出作用
+#+title: 如何记忆Aβ的传入与传出作用
 
 ** Keywords
 

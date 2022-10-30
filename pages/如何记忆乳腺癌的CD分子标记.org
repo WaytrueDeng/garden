@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       f7f9416a-8d27-4d27-9659-3f706c5e0f53
+:END:
 
-* 如何记忆乳腺癌的CD分子标记
+#+title: 如何记忆乳腺癌的CD分子标记
 
 ** Keywords
 [[乳腺癌]]

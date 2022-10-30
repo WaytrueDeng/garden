@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       8672ceed-deb3-466b-acbd-631e840850a5
+:END:
+#+title: 如何记忆HPV致癌的分子机制 
+#+creationTime: [2022-10-29 Sat 15:42] 
+* Keywords
+* Contents
+- [[roam:HPV]]的E6作用于[[id:d4720ffe-0df8-4de7-94f0-6552d3fa0b2f][P53]]
+- [[roam:HPV]]的E7作用[[roam:RB]]
+
+* Mnemonic
+- 记忆为6对应53,把RB看成8,就是7对应8
+* Reference

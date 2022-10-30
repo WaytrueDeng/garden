@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5bdb3c3e-fe5f-4944-b8c3-78e5415b814f
+:END:
+#+title: 哪些肾小球疾病主要表现为IgA沉积 
+#+creationTime: [2022-10-29 Sat 16:19] 
+* Keywords
+- [[id:e5443752-2258-463d-9888-ae4c807a5056][IgA]]
+* Contents
+- [[id:35a868cb-1664-4f75-9580-612054306192][IgA肾病]],[[id:a814ea85-ff78-4843-b351-62537036d371][过敏性紫癫性肾炎]]
+* Mnemonic
+* Reference

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       ac3d46ae-02df-4c3e-bb11-2ab91f1b3f33
+:END:
+#+title: 风湿病 
+#+creationTime: [2022-10-29 Sat 18:45] 
+* Keywords
+- 
+* Contents
+* Mnemonic
+* Reference

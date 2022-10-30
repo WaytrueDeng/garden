@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       2ebc37da-d4e2-4fa3-a7bc-f805a1939768
+:END:
+#+title: 如何记忆一碳单位参与哪些物质的合成 
+#+creationTime: [2022-10-29 Sat 20:03] 
+* Keywords
+- [[roam:一碳单位]]
+* Contents
+- [[roam:肉碱]],[[roam:肾上腺素]],[[roam:肌酸]],[[roam:胆碱]]
+- [[roam:嘌呤核甘酸]],[[roam:胸腺嘧啶]]
+* Mnemonic
+- 一荤一素一鸡一蛋
+* Reference
+- [[roam:如何记忆嘧啶核苷酸的从头合成]]

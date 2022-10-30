@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       e70ba415-557e-4b95-8ffb-81243fa16d4e
+:END:
 
-* 为什么窦房结的最大复极电位仅为-70mv
+#+title: 为什么窦房结的最大复极电位仅为-70mv
 
 ** Keywords
 [[窦房结]]

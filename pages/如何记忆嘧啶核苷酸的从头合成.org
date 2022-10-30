@@ -1,0 +1,19 @@
+:PROPERTIES:
+:ID:       2a60fca4-1723-4acb-8cb9-03b472f11812
+:END:
+#+title: 如何记忆嘧啶核苷酸的从头合成 
+#+creationTime: [2022-10-29 Sat 20:08] 
+* Keywords
+- [[roam:嘧啶核苷酸]]
+* Contents
+- 嘧啶核苷酸是先合成嘧啶环,先合成尿嘧啶再由其转变为胞嘧啶与胸腺嘧啶
+#+DOWNLOADED: screenshot @ 2022-10-29 20:08:38
+[[file:../assets/嘧啶核苷酸的从头合成过程.png]]
+
+* Mnemonic
+- 记忆先合成嘧啶环的方案很简单,知道中间产物有个叫乳清酸的是一个单独的环就行
+- 记忆转变为尿嘧啶的过程为UC浏览器烧钱,所以是UTP→CTP
+- 记忆胸腺嘧啶为与尿嘧啶反过来,为dUMP→dTMP
+
+* Reference
+- [[id:4bf76d80-003b-4829-a57c-589e38a9f5aa][由核苷酸变为脱氧核苷酸必须发生在何水平上]]

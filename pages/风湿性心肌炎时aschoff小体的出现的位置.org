@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       573cfd27-e7d1-479e-be43-53d6112980a8
+:END:
+#+title: 风湿性心肌炎时Aschoff小体的出现的位置 
+#+creationTime: [2022-10-29 Sat 18:39] 
+* Keywords
+- [[roam:Aschoff小体]],[[roam:风湿病]]
+* Contents
+- 其出现在心肌的间质,由[[roam:巨噬细胞]]吞噬[[roam:纤维素样坏死]]物质
+* Mnemonic
+* Reference

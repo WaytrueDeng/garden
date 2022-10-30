@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       b1acbbac-35b8-4a90-b76d-7483c85aefff
+:END:
 
-* 如何记忆C类纤维的传入传出作用
+#+title: 如何记忆C类纤维的传入传出作用
 
 ** Keywords
 

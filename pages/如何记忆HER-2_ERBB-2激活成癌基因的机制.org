@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       4cd3bb0b-218d-4031-9c77-93d71a01c6c4
+:END:
 
-* 如何记忆HER-2_ERBB-2激活成癌基因的机制
+#+title: 如何记忆HER-2_ERBB-2激活成癌基因的机制
 
 ** Keywords
 

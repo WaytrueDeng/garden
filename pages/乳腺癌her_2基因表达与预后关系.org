@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a1171d45-6cf7-4fb2-8c26-d533cf0f6255
+:END:
+#+title: 乳腺癌HER-2基因表达与预后关系 
+#+creationTime: [2022-10-29 Sat 19:36] 
+* Keywords
+- [[roam:HER-2]],[[roam:乳腺癌]]
+* Contents
+- [[roam:HER-2]]表达越多预后越差
+* Mnemonic
+* Reference

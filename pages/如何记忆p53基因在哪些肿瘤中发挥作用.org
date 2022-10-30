@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       9a14aa07-8d99-441b-baa8-0e7e718dbfae
+:END:
+#+title: 如何记忆P53基因在哪些肿瘤中发挥作用 
+#+creationTime: [2022-10-29 Sat 15:08] 
+* Keywords
+- [[roam:p53]]
+* Contents
+- [[roam:滤泡性淋巴瘤]],[[roam:宫颈癌]]
+* Mnemonic
+* Reference
+- [[id:8672ceed-deb3-466b-acbd-631e840850a5][如何记忆HPV致癌的分子机制]]

@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       41d5d43f-93d1-4f9b-8fb1-a352771dfe57
+:END:
 
-* 骨化性肌炎常见于
+#+title: 骨化性肌炎常见于
 
 ** Keywords
 [[骨化性肌炎]]

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       e03710ca-9305-4803-ac8e-a0735c1f3506
+:END:
+#+title: AIDS最常见的机会感染与肿瘤是 
+#+creationTime: [2022-10-29 Sat 19:03] 
+* Keywords
+- [[roam:AIDS]]
+* Contents
+- 最常见的机会感染是[[roam:孢子虫病]]
+- 最常见的肿瘤是[[roam:卡波西肉瘤]]
+* Mnemonic
+* Reference

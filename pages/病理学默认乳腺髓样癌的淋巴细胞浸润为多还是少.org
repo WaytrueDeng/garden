@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       bfce466f-8c5c-4512-85fb-b15bee76919e
+:END:
+#+title: 病理学默认乳腺髓样癌的淋巴细胞浸润为多还是少 
+#+creationTime: [2022-10-29 Sat 19:31] 
+* Keywords
+- [[roam:乳腺癌]],[[roam:乳腺髓样癌]]
+* Contents
+- 默认大量淋巴细胞浸润
+* Mnemonic
+* Reference

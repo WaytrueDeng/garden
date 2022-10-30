@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       a346ff02-cf4f-4238-97c7-cddf4b08c158
+:END:
+#+title: 肉芽组织形成是否属于炎症病理变化 
+#+creationTime: [2022-10-29 Sat 18:58]
+* Keywords
+- [[roam:肉芽组织]]
+* Contents
+- 不属于,其属于修复过程而
+* Mnemonic
+* Reference

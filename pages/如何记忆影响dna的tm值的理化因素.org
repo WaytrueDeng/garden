@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       4a61f4b5-eaa1-4246-b2ef-354e8ad70a39
+:END:
+#+title: 如何记忆影响DNA的Tm值的理化因素 
+#+creationTime: [2022-10-29 Sat 19:43] 
+* Keywords
+- 
+* Contents
+- 长度↑→Tm↑
+- GC含量↑
+- 离子强度↑
+
+* Mnemonic
+- 长度越长配对的碱基就越多,因此也就越强
+- 离子强度越强牵拉作用就越强因子也越强
+* Reference

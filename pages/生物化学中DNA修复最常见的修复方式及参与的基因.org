@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       d3dd92f0-bd3c-41a3-9e3d-46bcce5ad690
+:END:
+#+title:生物化学中DNA修复最常见的修复方式及参与的基因
+
+#+title: Keywords
+#+title: Contents
+- 最常见的修复方式是切除修复,包括碱基切除修复核苷酸切除修复,碱基错配修复
+- 最常见的基因是 [[id:d4720ffe-0df8-4de7-94f0-6552d3fa0b2f][p53]]基因
+#+title: Mnemonic
+#+title: References
+*

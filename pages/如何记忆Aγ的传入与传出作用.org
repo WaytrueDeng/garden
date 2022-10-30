@@ -1,5 +1,8 @@
+:PROPERTIES:
+:ID:       eff95433-4731-4396-adba-ba4fc445961c
+:END:
 
-* 如何记忆Aγ的传入与传出作用
+#+title: 如何记忆Aγ的传入与传出作用
 
 ** Keywords
 
