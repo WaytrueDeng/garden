@@ -1,0 +1,362 @@
+:PROPERTIES:
+:ID:       a7f988ac-a614-4922-be02-8b63f1675746
+:END:
+#+title: 氨基酸代谢
+#+creationTime: [2022-10-31 Mon 15:30]  
+* 氨基酸脱羧基
+** 氨基酸脱羧基与酮酸脱羧基的酶辅因子的差异 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T13:32:57Z
+:FC_TYPE:  normal
+:ID:       61286087-8c53-4e4a-a03c-4b4191494dba
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-31T13:32:57Z |
+:END:
+- keywords:
+- Contents: 氨基酸为[[roam:磷酸吡哆醛]](VitB6),酮酸脱羧基为TPP(VitB1)
+- Mnemonics:
+- References:
+** 如何记忆磷酸吡哆醛作为辅因子参与哪些反应 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T13:32:57Z
+:FC_TYPE:  normal
+:ID:       54cf9ff7-95d6-4c15-8e80-97a08cc85369
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-31T13:32:57Z |
+:END:
+- keywords:
+- Contents: 磷酸化酶,转氨酶,氨基酸脱羧酶,ALA合酶
+- Mnemonics: TTS(脱羧:脱氨基酸的羧还是酮体的羧看转就想到转氨基原来是安氨基酸的羧)X带吡哆兽转(转氨)圈遛(磷酸化)湾回血(ALA)
+- References:
+** 如何记忆谷氨酸脱羧基的产物 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T13:32:58Z
+:FC_TYPE:  normal
+:ID:       c8a9bafe-055b-4612-82da-93d1bcc95d89
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-31T13:32:58Z |
+:END:
+- keywords: [[roam:谷氨酸]]
+- Contents: 变为[[roam:GABA]]
+- Mnemonics: 尼==古丁==
+- References:
+** 如何记忆半胱氨酸脱羧基的产物 :card:
+:PROPERTIES:
+:ID:       84147a89-4695-4724-abb7-091e5a3c213a
+:FC_CREATED: 2022-10-31T13:32:59Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-31T13:32:59Z |
+:END:
+- keywords: [[roam:半胱氨酸]]
+- Contents: 脱羧基变为[[roam:牛磺酸]]
+- Mnemonics: 记忆为半字很像牛
+- References:[[id:b68701f4-2ceb-43cf-8148-56cf6e9a29af][如何记忆胆汁酸可以与哪些成分结合形成结合胆汁酸?]]
+** 如何记忆鸟氨酸的脱羧基产物 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T13:33:00Z
+:FC_TYPE:  normal
+:ID:       e7347c6e-0f25-4b2c-ace5-9795399f44f6
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-31T13:33:00Z |
+:END:
+- keywords: [[roam:鸟氨酸]]
+- Contents: 多胺(腐胺,亚精胺,精胺)
+- Mnemonics: 记忆为精卫填海
+- References:
+* 氨基酸转氨基
+** 首先要明确转氨基能否脱氨基 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T13:33:03Z
+:FC_TYPE:  normal
+:ID:       8471a2de-5d51-48b8-bfd0-587e5313a1dd
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-31T13:33:03Z |
+:END:
+- keywords:
+- Contents: 转氨基能脱氨基,氨基只是在不同的物质之间转化
+- Mnemonics:
+- References:
+** 谷氨酸与草酰乙酰发生转氨基反应的产物 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T13:33:04Z
+:FC_TYPE:  normal
+:ID:       a137b83f-dabe-4d6a-a746-5c4e2ff85af4
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-31T13:33:04Z |
+:END:
+- keywords: roam:草酰乙酸,[[roam:谷氨酸]]
+- Contents: 转变为[[roam:天冬氨酸]]
+- Mnemonics:
+- References:
+** 如何记忆谷草转氨酶与谷丙转氨酶谁还出现在心脏 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T13:33:05Z
+:FC_TYPE:  normal
+:ID:       62f25127-e024-4ea7-bb05-b1998119e744
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-31T13:33:05Z |
+:END:
+- keywords:
+- Contents: 谷草转氨酶
+- Mnemonics: 记忆为操心
+- References:
+* 氨基酸脱氨基
+** 肝肾的联合脱氨基的主要酶是 :card:
+:PROPERTIES:
+:ID:       23b1dcb1-bbf2-467d-ab5d-976fcc386a49
+:FC_CREATED: 2022-10-31T12:15:31Z
+:FC_TYPE:  normal
+:END:
+- Backlinks:[[id:3835a296-f137-4f25-abf6-e897f2baf4c9][描述肌肉如何彻底的脱氨基]]
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-31T12:15:31Z |
+:END:
+- keywords:
+- Contents: [[roam:L-谷氨酸脱氢酶]]
+- Mnemonics:
+- References:[[id:4f0fc427-c935-4188-b7f3-42eaa0b822bd][体内唯一能用NAD与NADP脱氨基的酶是?]]
+** 转氨基过程其他氨基酸几乎都需要转给及原因 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T12:15:32Z
+:FC_TYPE:  normal
+:ID:       14308227-e7d0-4213-abf4-015c5215eebb
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-31T12:15:32Z |
+:END:
+- keywords:
+- Contents: 都需要转给α-酮戊二酸成为谷氨酸
+- Mnemonics: 谷氨酸是代谢最活跃的氨基酸
+- References:
+** 如何记忆心肌与骨骼肌进行联合脱氨基的方式 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T12:15:33Z
+:FC_TYPE:  normal
+:ID:       b9e2b1e9-43ab-43f3-a813-816ae0231aff
+:END:
+- Backlinks:[[id:3835a296-f137-4f25-abf6-e897f2baf4c9][描述肌肉如何彻底的脱氨基]]
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-31T12:15:33Z |
+:END:
+- keywords:
+- Contents: 转氨基+嘌呤核苷酸循环
+- Mnemonics:
+  - 次天天闲的很
+[[file:../assets/嘌呤核苷酸循环.png]]
+
+- References:[[id:8b8b54eb-99fe-4d86-9f28-d66b45398ccc][ADA主要存在何种细胞中,生物化学中其主要存在于何反应中? #card]]
+** 心肌骨骼肌联合脱氨基中催化腺嘌呤脱氨基的酶是 :card:
+:PROPERTIES:
+:ID:       b5ff543c-5d84-4e57-8317-f47710b05347
+:FC_CREATED: 2022-10-31T12:15:34Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-31T12:15:34Z |
+:END:
+- keywords:
+- Contents: [[roam:ADA]]
+- Mnemonics:
+- References:[[id:8b8b54eb-99fe-4d86-9f28-d66b45398ccc][ADA主要存在何种细胞中,生物化学中其主要存在于何反应中? #card]]
+** ADA缺乏所导致的疾病是 :card:
+:PROPERTIES:
+:ID:       e17943a5-e03e-4787-93a4-53b58e1f4d27
+:FC_CREATED: 2022-10-31T12:15:34Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-31T12:15:34Z |
+:END:
+- keywords:
+- Contents: [[roam:联合免疫缺陷综合征]]
+- Mnemonics: 因为ADA在淋巴细胞中表达很高
+- References:  [[id:7c0ba8d7-b82e-487c-bcd0-a2313474dad9][判断胸腔积液性质的思路? #card]]
+
+* 氨的代谢
+
+** 肌肉运输氨依赖于何循环 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T12:41:05Z
+:FC_TYPE:  normal
+:ID:       d0818849-c88c-44dd-80d3-feba1e829d56
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-31T12:41:05Z |
+:END:
+- keywords: [[roam:葡萄糖]],[[roam:丙酮酸]]
+- Contents: [[roam:葡萄糖-丙酮酸循环]],丙酮酸与谷氨酸转氨基生成丙氨酸与α-酮戊二酸
+- Mnemonics:
+- References:
+** 描述肌肉如何彻底的脱氨基 :card:
+:PROPERTIES:
+:ID:       3835a296-f137-4f25-abf6-e897f2baf4c9
+:FC_CREATED: 2022-10-31T12:41:04Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-31T12:41:04Z |
+:END:
+- keywords:
+- Contents: 肌肉蛋白质通过嘌呤核苷酸循环脱下氨基后于α酮戊二酸生成谷氨酸,后者再进行[[roam:葡萄糖-丙酮酸循环]]后转移至肝脏丙氨酸将氨还给谷氨酸后再[[roam:L-谷氨酸脱氢酶]]的作用下彻底脱掉进入尿素循环
+- Mnemonics:
+- References:
+  - [[id:b9e2b1e9-43ab-43f3-a813-816ae0231aff][如何记忆心肌与骨骼肌进行联合脱氨基的方式]]
+  - [[id:23b1dcb1-bbf2-467d-ab5d-976fcc386a49][肝肾的联合脱氨基的主要酶是]]
+  - [[id:4f0fc427-c935-4188-b7f3-42eaa0b822bd][体内唯一能用NAD与NADP脱氨基的酶是]]
+
+** 谷氨酰胺
+:PROPERTIES:
+:ID:       5c6238f3-1f8d-43e3-a013-fc8b755bad0e
+:END:
+- [[id:2de38472-d8f2-4709-a011-b15cd4259de2][谷氨酰胺在生理学,外科学,生化中的不同重点?]]
+** 尿素循环的示意图
+[[file:../assets/鸟氨酸循环示意图.png]]
+*** 瓜氨酸与次黄嘌呤天冬氨酸反应的产物分别是 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T13:20:14Z
+:FC_TYPE:  normal
+:ID:       86e142fd-a75d-43a7-89ff-14e6f03954c6
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-31T13:20:14Z |
+:END:
+- keywords:
+- Contents: (精氨酸代琥珀酸,腺嘌呤琥珀酸)+延胡索酸
+- Mnemonics:
+- References:
+*** 草酰乙酸与天冬氨酸的关系是? :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T13:20:14Z
+:FC_TYPE:  normal
+:ID:       a5478aa7-c24a-463e-a12d-e048c2b2848f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-31T13:20:14Z |
+:END:
+- keywords: [[roam:草酰乙酸]],[[roam:天冬氨酸]]
+- Contents: 转氨基
+- Mnemonics:
+- References:
+*** 精氨酸在尿素循环中的作用 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T13:20:15Z
+:FC_TYPE:  normal
+:ID:       d76e5b71-fdc3-4a5f-bf37-d9bda37a14b6
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-31T13:20:15Z |
+:END:
+- keywords:
+- Contents: 精氨酸增加促进谷氨酸与乙酰CoA合成AGA的酶(AGA合酶)的活性,而AGA又能增强[[roam:CPS-1]]的活性
+- Mnemonics: 因此可以理解内科学中用精氨酸治疗肝性脑病
+- References:
+*** 鸟氨酸与CPS合成的过程为非关键酶催化是否可逆 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T13:32:45Z
+:FC_TYPE:  normal
+:ID:       006002fe-96b6-4054-b119-7b50248e186e
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-31T13:32:45Z |
+:END:
+- keywords:
+- Contents: OCT ==不可逆==
+- Mnemonics: 虽然为非关键酶催化但是不可逆
+- References:
+* 氨基酸专题
+** 如何记忆疏水氨基酸
+- keywords:
+- Contents: 携一两饼干奔复旦
+- Mnemonics:
+- References:
+** 肝功能不全时补充支链氨基酸的目的是
+- Contents:  防止支链氨基酸进大脑
+** 如何记忆生糖兼生酮氨基酸
+:PROPERTIES:
+:ID:       173ea827-28d8-44c0-8a20-ca7e0fec8f49
+:END:
+- Contents: 一本落色书
+- References: [[id:fc2c9edb-3c74-4e8e-bf01-c13c6a98dfaa][为什么苯丙氨酸与酪氨酸为生酮兼生糖氨基酸]]
+** 如何记忆不能转氨基的氨基酸
+- Mnemonic: 不抢书来
+** [#A] 必须氨基酸有些可以转氨基为什么还是必须氨基酸
+- Contents: 必须氨基酸的本质是其所对应的酮酸无法在体内合成
+** 如何记忆半必须氨基酸
+- Contents: 酪,胱,精
+- Mnemonic: 老光景
+** [#A] 体内硫酸根的活化形式为
+- Contents: 3磷酸腺苷5磷酸硫酸
+** 组成蛋白质却无密码子的氨基酸
+- Contents: 胱氨酸,羟脯氨酸,羟赖氨酸
+- Mnemonic: 被翻译后加工了
+** 在脑子里走一遍SAM循环
+
+#+DOWNLOADED: screenshot @ 2022-11-01 10:58:43
+    [[file:../assets/SAM循环天天师兄手绘.png]]
+** 若VitB12缺乏会导致哪些后果
+- Contents: 高同型半胱氨酸为高血压危险因素导致冠心病,影响四氢叶酸的再生
+** 如何记忆紫外线吸收波长
+- Mnemonic: 核酸两个兹260,氨基酸3个字280,加上茚三酮后更多了570nm
+** 苯丙氨酸与酪氨酸的代谢途径
+
+#+DOWNLOADED: screenshot @ 2022-11-01 11:14:33
+[[file:../assets/苯丙氨酸羟化酶.png]]
+*** 苯丙氨酸羟化酶的辅因子是
+- Contents: 四氢生物蝶呤
+** 为什么苯丙氨酸与酪氨酸为生酮兼生糖氨基酸
+:PROPERTIES:
+:ID:       fc2c9edb-3c74-4e8e-bf01-c13c6a98dfaa
+:END:
+- Backlinks:[[id:173ea827-28d8-44c0-8a20-ca7e0fec8f49][如何记忆生糖兼生酮氨基酸]]
+- Contents: 因为其产物尿黑酸能转变为延胡索酸与乙酰乙酸
+** 一碳单位可以互相转化但是谁不行
+- Contents: 甲基
+  #+DOWNLOADED: screenshot @ 2022-11-01 11:22:19
+  [[file:../assets/一碳单位.png]]

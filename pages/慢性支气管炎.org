@@ -1,2 +1,5 @@
-* #+alias:慢支
-*
+:PROPERTIES:
+:ID:       86834278-23a1-4a0b-a3aa-2631b55cd496
+:ROAM_ALIASES: 慢支
+:END:
+#+title: 慢性支气管炎

@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       a1501cc4-af01-421f-9f8a-5f65e4aaf831
+:END:
+#+title: 核苷酸代谢 
+#+creationTime: [2022-11-01 Tue 12:32]  
+* 嘌呤碱基与嘧啶碱基的组份来源图示
+
+#+DOWNLOADED: screenshot @ 2022-11-01 12:52:39
+[[file:../assets/嘌呤与嘧啶碱基的组分图.png]]
+* 嘌呤核苷酸代的代谢
+** 嘌呤核苷酸代谢的关键酶是
+- Contents: PRPP合成酶,PRPP酰胺转移酶
+** 嘌呤核苷酸代谢的关键酶的抑制剂
+- Contents: IMP,AMP,GMP
+** 如何记忆嘌呤核苷酸代谢的关键酶的交叉调节
+- Contents: AMP抑制AMP合成,GMP抑制GMP合成,ATP促进GMP合成,GTP促进AMP合成
+** 大脑是否能从头合成IMP
+- Contents: 不能
+** AMP的补救合成的酶是
+- Contents: 腺嘌呤磷酸核糖转移酶(APRT)
+- Mnemonic: 因此也记住了IMP与GMP是一起的酶
+** 嘌呤核苷酸的分解产物及关键酶是
+- Contents: 尿酸,关键酶是黄嘌呤氧化酶
+* 嘧啶核苷酸的代谢
+** 嘧啶核苷酸的合成调节
+
+#+DOWNLOADED: screenshot @ 2022-11-01 13:21:18
+[[file:../assets/嘧啶核苷酸的合成调节.png]]
+** dUMP合成dTMP的一碳单位来自于SAM循环吗
+- keywords:
+- Contents: 不
+- Mnemonics:
+- References:
+** 如何记忆CU和T的代谢产物
+- Mnemonic: C甲乙丙→β丙氨酸参与三羧酸循环+NH₃+CO₂,T→丁长得像β氨基异丁酸→三羧酸循环+NH₃+CO₂

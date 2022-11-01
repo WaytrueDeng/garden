@@ -1,6 +1,7 @@
 :PROPERTIES:
-:title: 为什么预激综合征时不能用洋地黄与CCB? #card
+:ID:       dae3f0e4-eaf0-4600-bdd3-fcad3b77f5e1
 :END:
+#+title: 为什么预激综合征时不能用洋地黄与CCB
 * 洋地黄可以导致房室传导旁路的有效不应期缩短,但是房室结传导速度减慢,更多冲动经旁路传导
 * 非二氢吡啶类CCB使得房室结传导速度减慢,延长窦房结与房室结的有效不应期
-* ![image.png](../assets/image_1665420648615_0.png)
+* [[file:../assets/image_1665420648615_0.png]]

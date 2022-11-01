@@ -1,26 +1,7 @@
-* 消化系统
 :PROPERTIES:
-:collapsed: true
+:ID:       abb82ccd-cfff-48b3-a25e-69b43de8f523
 :END:
-** [[生理学/消化系统]]
-** [[病理学/消化系统]]
-** [[内科学/消化系统]]
-** 外科学
-*** [[外科学/胃十二指肠疾病]]
-[[外科学/小肠疾病]]
-[[外科学/阑尾炎]]
-[[外科学/结直肠肛管疾病]]
-* 呼吸系统
-:PROPERTIES:
-:collapsed: true
-:END:
-** [[病理学/呼吸系统]]
-** [[内科学/呼吸系统]]
-* 循环系统
-:PROPERTIES:
-:collapsed: true
-:END:
-** [[内科学/循环系统]]
+#+title: DASHBOARD
 * 生理学
 :PROPERTIES:
 :collapsed: true
@@ -50,6 +31,14 @@
 ** [[磷酸戊糖途径]]
 ** [[糖原合成与分解]]
 ** [[糖异生]]
+** [[id:92d1e929-1995-4a95-8a26-7f095240f4a7][脂蛋白]]
+** [[id:29be6f16-5b4f-48f3-8343-472165d137fd][磷脂代谢]]
+** [[id:ab54f606-b2e8-41d1-a53e-a8fdd0fb503c][胆固醇]]
+** [[id:03729895-bfce-425d-a680-e5518375a4d5][脂肪代谢]]
+** [[id:a7f988ac-a614-4922-be02-8b63f1675746][氨基酸代谢]]
+** [[id:72ec8aca-8d49-44a5-b1a0-2a66703ba4a1][维生素]]
+** [[id:a1501cc4-af01-421f-9f8a-5f65e4aaf831][核苷酸代谢]]
+
 * 外科学
 :PROPERTIES:
 :collapsed: true
@@ -72,13 +61,14 @@
 ** [[马原/唯物史观]]
 ** [[马原/辩证法]]
 ** [[政经]]
-** [[史纲]]
+** [[id:2623a50e-a184-42f3-bbb5-19df2d4d59eb][史纲]]
 * 英语
 :PROPERTIES:
 :collapsed: true
 :END:
 ** [[红宝书/Unit1-5]]
 ** [[红宝书/Unit6-10]]
+** [[id:795743f4-cbde-42de-90e1-4b7b6dd0c0dc][英语真题]]
 * 天天师兄
 :PROPERTIES:
 :collapsed: true
@@ -87,17 +77,5 @@
 ** [[天天师兄/内科学]]
 ** [[天天师兄/生理学]]
 * [[天天师兄/十年真题]]
-* :PROPERTIES:
-:query-sort-by: block
-:query-table: false
-:query-sort-desc: true
-:END:
-#+BEGIN_QUERY
-{:title "All blocks with tag project"
- :query [:find (pull ?b [*])
-         :where
-         [?a :block/name ""]
-         [?b :block/refs ?a]]}
-#+END_QUERY
-*
-*
+- [[id:0106f7fe-60a0-4757-b528-f8f712c1e2ef][西医综合2013年真题]]
+-

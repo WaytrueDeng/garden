@@ -1,0 +1,276 @@
+:PROPERTIES:
+:ID:       03729895-bfce-425d-a680-e5518375a4d5
+:END:
+#+title: 脂肪代谢
+#+creationTime: [2022-10-31 Mon 11:03]
+
+* 甘油合成途径
+** 如何记忆甘油一酯途径与甘油二酯途径的根本底物 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T05:27:05Z
+:FC_TYPE:  normal
+:ID:       ed9debfd-5055-4994-aae5-200bb4b28755
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   2 |     1.00 | 2022-11-01T06:49:31Z |
+:END:
+*** 甘油一酯途径是小肠上皮细胞内由甘油一酯作为底物与长链脂肪酸合成甘油三酯的过程
+*** 而甘油二酯途径是从葡萄糖酵解开始徉磷酸甘油作为根本底物
+* 甘油二酯酯化
+** 甘油二酯脂化时甘油可以来自于 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T03:54:31Z
+:FC_TYPE:  normal
+:ID:       ee57acdc-702b-41c5-bcc0-0a379cc0ea1c
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   2 |     1.00 | 2022-11-01T06:49:24Z |
+:END:
+*** 葡萄糖与氨基酸
+** 甘油的活化形式即完成转化相应的酶是 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T03:54:29Z
+:FC_TYPE:  normal
+:ID:       9af47267-758f-4b20-8f85-96874d3c89df
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-31T03:54:29Z |
+:END:
+*** 甘油磷酸激酶转化为三磷酸甘油
+** 甘油激酶在哪些地方的活性很低 :card:考点:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T03:50:28Z
+:FC_TYPE:  normal
+:ID:       ffdcf37f-df08-45c7-b4da-7e8a8a359891
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-31T03:50:28Z |
+:END:
+*** 脂肪细胞与骨骼肌细胞
+Contens: 脂肪与骨胳肌细胞合成脂肪只能来自于葡萄糖
+** 脂肪酸与胆固醇合成中乙酰CoA合成来源的差别 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T05:26:52Z
+:FC_TYPE:  normal
+:ID:       d4a13ada-fef5-4094-9a13-6a243bcd0767
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   2 |     1.00 | 2022-11-01T06:48:16Z |
+:END:
+*** 脂肪酸的乙酰CoA合成来自于糖与氨基酸,而胆固醇的乙酰CoA既可以来自于糖氨基酸与脂肪酸
+- keywords: [[roam:乙酰CoA]]
+- Mnemonics: 脂肪酸除非有毛病啊分解自己的形成乙酰CoA再来合成自己
+- References:
+** 脂肪酸合成过程中的NADP氢可以来自于 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T05:26:53Z
+:FC_TYPE:  normal
+:ID:       8e120cd3-e36f-4c56-81cd-5966f76d1687
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-31T05:26:53Z |
+:END:
+*** 磷酸戊糖途径或柠檬酸丙酮酸循环
+:PROPERTIES:
+:ID:       0fed3669-7a6c-41aa-b94e-b39edef9868b
+:END:
+- keywords: [[roam:柠檬酸-丙酮酸循环]]
+- Mnemonics:
+- References: [[id:d5054980-ce57-48f9-9d6b-4b0769793d8b][体内能提供NADPH的反应包括?]]
+** 脂肪酸合成的关键酶是 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T05:26:53Z
+:FC_TYPE:  normal
+:ID:       76bac2e6-57b8-43d5-8373-68ac8dda6db4
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   2 |     1.00 | 2022-11-01T06:48:31Z |
+:END:
+*** 丙酮酸羧化酶
+** 脂肪酸合成关键酶的激活剂包括 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T05:26:54Z
+:FC_TYPE:  normal
+:ID:       fc1e90ef-af81-4b31-9db5-12dcddd2610f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   2 |     1.00 | 2022-11-01T06:48:02Z |
+:END:
+*** 柠檬酸,异柠檬酸,乙酰CoA,丙二酰CoA
+:PROPERTIES:
+:ID:       e03c6f51-99c5-49ca-ba28-038bee170b63
+:END:
+- keywords: [[roam:柠檬酸]] [[roam:异柠檬酸]] [[roam:乙酰CoA]] [[roam:丙二酰CoA]] [[roam:正反馈]]
+- Mnemonics: 不仅其底物柠檬酸与异柠檬酸与乙酰CoA能激活它,甚至其产生丙二酰CoA也能激活它
+- References: [[id:635a44ca-bee5-4a35-91e3-78b84dd5d218][如何记忆磷酸果糖激酶-1的调节?]]
+** 合成脂肪酸的部位以及承载酯酰基的载体蛋白是 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T05:26:55Z
+:FC_TYPE:  normal
+:ID:       3deca739-747d-4d5f-918e-e2fc436a639e
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-31T05:26:55Z |
+:END:
+*** 合成部位位于胞浆,承载蛋白是酯酰基载体蛋白ACP(VitB5)
+** 合成脂肪酸后延长部位及承载及酯酰基载体 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T05:26:57Z
+:FC_TYPE:  normal
+:ID:       0043d2ff-e036-43d9-99ab-a02382271ae4
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   2 |     1.00 | 2022-11-01T06:48:27Z |
+:END:
+*** 延长部位是线粒体与内质网承载蛋白是CoA(VitB5)
+** [[id:98025db3-08b9-47ff-b1b1-3b8980ab531e][如何记忆甘油二酯途径]]
+* 脂肪分解
+** 催化甘油三酯变为甘油二酯的酶是 :card:
+*** 脂肪组织脂肪酶(ATGL)
+** 催化甘油二酯变为甘油一酯的酶是 :card:
+*** 激素敏感性脂肪酶
+- keywords:
+- Mnemonics: ==其又叫做甘油三酯酯酶但是其所催化的底物是甘油二酯==
+- References:
+** 抑制激素敏感性脂肪酶的激素包括 :card:
+*** 胰岛素,前列腺素
+** 一分子甘油完全分解可以为机体提供多少ATP :card:
+*** 16.5或者18.5
+** 为什么脂肪酸无法糖异生 :card:
+- keywords: [[roam:糖异生]]
+- Mnemonics: 因为热力学上不允许从[[roam:乙酰CoA]]变为[[roam:丙酮酸]]
+- References:
+** 脑能否进行脂肪酸β氧化 :card:
+:PROPERTIES:
+:ID:       b25bfee7-3e69-4f4f-9569-786760ef2027
+:END:
+- Backlinks:[[id:e893ce55-8614-44fc-ab1e-47cb20116549][如何理解酮体生成的意义]]
+- keywords:
+- Contents: 无法进行脂肪酸β氧化,脂肪酸无法透过血脑屏障
+- Mnemonics:
+- References:
+** 脂肪酸进行分解之前必须活化的酶及耗能 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T06:46:19Z
+:FC_TYPE:  normal
+:ID:       d13eef1f-1854-4b5c-a7e0-1ee05ab41edc
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-31T06:46:19Z |
+:END:
+- keywords:
+- Contents: 酯酰CoA合成酶,消耗一个ATP生成AMP即消耗两个高能磷酸键
+- Mnemonics:
+- References:
+** 酯酰CoA进入线粒体所需要的酶包括 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T06:46:20Z
+:FC_TYPE:  normal
+:ID:       c8b8a194-1af8-4ea3-bce4-76e9b8f3675a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-31T06:46:20Z |
+:END:
+- keywords:
+- Contents: 肉碱酯酰转移酶Ⅰ,肉碱酯酰转位酶,肉碱酯酰转移酶Ⅱ
+- Mnemonics:
+- References:
+** 催化酯酰CoAβ氧化的第一步反应的酶及其产物 :card:
+:PROPERTIES:
+:ID:       5f7c1c9f-a998-4937-b455-44eea81d5b7b
+:FC_CREATED: 2022-10-31T06:46:21Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   2 |     1.00 | 2022-11-01T06:48:21Z |
+:END:
+- keywords:
+- Contents: 脱氢反应,而且脱下的氢是[[roam:FADH2]]
+- Mnemonics:
+- References: [[id:1ae8e84c-c861-42fc-bb23-fd45dbfe6161][如何记忆哪些物质参与FADH呼吸链?]]
+** 酮体与脂肪酸代谢的关系 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T06:46:22Z
+:FC_TYPE:  normal
+:ID:       41b0d7dc-d491-4cc1-8a2e-9e1fd2eb746b
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-31T06:46:22Z |
+:END:
+- keywords:
+- Contents: 酮体是脂肪酸代谢特有的产物,糖与蛋白质也能生成氨基酸但是无法生成酮体
+- Mnemonics:
+- References:
+** 酮体的生成过程中催化乙酰CoA合成乙酰乙酰CoA合成的酶 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T06:46:23Z
+:FC_TYPE:  normal
+:ID:       86629899-b66c-4a5f-b4db-8a0ea00b0e2d
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-31T06:46:23Z |
+:END:
+- keywords:
+- Contents: 乙酰乙酰CoA硫解酶
+- Mnemonics:
+- References:
+** 酮体的利用中乙酰乙酸转变为乙酰乙酰CoA的酶是 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-10-31T06:46:23Z
+:FC_TYPE:  normal
+:ID:       f67d00fc-00b0-4a4b-8302-f2c0c628d239
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   2 |     1.00 | 2022-11-01T06:48:11Z |
+:END:
+- keywords:
+- Contents: 乙酰乙酸硫激酶,琥珀酰CoA转硫酶
+- Mnemonics: 琥珀酰CoA转硫酶就是把琥珀酰CoA的CoA转给乙酰乙酸
+- References:
+** 如何理解酮体生成的意义 :card:
+:PROPERTIES:
+:ID:       e893ce55-8614-44fc-ab1e-47cb20116549
+:FC_CREATED: 2022-10-31T06:46:26Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-10-31T06:46:26Z |
+:END:
+- keywords:
+- Contents: 主要是脑袋的能量代谢
+- Mnemonics: 脑子能量葡萄糖能量不足就得利用脂肪酸可惜不能利用脂肪酸于是就有了酮体进行替代
+- References:[[id:b25bfee7-3e69-4f4f-9569-786760ef2027][脑能否进行脂肪酸β氧化]]

@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       a76c02c9-d51d-4d79-b2d1-ea664b2d25a0
+:END:
+#+title: 病毒性肺炎 
+#+creationTime: [2022-10-31 Mon 00:10]  

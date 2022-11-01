@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       72ec8aca-8d49-44a5-b1a0-2a66703ba4a1
+:END:
+#+title: 维生素
+#+creationTime: [2022-11-01 Tue 11:26]
+* 抗氧化的维生素包括
+- ACE
+* 骨化三醇的合成途径图示
+[[file:../assets/骨化三醇的合成途径.png]]

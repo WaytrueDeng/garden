@@ -1,4 +1,4 @@
-* #+title: 西综真题/2014
+#+title: 西综真题2014
 * {{cards 西综真题/2014}}
 * 生理
 :PROPERTIES:
@@ -10,69 +10,45 @@
 *** [[抗凝物质总结]]
 :PROPERTIES:
 :END:
-**** 抗凝血酶英语为? #card
+**** 抗凝血酶英语为? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 ***** AT
-**** 抗凝血酶主要抑制哪些凝血因子? #card
+**** 抗凝血酶主要抑制哪些凝血因子? :card:
 :PROPERTIES:
 :background-color: red
 :END:
 ***** 2,9,10,11,12
-**** [[蛋白质C系统]]灭活哪些因子? #card
+**** [[蛋白质C系统]]灭活哪些因子? :card:
 :PROPERTIES:
-:card-last-interval: 8.34
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-11-01T21:18:23.405Z
-:card-last-reviewed: 2022-10-24T13:18:23.406Z
-:card-last-score: 5
 :END:
 ***** 5,8
-**** FDP(纤维蛋白降解产物),[[3P试验]]原理? #card
+**** FDP(纤维蛋白降解产物),[[3P试验]]原理? :card:
 :PROPERTIES:
-:card-last-interval: 8.34
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-11-01T21:09:18.659Z
-:card-last-reviewed: 2022-10-24T13:09:18.659Z
-:card-last-score: 5
 :END:
 ***** FDP结合纤维蛋白单体防止其交联成网从而起到抗凝的作用
 ***** 而鱼精蛋白结合FDP使之丧失结合纤维蛋白单体的作用.导致血液凝固
-**** [[肝素]]的作用机制? #card
+**** [[肝素]]的作用机制? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 ***** 增强[[抗凝血酶]]活性
 ***** 促进[[TFPI]]释放
-**** 华法林的作用机制是? #card
+**** 华法林的作用机制是? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 ***** 拮亢VitK
-**** 枸橼酸钠的作用是? #card
+**** 枸橼酸钠的作用是? :card:
 :PROPERTIES:
-:card-last-interval: 8.34
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-11-01T21:17:46.434Z
-:card-last-reviewed: 2022-10-24T13:17:46.434Z
-:card-last-score: 5
 :END:
 ***** 螯合Ca²⁺,体外抗凝
 *** [[抗血小板物质总结]]
 :PROPERTIES:
 :END:
-**** 阿司匹林抑制何酶? #card
+**** 阿司匹林抑制何酶? :card:
 :PROPERTIES:
-:card-last-interval: 8.34
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-11-01T21:15:07.577Z
-:card-last-reviewed: 2022-10-24T13:15:07.577Z
-:card-last-score: 5
 :END:
 ***** 抑制Cox-1
 ***** 而 ((63551e8e-b64f-4783-a56d-6a3eab22560d))
@@ -81,7 +57,7 @@
 :collapsed: true
 :END:
 ***** 抑制ADP受体
-**** [[阿昔单抗]]抑制何酶? #card
+**** [[阿昔单抗]]抑制何酶? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
@@ -89,14 +65,8 @@
 *** [[溶栓物质总结]]
 :PROPERTIES:
 :END:
-**** 如何记忆混合血栓? #card
+**** 如何记忆混合血栓? :card:
 :PROPERTIES:
-:card-last-interval: 8.34
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-11-01T21:28:21.334Z
-:card-last-reviewed: 2022-10-24T13:28:21.334Z
-:card-last-score: 5
 :id: 63556d9c-d518-4752-ae0f-5e2d718c0482
 :END:
 ***** 又名层状血栓,为连续性血栓的体部,可以想象成白色血栓与红色血栓间隔,实质上是血小板小梁与充满红细胞的纤维素网交替排列
@@ -104,7 +74,7 @@
 ** 8
 :PROPERTIES:
 :END:
-*** FEV1和FVC均减小,FEV1/FVC基本不变为何疾病的特征? #card
+*** FEV1和FVC均减小,FEV1/FVC基本不变为何疾病的特征? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
@@ -112,7 +82,7 @@
 ** 10
 :PROPERTIES:
 :END:
-*** [[COPD]]等Ⅱ型呼衰时兴奋呼吸的主要因素是何物质对何处感受器的兴奋? #card
+*** [[COPD]]等Ⅱ型呼衰时兴奋呼吸的主要因素是何物质对何处感受器的兴奋? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
@@ -120,63 +90,39 @@
 ** 11
 :PROPERTIES:
 :END:
-*** [[迷走神经]]对 [[胃酸]]的促分泌机制? #card
+*** [[迷走神经]]对 [[胃酸]]的促分泌机制? :card:
 :PROPERTIES:
-:card-last-interval: 8.34
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-11-01T21:13:37.787Z
-:card-last-reviewed: 2022-10-24T13:13:37.787Z
-:card-last-score: 5
 :END:
 **** [[../assets/image_1666098779276_0.png]]
 ** 13
 :PROPERTIES:
 :END:
-*** 食物消化过程中经小肠黏膜毛细淋巴管吸收的物质是? #card
+*** 食物消化过程中经小肠黏膜毛细淋巴管吸收的物质是? :card:
 :PROPERTIES:
-:card-last-interval: 8.34
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-11-01T21:16:58.756Z
-:card-last-reviewed: 2022-10-24T13:16:58.756Z
-:card-last-score: 5
 :END:
 **** [[甘油一酯]]与[[长链脂肪酸]]
 ** 14 [[呼吸商]]
 :PROPERTIES:
 :collapsed: true
 :END:
-*** [[呼吸商]]的定义为? #card
+*** [[呼吸商]]的定义为? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 **** 一定时间内呼出CO₂与吸入O₂的比值
-*** 如何记忆[[蛋白质]]的 [[呼吸商]]? #card
+*** 如何记忆[[蛋白质]]的 [[呼吸商]]? :card:
 :PROPERTIES:
-:card-last-interval: 8.34
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-11-01T21:26:33.178Z
-:card-last-reviewed: 2022-10-24T13:26:33.178Z
-:card-last-score: 5
 :END:
 **** 王八蛋 0.8
-*** 如何记忆长期进食糖类的呼吸商变化? #card
+*** 如何记忆长期进食糖类的呼吸商变化? :card:
 :PROPERTIES:
-:card-last-interval: 4.43
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-10-28T23:21:17.775Z
-:card-last-reviewed: 2022-10-24T13:21:17.775Z
-:card-last-score: 3
 :END:
 **** 涉及到糖转化为脂肪的问题,呼吸商>1.糖转化为脂肪放出部分氧,所以机体就不需要从外界摄取这部分氧
 ** 15
 :PROPERTIES:
 :collapsed: true
 :END:
-*** 使肾小球系膜细胞收缩的物质包括? #card
+*** 使肾小球系膜细胞收缩的物质包括? :card:
 :PROPERTIES:
 :background-color: red
 :END:
@@ -184,30 +130,18 @@
 ** X
 :PROPERTIES:
 :END:
-*** 如何记忆近端小管与集合管泌氨的形式? #card
+*** 如何记忆近端小管与集合管泌氨的形式? :card:
 :PROPERTIES:
-:card-last-interval: 8.34
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-11-01T21:28:27.182Z
-:card-last-reviewed: 2022-10-24T13:28:27.182Z
-:card-last-score: 5
 :END:
 **** 近端小管泌氢以Na-H交换为主所以是泌铵为主
 **** 集合管以泌氨为主
-*** 刺激 [[ADH]]分泌的三种途径及其相应的感受器? #card
+*** 刺激 [[ADH]]分泌的三种途径及其相应的感受器? :card:
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-10-24T16:00:00.000Z
-:card-last-reviewed: 2022-10-24T13:20:30.139Z
-:card-last-score: 1
 :END:
 **** 血浆晶体渗透压→下丘脑的渗透压感受器
 **** 血液容量→心肺容量感受器
 **** *主动脉血压→压力感受器*
-*** [[帕金森病]]治疗[[静止性震颤]]的药物是? #card
+*** [[帕金森病]]治疗[[静止性震颤]]的药物是? :card:
 :PROPERTIES:
 :id: 634eafef-14c5-47da-9e34-195a4baab374
 :END:
@@ -215,19 +149,13 @@
 #+BEGIN_QUOTE
 {{embed ((635662ed-5e05-43a6-8cfb-0b535c18f14d))}}
 #+END_QUOTE
-*** [[帕金森病]]出现 [[静止性震颤]]的受累部位为? #card
+*** [[帕金森病]]出现 [[静止性震颤]]的受累部位为? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 **** [[丘脑腹外侧核]]
-*** 帕金森病的治疗方法包括? #card
+*** 帕金森病的治疗方法包括? :card:
 :PROPERTIES:
-:card-last-interval: 8.34
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-11-01T21:26:26.284Z
-:card-last-reviewed: 2022-10-24T13:26:26.330Z
-:card-last-score: 5
 :END:
 **** 左旋多巴
 **** [[东莨菪碱]],[[苯海索]] 
@@ -237,7 +165,7 @@
 **** {{embed ((634eafef-14c5-47da-9e34-195a4baab374))}}
 **** 高频电刺激[[丘脑底核]] #极可能考
 **** {{embed ((63556d9b-2a42-4aa9-8cdb-6a1d32a3a78a))}}
-*** 如何记忆参与[[应激反应]]的激素? #card
+*** 如何记忆参与[[应激反应]]的激素? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
@@ -247,7 +175,7 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-*** [[如何记忆]][[糖原磷酸化酶]]在肝脏与肌肉的激活剂分别是? #card
+*** [[如何记忆]][[糖原磷酸化酶]]在肝脏与肌肉的激活剂分别是? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
@@ -257,7 +185,7 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-*** 雌孕激素的两次高峰谁更高? #card
+*** 雌孕激素的两次高峰谁更高? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
@@ -266,29 +194,23 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-*** 描述容量感受性反射的过程? #card
+*** 描述容量感受性反射的过程? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 **** 容量↑→迷走神经兴奋↑,钠尿肽↑(→抑制ADH与醛固酮 )
-*** [[轴突反射]]使血管舒张局部变红的物质是? #card
+*** [[轴突反射]]使血管舒张局部变红的物质是? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 **** [[降钙素基因相关肽]] [[../assets/image_1666157993815_0.png]]
-** 124 如何记忆不同的[[脑电波]]? #card
+** 124 如何记忆不同的[[脑电波]]? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** [[../assets/image_1666158199380_0.png]]
-** 151 如何记忆离子通道型受体的配体? #card
+** 151 如何记忆离子通道型受体的配体? :card:
 :PROPERTIES:
-:card-last-interval: 8.34
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-11-01T21:28:29.638Z
-:card-last-reviewed: 2022-10-24T13:28:29.638Z
-:card-last-score: 5
 :END:
 *** 作用速度快→想到主要是神经递质→
 *** {{embed ((634f848e-e8f4-4fcf-8925-6042fd54a2b5))}}
@@ -296,27 +218,21 @@
 :collapsed: true
 :END:
 **** {{embed ((634f848e-417c-456b-895f-54ca0b92432f))}}
-** [[过敏反应]]的胸膜积液是渗出液还是漏出液? #card
+** [[过敏反应]]的胸膜积液是渗出液还是漏出液? :card:
 :PROPERTIES:
-:card-last-interval: 3.3
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-10-26T18:57:04.540Z
-:card-last-reviewed: 2022-10-23T11:57:04.541Z
-:card-last-score: 5
 :END:
 *** 漏出液,因为其不是炎症反应
-** [[过敏反应]]产生胸膜积液的原因是由于? #card
+** [[过敏反应]]产生胸膜积液的原因是由于? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** 通透性增高
-** [[代谢性酸中毒]]对组织间液生成的影响? #card
+** [[代谢性酸中毒]]对组织间液生成的影响? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** 使组织间液生成减少,因为对心脏是抑制的,同时使毛细血管前扩约肌张与后微动脉扩张,使液体积聚在微循环,导致有效血容量下降,联系治疗[[休克]]后血压未回升→考虑存在酸中毒
-** [[如何记忆]]使基础代谢率升高情况? #card
+** [[如何记忆]]使基础代谢率升高情况? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
@@ -329,54 +245,36 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-**** [[热价]]最高的物质是? #card
+**** [[热价]]最高的物质是? :card:
 :PROPERTIES:
-:card-last-interval: 4.43
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-10-28T23:15:03.405Z
-:card-last-reviewed: 2022-10-24T13:15:03.405Z
-:card-last-score: 3
 :END:
 ***** [[脂肪]]
-**** 如何记忆[[氧热价]]最高的物质? #card
+**** 如何记忆[[氧热价]]最高的物质? :card:
 :PROPERTIES:
-:card-last-interval: 8.34
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-11-01T21:28:24.674Z
-:card-last-reviewed: 2022-10-24T13:28:24.674Z
-:card-last-score: 5
 :END:
 ***** 糖
 ***** 按呼吸商反过来
-** 糖皮质激素是促进产热还是促进散热的? #card
+** 糖皮质激素是促进产热还是促进散热的? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** 散热
-** 除[[真毛细血管]]外,大多数血管只受何单一神经支配? #card
+** 除[[真毛细血管]]外,大多数血管只受何单一神经支配? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** 交感神经
-** 微动脉,后微动脉,毛细血管前括约肌的交感神经支配密度分布? #card
+** 微动脉,后微动脉,毛细血管前括约肌的交感神经支配密度分布? :card:
 :PROPERTIES:
-:card-last-interval: 8.34
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-11-01T21:08:56.047Z
-:card-last-reviewed: 2022-10-24T13:08:56.048Z
-:card-last-score: 5
 :END:
 *** 微动脉最大,前括约肌最小
 *** 所以后微动脉与前括约肌受局部代谢产物的调节更大
-** 骨骼肌仅受何神经支配? #card
+** 骨骼肌仅受何神经支配? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** 交感神经
-*** 交感缩血管神经与交感舒血管神经释放递质的差异? #card
+*** 交感缩血管神经与交感舒血管神经释放递质的差异? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
@@ -386,22 +284,16 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-** 不可逆性抑制的两个典型的例子是? #card
+** 不可逆性抑制的两个典型的例子是? :card:
 :PROPERTIES:
-:card-last-interval: 8.34
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-11-01T21:09:30.545Z
-:card-last-reviewed: 2022-10-24T13:09:30.545Z
-:card-last-score: 5
 :END:
-*** 有机磷中毒的结合胆碱脂酶的位点是? #card
+*** 有机磷中毒的结合胆碱脂酶的位点是? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 **** 丝氨酸的羟基
 *** 重金属,路易士气结合巯基
-** 29 如何记忆丙酮酸脱氢酶复合体中包含的物质? #card
+** 29 如何记忆丙酮酸脱氢酶复合体中包含的物质? :card:
 :PROPERTIES:
 :id: 635a33f1-680a-49aa-9986-bcb8af589536
 :END:
@@ -422,61 +314,52 @@
 *****
 *** N: NAD
 *** O1: CoA辅酶A
-** [[如何记忆]]乙酰CoA出线粒体的机制? #card
+** [[如何记忆]]乙酰CoA出线粒体的机制? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** [[柠檬酸-丙酮酸循环]]
-** 健身房最喜欢卖的物质是? #card
+** 健身房最喜欢卖的物质是? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
-*** 肉碱的作用是? #card
+*** 肉碱的作用是? :card:
 :PROPERTIES:
-:card-last-interval: 4.43
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-10-28T23:10:16.864Z
-:card-last-reviewed: 2022-10-24T13:10:16.864Z
-:card-last-score: 3
 :END:
 **** 促进脂酰CoA转至线粒体内进行β氧化
-*** [[如何记忆]]肌酸的合成原料? #card
+*** [[如何记忆]]肌酸的合成原料? :card:
 :PROPERTIES:
 :id: 635a33f1-48df-4858-a96d-e11a695c9ed4
 :END:
 **** 赶紧SM,
 **** 甘氨酸,精氨酸,SAM
-** 柠檬酸对于脂肪酸代谢激活哪些酶抑制哪些酶? #card
+** 柠檬酸对于脂肪酸代谢激活哪些酶抑制哪些酶? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** 激活乙酰CoA羧化酶[[VitB7]],使之产生丙二酰CoA
 *** 抑制肉碱脂酰转移酶-Ⅰ
-** 33 体内唯一能用NAD与NADP脱氨基的酶是? #card
+** 33 体内唯一能用NAD与NADP脱氨基的酶是? :card:
 :PROPERTIES:
-:card-last-interval: 8.34
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-11-01T21:16:06.938Z
-:card-last-reviewed: 2022-10-24T13:16:06.939Z
-:card-last-score: 5
+:ID:       4f0fc427-c935-4188-b7f3-42eaa0b822bd
 :END:
+- Backlinks:[[id:3835a296-f137-4f25-abf6-e897f2baf4c9][描述肌肉如何彻底的脱氨基]]
+- Backlinks:[[id:23b1dcb1-bbf2-467d-ab5d-976fcc386a49][肝肾的联合脱氨基的主要酶是]]
 *** [[L-谷氨酸脱氨酶]]
-** 如何记忆[[嘧啶]]核苷酸的重头合成? #card
+** 如何记忆[[嘧啶]]核苷酸的重头合成? :card:
 :PROPERTIES:
 :background-color: red
 :id: 634fa6dc-20b5-4233-890e-aea12698f4b7
 :END:
 *** [[../assets/image_1666164459379_0.png]]
-*** 合成UMP后如何向CTP与dTMP转化? #card
+*** 合成UMP后如何向CTP与dTMP转化? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 **** 记住UC浏览器烧钱→需要能量所以是UTP→CTP
 **** 记住二磷酸水平脱氧,所以dTMP由UDP→dUDP→dUMP+亚甲基一碳单位
 ***
-** 如何记忆[[嘧啶]]核苷酸的重头合成的调节? #card
+** 如何记忆[[嘧啶]]核苷酸的重头合成的调节? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
@@ -486,7 +369,7 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-*** 存在 [[锌指结构]]的蛋白质包括? #card
+*** 存在 [[锌指结构]]的蛋白质包括? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
@@ -499,14 +382,14 @@
 {{embed ((634f848e-5ea2-47f7-9aed-96db222fa571))}}
 #+END_QUOTE
 **** DNA结合结构域
-**** 转录激活结构域包括哪些类型? #card
+**** 转录激活结构域包括哪些类型? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 ***** 酸性转录激活结构域结合TFⅡD
 ***** 脯氨酸转录激活结构域结合[[CAAT]] 记忆为猫吃肉脯
 ***** 谷氨酸结构域与:[[GC盒]] 记忆为咕咕
-**** 介导蛋白质-蛋白质:相互作用的结构域包括? #card
+**** 介导蛋白质-蛋白质:相互作用的结构域包括? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
@@ -515,88 +398,64 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-*** 如何记忆生长因子包括? #card
+*** 如何记忆生长因子包括? :card:
 :PROPERTIES:
-:card-last-interval: 8.34
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-11-01T21:28:23.491Z
-:card-last-reviewed: 2022-10-24T13:28:23.492Z
-:card-last-score: 5
 :END:
 **** SIS/PDGF,INT/FGF 记忆为姐妹上网
-*** 如何记忆生长因子受体? #card
+*** 如何记忆生长因子受体? :card:
 :PROPERTIES:
 :background-color: red
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-10-24T16:00:00.000Z
-:card-last-reviewed: 2022-10-24T13:20:57.987Z
-:card-last-score: 1
 :END:
 **** 福尔摩斯杀了他的三个前女友
 **** FMS,kIT,HER,TRK,EGFR
 *** 信号转导分子
-*** 如何记忆转录因子? #card
+*** 如何记忆转录因子? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 **** 狐狸精母夜叉
 **** FOS,JUN,MYC
-*** 细胞周期调节蛋白为? #card
+*** 细胞周期调节蛋白为? :card:
 :PROPERTIES:
-:card-last-interval: 8.34
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-11-01T21:28:37.362Z
-:card-last-reviewed: 2022-10-24T13:28:37.362Z
-:card-last-score: 5
 :END:
 **** Cyclin D
 * 病理
 :PROPERTIES:
 :collapsed: true
 :END:
-** [[如何记忆]]Q炎症反应中参与发热的物质是? #card
+** [[如何记忆]]Q炎症反应中参与发热的物质是? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** PGong当老总
 *** PG IL-I TNF-α
-** [[如何记忆]]炎症反应中参与疼痛的物质是? #card
+** [[如何记忆]]炎症反应中参与疼痛的物质是? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** 缓解屁屁疼痛
 *** 缓激肽,PG,P物质,
-** [[如何记忆]]炎症反应中让血管扩张的物质? #card
+** [[如何记忆]]炎症反应中让血管扩张的物质? :card:
 :PROPERTIES:
 :background-color: red
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-10-24T16:00:00.000Z
-:card-last-reviewed: 2022-10-24T13:06:42.235Z
-:card-last-score: 1
 :END:
 *** 晚上皮皮组鸡蛋
 *** C5a,C3a,PG,P物质,组胺,缓激肽,一氧化氮
-** 如何记忆肝细胞[[嗜酸性坏死]]形成的小体名字? #card
+** 如何记忆肝细胞[[嗜酸性坏死]]形成的小体名字? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** [[Council man小体]]
-** 如何记忆[[常染色体显性遗传病]]? #card
+** 如何记忆[[常染色体显性遗传病]]? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** 肾母常常是神经病
-*** 如何记忆肾母细胞瘤病变基因? #card
+*** 如何记忆肾母细胞瘤病变基因? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
-**** What the fuck 是什么? #card
+**** What the fuck 是什么? :card:
 **** WT
 *** 结肠性息肉病 [[APC]]
 *** 非息肉性结肠癌 [[MSH]] 错配,非
@@ -604,23 +463,17 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-**** 如何记忆 [[RB]]的调控点? #card
+**** 如何记忆 [[RB]]的调控点? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 ***** 调控细胞周期的G1与S
-**** 如何记忆 [[RB]]的磷酸化是失活还是激活? #card
+**** 如何记忆 [[RB]]的磷酸化是失活还是激活? :card:
 :PROPERTIES:
-:card-last-interval: 8.34
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-11-01T21:18:19.235Z
-:card-last-reviewed: 2022-10-24T13:18:19.235Z
-:card-last-score: 5
 :END:
 ***** 失活 ((6356875e-6441-4175-9311-61279437f594))
 *** 神经纤维瘤病 [[NF]] neural fibre
-** [[如何记忆]][[常染色体隐性遗传病]]包括? #card
+** [[如何记忆]][[常染色体隐性遗传病]]包括? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
@@ -630,72 +483,54 @@
 *** [[Fanconi]] [[SOS]]
 *** XP 核苷酸切除修复
 *** ATM(毛细血管扩张性共济失调症)
-** [[乳腺癌]]的[[粉刺癌]]为什么叫做[[粉刺癌]]? #card
+** [[乳腺癌]]的[[粉刺癌]]为什么叫做[[粉刺癌]]? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** 其属于高级别的小管内癌,会发生粉刺样坏死
-** #S 乳腺癌的[[小叶原位癌]]为什么与众不同? #card
+** #S 乳腺癌的[[小叶原位癌]]为什么与众不同? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** 其^^核分裂象^^少见,故发展为浸润性癌的周期较长
 *** 其他癌好发于外上象限,而其多累及双侧乳房多个象限
-** 最常见的[[乳腺癌]]类型是? #card
+** 最常见的[[乳腺癌]]类型是? :card:
 :PROPERTIES:
-:card-last-interval: 8.34
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-11-01T21:21:01.434Z
-:card-last-reviewed: 2022-10-24T13:21:01.434Z
-:card-last-score: 5
 :END:
 *** 浸润性导管癌
-** 浸润性小叶癌的病理镜下癌细胞排列征象为? #card
+** 浸润性小叶癌的病理镜下癌细胞排列征象为? :card:
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-10-24T16:00:00.000Z
-:card-last-reviewed: 2022-10-24T13:09:43.403Z
-:card-last-score: 1
 :END:
 *** 牛眼征,列兵征
-** #S [[扩心病]]的心室壁与心内膜如何变化? #card
+** #S [[扩心病]]的心室壁与心内膜如何变化? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** 心室壁变薄
 *** 心内膜变厚
 ***
-** #S 如何记忆 [[系统性红斑狼疮]]的临床表现? #card
+** #S 如何记忆 [[系统性红斑狼疮]]的临床表现? :card:
 :PROPERTIES:
 :background-color: red
 :id: 63556d9c-225c-450d-917d-d287f650f532
 :END:
 *** 苏木肾
-**** 什么是狼疮小体? #card
+**** 什么是狼疮小体? :card:
 ***** 被挤出来的细胞核
-**** 什么是狼疮细胞? #card
+**** 什么是狼疮细胞? :card:
 ***** 吞噬了狼疮小体的巨噬细胞与中性粒细胞
 *** 白金耳
-**** 什么是白金耳现象? #card
+**** 什么是白金耳现象? :card:
 ***** 弥漫增生性狼疮肾肾小球大量的免疫复合物沉积 [[../assets/image_1666846078005_0.png]]
-*** 狼疮皮位于何处? #card
+*** 狼疮皮位于何处? :card:
 :PROPERTIES:
-:card-last-interval: 8.34
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-11-01T21:16:31.426Z
-:card-last-reviewed: 2022-10-24T13:16:31.427Z
-:card-last-score: 5
 :END:
 **** 真皮与表皮交界处,蝶形红斑与盘状红斑.大量的免疫复合物沉积
-*** 非菌心为何种类型的血栓? #card
+*** 非菌心为何种类型的血栓? :card:
 :PROPERTIES:
 :END:
 **** 白色血栓
-**** 白色血栓还可见于? #card
+**** 白色血栓还可见于? :card:
 ***** ((63556d9c-2a0f-4f0d-92a3-064833efcdfb))
 *** 洋葱脾
 **** 脾小动脉呈现纤维化呈洋葱皮样
@@ -704,7 +539,7 @@
 #+END_QUOTE
 *** 纤样死
 ***
-** 哪些为好发于儿童的淋巴瘤? #card
+** 哪些为好发于儿童的淋巴瘤? :card:
 :PROPERTIES:
 :background-color: red
 :END:
@@ -716,69 +551,63 @@
 :END:
 **** [[B-ALL]]儿童多见,白血病
 **** [[T-ALL]]青少年多见,[[胸腺]]肿大
-** 哪些为T细胞来源的淋巴瘤? #card
+** 哪些为T细胞来源的淋巴瘤? :card:
 :PROPERTIES:
 :id: 63556d9c-0ae4-44b0-bc1c-d8de6d13380d
 :END:
 *** 记住名字里没有T的
 *** [[间变性大淋巴瘤]],[[扭曲淋巴细胞淋巴瘤]],[[蕈样淋巴瘤]] [[../assets/image_1666231975145_0.png]]
-** Ⅲ期[[梅毒]]的表现包括? #card
+** Ⅲ期[[梅毒]]的表现包括? :card:
 :PROPERTIES:
 :id: 6350b9ad-998d-4125-af4b-d86bd62d6d3f
 :END:
 *** 又名内脏性梅毒,包括[[树胶样肿]]
 *** 主动脉炎,主闭,主动脉瘤,麻痹性痴呆,[[脊髓痨]],[[马鞍鼻]]
 ***
-** #未考过的极可能考点 梅毒的基本病变包括? #card
+** #未考过的极可能考点 梅毒的基本病变包括? :card:
 :PROPERTIES:
-:card-last-interval: -1
-:card-repeats: 1
-:card-ease-factor: 2.5
-:card-next-schedule: 2022-10-24T16:00:00.000Z
-:card-last-reviewed: 2022-10-24T13:17:42.108Z
-:card-last-score: 1
 :id: 63556d9c-dfe6-4cd6-964d-c8fc86397b22
 :END:
 *** 闭塞性动脉内膜炎
 *** 小血管周围炎
 *** 梅毒肉芽肿
-** [[梅毒]]的基本病变中最有特征的病理表现是? #card
+** [[梅毒]]的基本病变中最有特征的病理表现是? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** 浆细胞的恒定出现
-** [[梅毒]]传染性最大的时期是? #card
+** [[梅毒]]传染性最大的时期是? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** Ⅱ期,[[梅毒疹]]
-** [[梅毒肉芽肿]]区别于其他肉芽肿表现包括? #card
+** [[梅毒肉芽肿]]区别于其他肉芽肿表现包括? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
-*** 梅毒肉芽肿中的主要细胞是? #card
+*** 梅毒肉芽肿中的主要细胞是? :card:
 :PROPERTIES:
 :END:
 **** 淋巴细胞和浆细胞,而其他肉芽肿为类上皮细胞与巨噬细胞
-** [[如何记忆]][[畸胎瘤]]可以出现的部位? #card
+** [[如何记忆]][[畸胎瘤]]可以出现的部位? :card:
 *** 几乎所有部位都可以出现
-** 如何记忆早期食管癌与早期胃癌的浸润深度? #card
+** 如何记忆早期食管癌与早期胃癌的浸润深度? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** 只要未突破肌层 [[../assets/image_1666233092721_0.png]]
 *** 包括 原位癌,黏膜内癌,黏膜下癌
-** 早期[[胃癌]]最常见的类型是? #card
+** 早期[[胃癌]]最常见的类型是? :card:
 :PROPERTIES:
 :background-color: red
 :END:
 *** 凹陷型
-** [[如何记忆]][[大肠癌]]不同类型的好发情况? #card
+** [[如何记忆]][[大肠癌]]不同类型的好发情况? :card:
 :PROPERTIES:
 :background-color: red
 :END:
 *** 左浸右隆溃疡多,黏液胶样预后差
-** [[胃癌]]的[[癌前病变]] [[如何记忆]]? #card
+** [[胃癌]]的[[癌前病变]] [[如何记忆]]? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
@@ -788,25 +617,25 @@ A.非典型增生
 B.炎症性息肉
 C.(腺瘤性息肉)
 D.幼年性息肉
-** 如何记忆急进性肾炎有无基底膜破裂? #card
+** 如何记忆急进性肾炎有无基底膜破裂? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** [[../assets/image_1666233969703_0.png]]
 ** 几乎所有肾炎都有基底膜断裂
 ** 急进性肾炎的治疗
-*** 因为病情严重所以得用? #card
+*** 因为病情严重所以得用? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 **** [[GC]]+免疫抑制剂[[环磷酰胺]]
-*** [[如何记忆]]哪些类型还需要强化治疗? #card
+*** [[如何记忆]]哪些类型还需要强化治疗? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 **** 好怕医生抽血
 **** Ⅰ型与Ⅲ型还需要进行血浆置换
-*** 何时需要[[透析]]即透析指征? #card
+*** 何时需要[[透析]]即透析指征? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
@@ -819,61 +648,49 @@ D.幼年性息肉
 :PROPERTIES:
 :collapsed: true
 :END:
-** 面对[[室速]]一类可能猝死的疾病应选择的治疗策略是? #card
+** 面对[[室速]]一类可能猝死的疾病应选择的治疗策略是? :card:
 :PROPERTIES:
-:card-last-interval: 8.34
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-11-01T21:09:24.561Z
-:card-last-reviewed: 2022-10-24T13:09:24.561Z
-:card-last-score: 5
 :END:
 *** 血压低我电击
 *** 血压正常我用药, [[β受体阻滞剂]]与 [[胺碘酮]] 
 #+BEGIN_TIP
 在脑子里想到1234类药物只有23类药物能改善预后
 #+END_TIP
-** 如何记忆[[肌红蛋白]],[[肌钙蛋白]],[[肌酸激酶同工酶]]的开始升高时间与恢复时间? #card
+** 如何记忆[[肌红蛋白]],[[肌钙蛋白]],[[肌酸激酶同工酶]]的开始升高时间与恢复时间? :card:
 :PROPERTIES:
 :background-color: red
 :END:
 *** 2,3,4
 *** 12,12,34
-** 敏感性与特异性最高的心肌坏死标志物为? #card
+** 敏感性与特异性最高的心肌坏死标志物为? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** [[肌红蛋白]]
 *** [[肌钙蛋白]]
-** [[CK-MB]]的临床意义包括? #card
+** [[CK-MB]]的临床意义包括? :card:
 :PROPERTIES:
 :background-color: red
 :END:
 *** 判断1-2周内的心肌再次梗死
 *** 判断心肌梗死的范围
 *** 若其高峰提前出现<14小时则提示溶栓再通
-** 舒张期听到排击样的额外心音为? #card
+** 舒张期听到排击样的额外心音为? :card:
 :PROPERTIES:
-:card-last-interval: 8.34
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-11-01T21:28:06.806Z
-:card-last-reviewed: 2022-10-24T13:28:06.807Z
-:card-last-score: 5
 :END:
 *** 心包扣击音,考虑为
-** 诊断[[ARDS]]的必要条件是? #card
+** 诊断[[ARDS]]的必要条件是? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** [[氧合指数]]<300,PAWP<18mmHg
-** [[支原体肺炎]]与[[军团菌肺炎]]的鉴别? #card
+** [[支原体肺炎]]与[[军团菌肺炎]]的鉴别? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** 最佳鉴别点是起病与体温的情况:支原体肺炎起病缓,体温低中热, [[军团菌肺炎]]起病急,体温高热
 *** 支原体肺炎的WBC正常或轻度升高,军团菌肺炎WBC升高
-** 对早期[[肝性脑病]]病诊断最有意义的检查是? #card
+** 对早期[[肝性脑病]]病诊断最有意义的检查是? :card:
 :PROPERTIES:
 :background-color: red
 :END:
@@ -882,12 +699,12 @@ D.幼年性息肉
 :PROPERTIES:
 :collapsed: true
 :END:
-*** 肝硬化常导致在何处形成血栓? #card
+*** 肝硬化常导致在何处形成血栓? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 **** 门静脉
-*** [[PNH]]常导致在何处形成血栓? #card
+*** [[PNH]]常导致在何处形成血栓? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
@@ -897,40 +714,34 @@ D.幼年性息肉
 :PROPERTIES:
 :collapsed: true
 :END:
-*** 粒细胞肉瘤又被称为? #card
+*** 粒细胞肉瘤又被称为? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 **** [[绿色瘤]]
-*** 粒细胞肉瘤常见于种类型的白血病? #card
+*** 粒细胞肉瘤常见于种类型的白血病? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 **** [[M2]]
-*** 如何记忆粒细胞肉瘤常累及的部位为? #card
+*** 如何记忆粒细胞肉瘤常累及的部位为? :card:
 :PROPERTIES:
 :background-color: red
-:card-last-interval: 8.34
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-11-01T21:28:24.087Z
-:card-last-reviewed: 2022-10-24T13:28:24.088Z
-:card-last-score: 5
 :END:
 **** 眼眶 两个眼睛M2
-*** M3型白血病常导致的并发症是? #card
+*** M3型白血病常导致的并发症是? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 **** [[DIC]]
-** 如何记忆休息后加重的疾病? #card
+** 如何记忆休息后加重的疾病? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** [[强直性脊柱炎]]与 [[类风湿]]
 *** 强制性脊柱炎周杰伦一直开演唱会停下来就会的痛
 *** 类风湿的晨僵太明显了,其他疾病或多或少都有少量晨僵但类风湿的晨僵特别明显
-** [[系统性红斑狼疮]]的抗体包括? #card
+** [[系统性红斑狼疮]]的抗体包括? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
@@ -940,7 +751,7 @@ D.幼年性息肉
 :collapsed: true
 :END:
 **** [[具有排除诊断作用的指标]]
-*** 如何记忆抗磷脂抗体包括哪些类型? #card
+*** 如何记忆抗磷脂抗体包括哪些类型? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
@@ -948,43 +759,37 @@ D.幼年性息肉
 **** [[抗心磷脂抗体]]
 **** [[β2-糖蛋白抗体]]
 **** [[梅毒血清试验]]假阳性
-*** 如何记忆系统性红斑狼疮抗ENA抗体? #card
+*** 如何记忆系统性红斑狼疮抗ENA抗体? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 **** 记忆ESR
-**** Sm的特点是? #card
+**** Sm的特点是? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 ***** 特异性最高
 **** SSA
 **** SSB
-**** 如何记忆RNP还可以见于哪些疾病? #card
+**** 如何记忆RNP还可以见于哪些疾病? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 ***** 混混的人品被高空雷击了 主要是[[混合结缔组织病]]
 **** rRNP: 与神经精神狼疮有关
 ****
-** 如何记忆与 [[SLE]]活动性无关的抗体? #card
+** 如何记忆与 [[SLE]]活动性无关的抗体? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** [[../assets/image_1666269732910_0.png]]
-** [[肠鸣音]]增多与减弱见于哪些疾病? #card
+** [[肠鸣音]]增多与减弱见于哪些疾病? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** [[../assets/image_1666270457437_0.png]]
-** 如何记忆[[奇脉]]见于哪些疾病? #card
+** 如何记忆[[奇脉]]见于哪些疾病? :card:
 :PROPERTIES:
-:card-last-interval: 8.34
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-11-01T21:12:27.783Z
-:card-last-reviewed: 2022-10-24T13:12:27.784Z
-:card-last-score: 5
 :END:
 *** 色魔小说包邮
 *** COPD
@@ -993,17 +798,17 @@ D.幼年性息肉
 *** 缩窄性心包炎
 *** 心包积液
 *** 右心衰
-** 如何记忆 [[IgA肾病]]的治疗措施? #card
+** 如何记忆 [[IgA肾病]]的治疗措施? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** 此病预后较好除了血尿几乎啥都没有了
-** 如何记忆[[慢性病性贫血]]与[[慢性失血性贫血]]的区别? #card
+** 如何记忆[[慢性病性贫血]]与[[慢性失血性贫血]]的区别? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** 慢性病性贫血是指消耗性疾病肿瘤结核等由于巨噬细胞亢进吞噬含铁物质
-** [[小细胞低色素性贫血]]包括哪些类型? #card
+** [[小细胞低色素性贫血]]包括哪些类型? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
@@ -1015,7 +820,7 @@ D.幼年性息肉
 :END:
 *** [[GC]]
 *** [[乙醇]]
-** 哪个瓣膜疾病与感染性心内膜炎互为因果? #card
+** 哪个瓣膜疾病与感染性心内膜炎互为因果? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
@@ -1024,36 +829,30 @@ D.幼年性息肉
 :PROPERTIES:
 :collapsed: true
 :END:
-*** 选用多少种二线药物? #card
+*** 选用多少种二线药物? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 **** 4
-*** 强化期多少个月? #card
+*** 强化期多少个月? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 **** 9-12个月
-*** 总疗程多少个月? #card
+*** 总疗程多少个月? :card:
 :PROPERTIES:
-:card-last-interval: 4.43
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-10-28T23:12:39.947Z
-:card-last-reviewed: 2022-10-24T13:12:39.947Z
-:card-last-score: 3
 :END:
 **** 20个月
-*** 以何检查作为检测指标? #card
+*** 以何检查作为检测指标? :card:
 **** [[痰培养]]
-** 如何记忆[[淋巴瘤]]分期为B组的要求? #card
+** 如何记忆[[淋巴瘤]]分期为B组的要求? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** 盗汗
 *** 体温38度以上
 *** 体重下降10%3月还是6月呢?记忆为6B牛逼
-** #S [[胰岛素]]与[[C肽]]在糖尿病中的作用? #card
+** #S [[胰岛素]]与[[C肽]]在糖尿病中的作用? :card:
 *** 反映胰岛的功能而不能作为糖尿病的诊断
 * 外科
 :PROPERTIES:
@@ -1062,31 +861,25 @@ D.幼年性息肉
 ** 手部感染
 :PROPERTIES:
 :END:
-*** 手部感染以何细菌多见以及为什么? #card
+*** 手部感染以何细菌多见以及为什么? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 **** [[金黄色葡萄球菌]]多见
 **** 因为其多在皮肤,类似的还有[[急性乳腺炎]]
-*** 手部感染时需要下垂患手还是抬高患手为什么? #card
+*** 手部感染时需要下垂患手还是抬高患手为什么? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 **** 抬高患手利于静脉回流防止肿痛加剧
-*** 指头炎的并发症包括哪些? #card
+*** 指头炎的并发症包括哪些? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 **** 末节指骨缺血坏死
 **** 骨髓炎
-*** 手掌解剖存在哪些间隙与滑液囊,它们与指有何关系,它们易受哪种感染的影响? #card
+*** 手掌解剖存在哪些间隙与滑液囊,它们与指有何关系,它们易受哪种感染的影响? :card:
 :PROPERTIES:
-:card-last-interval: 8.34
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-11-01T21:16:36.273Z
-:card-last-reviewed: 2022-10-24T13:16:36.273Z
-:card-last-score: 5
 :END:
 **** 桡侧滑液囊与尺侧滑液囊:分别是1指与第5指
 **** 鱼际间隙与掌中间隙:第2指与第3,4指
@@ -1097,67 +890,56 @@ D.幼年性息肉
 :END:
 *** [[天天师兄/外科学/大肠癌]]
 *** [[天天师兄/外科学/腹部损伤]]
-** 行过胆肠吻合术的患者对B超有何影响? #card
+** 行过胆肠吻合术的患者对B超有何影响? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** 肠道气体干扰
-** 如何记忆外科中癌的切缘? #card
+** 如何记忆外科中癌的切缘? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** [[../assets/image_1666332841943_0.png]]
-** 明确 [[胰腺炎]]最简单有效的方法是? #card
+** 明确 [[胰腺炎]]最简单有效的方法是? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** [[B超]]
-** [[急性胰腺炎]]是否适合做手术? #card
+** [[急性胰腺炎]]是否适合做手术? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
 *** 不适合,可能会加重全身炎症反应
-** #S 急性胰腺炎的假性囊肿应何时行何手术? #card
+** #S 急性胰腺炎的假性囊肿应何时行何手术? :card:
 :PROPERTIES:
-:card-last-interval: 4.43
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-10-28T23:19:29.611Z
-:card-last-reviewed: 2022-10-24T13:19:29.611Z
-:card-last-score: 3
 :END:
 *** 应在6周囊肿壁形成稳定后行囊肿空肠 [[Roux-en-Y]]吻合,不要浪费消化液[[https://img.jiankang.com/shoushu/2014/07/12/e01d29da48.jpg][胰腺假性囊肿空肠吻合术]]
-** 如何记忆慢性阑尾炎的X线灌肠表现? #card
+** 如何记忆慢性阑尾炎的X线灌肠表现? :card:
 :PROPERTIES:
-:card-last-interval: 4.43
-:card-repeats: 1
-:card-ease-factor: 2.36
-:card-next-schedule: 2022-10-28T23:28:02.745Z
-:card-last-reviewed: 2022-10-24T13:28:02.746Z
-:card-last-score: 3
 :END:
 *** 慢性就要想到纤维化→纤维多了就充盈不全→再多就不充盈.纤维收缩就不规则,纤维排空延迟至3天以上
-** [[谷氨酰胺]]在生理学,外科学,生化中的不同重点? #card
+** [[谷氨酰胺]]在生理学,外科学,生化中的不同重点? :card:
 :PROPERTIES:
 :collapsed: true
 :END:
-*** 生理学:肾小管泌氨,铵
-*** 生化:氮的储存解毒运输
-*** 外科学:小肠上皮细胞的营养物质
+- 生理学:肾小管泌氨,铵
+- 生化:氮的储存解毒运输
+- 外科学:小肠上皮细胞的营养物
+- 内科学: 谷氨酰胺给天冬酰胺提供氨基后者为白血病细胞的能源物质,临床用天冬酰胺酶抑制能源供应
 ** [[切开引流]]的特殊疾病
 :PROPERTIES:
 :collapsed: true
 :END:
 *** [[../assets/image_1666340548590_0.png]]
 ***
-** 如何记忆[[脊柱结核]]与[[脊柱肿瘤]]的区别? #card
+** 如何记忆[[脊柱结核]]与[[脊柱肿瘤]]的区别? :card:
 :PROPERTIES:
 :id: 63551e8f-dd6d-43f6-9903-358205a1ba2a
 :END:
 *** 好发部位:脊柱结核好发于椎体而肿瘤好发于椎弓根
 *** 肿瘤的椎间隙往往正常
 *** [[../assets/image_1666340799150_0.png]]
-** 如何记忆[[原发性骨关节炎]]与[[继发性骨关节炎]]的区别? #card
+** 如何记忆[[原发性骨关节炎]]与[[继发性骨关节炎]]的区别? :card:
 :PROPERTIES:
 :collapsed: true
 :END:

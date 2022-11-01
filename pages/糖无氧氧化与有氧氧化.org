@@ -86,12 +86,13 @@
 :PROPERTIES:
 :id: 635a44ca-bee5-4a35-91e3-78b84dd5d218
 :END:
+- Backlinks:[[id:e03c6f51-99c5-49ca-ba28-038bee170b63][柠檬酸,异柠檬酸,乙酰CoA,丙二酰CoA]]
 **** 激活剂:AMP,ADP, [[F-1,6-DP]],[[F-2,6-DP]](最强激活剂)
 **** 抑制剂: [[ATP]](使之与氧化磷酸化协调),[[柠檬酸]](使之与三羧酸循环协调)
 :PROPERTIES:
 :id: 635a479e-830f-49ec-bdaa-33de8e3c5933
 :END:
-**** #+BEGIN_TIP
+#+BEGIN_TIP
 先想到它最重要使氧化磷酸化与柠檬酸循环协调,想到ATP与柠檬酸为其抑制剂,自然能想到ADP与AMP为其激活剂,记住其具有正反馈就能想到[[F-1,6-DP]],[[F-2,6-DP]]为其激活剂
 #+END_TIP
 ** 有氧氧化

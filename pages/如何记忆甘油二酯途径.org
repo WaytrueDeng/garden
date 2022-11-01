@@ -4,11 +4,14 @@
 #+title: 如何记忆甘油二酯途径 
 #+creationTime: [2022-10-29 Sat 19:50] 
 * Keywords
-- [[roam:甘油二酯]]
+- [[id:9a0f38e3-54b0-4335-86fd-6998c608e1e9][甘油二酯]]
 * Contents
 
 #+DOWNLOADED: screenshot @ 2022-10-29 19:51:56
 [[file:../assets/甘油二酯合成途径真题讲解.png]]
+
+#+DOWNLOADED: screenshot @ 2022-10-31 13:31:35
+[[file:../assets/甘油二酯的合成途径完全步骤.png]]
 
 * Mnemonic
 * Reference
