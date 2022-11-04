@@ -63,6 +63,7 @@
 :END:
 *** [[风湿性心脏病]]的疣状血栓
 *** [[NSTEMI]]的白色血栓
+*** SLE的疣状血栓
 ** #S 混合血栓见于哪些疾病? #card
 :PROPERTIES:
 :collapsed: true

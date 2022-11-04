@@ -34,12 +34,13 @@
 - Contents: 磷酸化酶,转氨酶,氨基酸脱羧酶,ALA合酶
 - Mnemonics: TTS(脱羧:脱氨基酸的羧还是酮体的羧看转就想到转氨基原来是安氨基酸的羧)X带吡哆兽转(转氨)圈遛(磷酸化)湾回血(ALA)
 - References:
-** 如何记忆谷氨酸脱羧基的产物 :card:
+** 如何记忆谷氨酸的产物 :card:
 :PROPERTIES:
 :FC_CREATED: 2022-10-31T13:32:58Z
 :FC_TYPE:  normal
 :ID:       c8a9bafe-055b-4612-82da-93d1bcc95d89
 :END:
+- Backlinks:[[id:687e01e1-e04f-40b9-a00b-8a5c0dc06fc3][突触后抑制的IPSP的递质是]]
 :REVIEW_DATA:
 | position | ease | box | interval | due                  |
 |----------+------+-----+----------+----------------------|

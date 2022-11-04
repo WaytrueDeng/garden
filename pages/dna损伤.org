@@ -1,0 +1,25 @@
+:PROPERTIES:
+:ID:       4b9df214-23c3-450f-acdb-6f1c773b90ad
+:END:
+#+title: DNA损伤
+#+creationTime: [2022-11-04 Fri 11:27]
+* 损伤类型
+** 如何记忆亚硝胺脱氨基会使核苷酸发生怎样的改变
+:PROPERTIES:
+:ID:       6552725d-fa3d-4bf8-9ef1-cf1769ffe61a
+:END:
+- C→U,A→I
+- References:
+  - [[id:5da78a3c-bde1-498d-b65e-ad9a0508139f][如何记忆CU和T的代谢产物]]
+  - [[id:b9e2b1e9-43ab-43f3-a813-816ae0231aff][如何记忆心肌与骨骼肌进行联合脱氨基的方式]]
+* 损伤修复
+:PROPERTIES:
+:ID:       d7fd7941-e7d2-41ee-9c87-559dbc9a4832
+:END:
+- [[id:21c3cace-25e2-461e-a2b6-aa6f76e0dc73][34.对广泛DNA损伤进行紧急、粗糙、高错误率的修复方式是? #card]]
+- [[id:634d04ec-bdf6-4ea3-b74c-263c6aab8be7][生物化学中DNA修复最常见的修复方式及参与的基因? #card]]
+- [[id:55e804fd-6557-40b7-b31a-861b5cf259ca][核苷酸切除修复:]]
+- [[id:5643358e-2c0f-4f78-b2e3-eb2c781c97cb][双链断裂]]
+- [[id:21bf531e-f89a-46e3-b6f0-3f5208946053][如何记忆机制为错配修复缺陷的疾病]]
+- [[id:4c8f8f0f-1db3-4730-9a29-d51ec8908ed7][如何记忆机制为重组修复缺陷的疾病]]
+- [[id:50c9dfa7-770c-420c-bf52-ada47a97758c][如何记忆SOS修复系统缺陷导致的疾病?]]

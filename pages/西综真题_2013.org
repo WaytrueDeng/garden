@@ -20,7 +20,7 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-*** 如何记忆凝血酶能够激活的凝血因子? #card
+*** 如何记忆凝血酶能够激活的凝血因子? :card:
 :PROPERTIES:
 :card-last-interval: 3.3
 :card-repeats: 1
@@ -31,7 +31,7 @@
 :END:
 **** 医生双11查我爸血小板
 **** 13,11,5,8,血小板
-*** 如何记忆凝血酶的抗凝作用通过何系统发挥? #card
+*** 如何记忆凝血酶的抗凝作用通过何系统发挥? :card:
 :PROPERTIES:
 :card-last-interval: 3.3
 :card-repeats: 1
@@ -41,7 +41,7 @@
 :card-last-score: 5
 :END:
 **** 通过激活 [[蛋白质C系统]]从而灭活不稳定的凝血因子5,8 极为为5,8同城(C)不稳定
-*** #未考过的极可能考点 何物质使得凝血酶由促凝物变为抗凝物,其与凝血酶结合后的作用是? #card
+*** #未考过的极可能考点 何物质使得凝血酶由促凝物变为抗凝物,其与凝血酶结合后的作用是? :card:
 :PROPERTIES:
 :card-last-interval: 3.3
 :card-repeats: 1
@@ -51,7 +51,7 @@
 :card-last-score: 5
 :END:
 **** [[TM]](凝血酶调节蛋白/血栓调节蛋白),与凝血酶结合后激活 [[蛋白质C系统]]由PC转变为APC,而APC
-*** [[蛋白质C系统]]发挥抗凝作用需要何辅因子参与? #card
+*** [[蛋白质C系统]]发挥抗凝作用需要何辅因子参与? :card:
 :PROPERTIES:
 :card-last-interval: -1
 :card-repeats: 1
@@ -61,7 +61,7 @@
 :card-last-score: 1
 :END:
 **** [[PS]]
-*** 凝血酶如何发挥抗纤溶作用? #card
+*** 凝血酶如何发挥抗纤溶作用? :card:
 :PROPERTIES:
 :card-last-interval: 3.3
 :card-repeats: 1
@@ -73,7 +73,7 @@
 **** 激活[[TAFI]](纤溶抑制物)
 ****
 ** 心肌电
-*** 为什么窦房结的最大复极电位仅为-70mv? #card
+*** 为什么窦房结的最大复极电位仅为-70mv? :card:
 :PROPERTIES:
 :card-last-interval: 3.3
 :card-repeats: 1
@@ -87,7 +87,7 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-*** 如何记忆Aα神经的传入与传出作用? #card
+*** 如何记忆Aα神经的传入与传出作用? :card:
 :PROPERTIES:
 :card-last-interval: 3.3
 :card-repeats: 1
@@ -97,7 +97,7 @@
 :card-last-score: 5
 :END:
 **** Aα就是[[牵张反射]],Ⅰα为[[肌梭]]的传入纤维,α运动神经元的传出纤维
-*** 如何记忆Aβ的传入与传出作用? #card
+*** 如何记忆Aβ的传入与传出作用? :card:
 :PROPERTIES:
 :card-last-interval: 3.3
 :card-repeats: 1
@@ -107,7 +107,7 @@
 :card-last-score: 5
 :END:
 **** Aβ传导皮肤精细触压觉与本体感觉,传出无
-*** 如何记忆Aγ的传入与传出作用? #card
+*** 如何记忆Aγ的传入与传出作用? :card:
 :PROPERTIES:
 :card-last-interval: 4.14
 :card-repeats: 1
@@ -117,7 +117,7 @@
 :card-last-score: 3
 :END:
 **** Aγ只有传出,支配梭外肌收缩
-*** 如何记忆Aδ的传入与传出作用? #card
+*** 如何记忆Aδ的传入与传出作用? :card:
 :PROPERTIES:
 :card-last-interval: 3.3
 :card-repeats: 1
@@ -127,7 +127,7 @@
 :card-last-score: 5
 :END:
 **** 仅有传入:皮肤快痛,传温度觉与粗略触压觉
-*** 如何记忆B类神经元的作用? #card
+*** 如何记忆B类神经元的作用? :card:
 :PROPERTIES:
 :card-last-interval: 4.14
 :card-repeats: 1
@@ -137,7 +137,7 @@
 :card-last-score: 3
 :END:
 **** 自主神经的节前纤维
-*** 如何记忆C类纤维的传入传出作用? #card
+*** 如何记忆C类纤维的传入传出作用? :card:
 :PROPERTIES:
 :card-last-interval: 3.3
 :card-repeats: 1
@@ -148,7 +148,7 @@
 :END:
 **** 传入皮肤的慢痛,内脏痛与深部痛
 **** 传出纤维自主神经节后纤维
-*** 记忆神经传入与传出的大思路? #card
+*** 记忆神经传入与传出的大思路? :card:
 :PROPERTIES:
 :card-last-interval: 4.14
 :card-repeats: 1
@@ -162,7 +162,7 @@
 :PROPERTIES:
 :collapsed: true
 :END:
-*** 如何记忆前庭小脑由何发育而来及其功能丧失后的作用? #card
+*** 如何记忆前庭小脑由何发育而来及其功能丧失后的作用? :card:
 :PROPERTIES:
 :card-last-interval: 3.3
 :card-repeats: 1
@@ -172,7 +172,7 @@
 :card-last-score: 5
 :END:
 **** 由绒球小结叶发育而来,球上站不稳→平衡障碍(站不稳)
-*** 前庭小脑受损后是否表现为晕车晕船等运动病? #card
+*** 前庭小脑受损后是否表现为晕车晕船等运动病? :card:
 :PROPERTIES:
 :card-last-interval: 3.3
 :card-repeats: 1
@@ -182,7 +182,7 @@
 :card-last-score: 5
 :END:
 **** 不
-*** 如何记忆脊髓小脑受损后的表现? #card
+*** 如何记忆脊髓小脑受损后的表现? :card:
 :PROPERTIES:
 :card-last-interval: 3.3
 :card-repeats: 1
@@ -193,7 +193,7 @@
 :END:
 **** 脊字发音为Ji→共济(ji)失调,肌(ji)张力*减弱*,意(yi谐音ji)向性震颤
 ** 信号传导
-*** 哪些通路有第二信使参与? #card
+*** 哪些通路有第二信使参与? :card:
 :PROPERTIES:
 :card-last-interval: 3.3
 :card-repeats: 1
@@ -271,7 +271,7 @@ B.柱状上皮化生为鳞状上皮
 C.纤维组织化生为软骨组织 [[骨化性肌炎]]/损伤型肌炎
 D.鳞状上皮化生为纤维组织
 *** 化生一定是^^同源^^之间相互转化
-*** 骨化性肌炎常见于? #card
+*** 骨化性肌炎常见于? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 2
@@ -289,7 +289,7 @@ D.鳞状上皮化生为纤维组织
 **** 上皮组织
 :PROPERTIES:
 :END:
-***** 上皮组织包括哪些类型? #card
+***** 上皮组织包括哪些类型? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -303,7 +303,7 @@ D.鳞状上皮化生为纤维组织
 ****** 变移上皮: ^^肾盏,肾盂,输尿管,膀胱^^
 **** 间叶组织
 **** 神经组织
-*** #S 所以神经组织能否发生化生? #card
+*** #S 所以神经组织能否发生化生? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 2
@@ -320,7 +320,7 @@ A.成纤维细胞
 B.毛细血管
 C.细胞外基质 作为骨架 如胶原蛋白 
 D.良好的血供
-*** 促进伤口愈合的因素包括? #card
+*** 促进伤口愈合的因素包括? :card:
 :PROPERTIES:
 :card-last-score: 5
 :card-repeats: 1
@@ -363,7 +363,7 @@ D.心包膜
  B.[[PDGF]]
  C.[[cyclin D]]
  D.[[myc]]
-*** 如何记忆以点突变为主要致癌方式的基因? #card
+*** 如何记忆以点突变为主要致癌方式的基因? :card:
 :PROPERTIES:
 :card-last-interval: 3
 :card-repeats: 2
@@ -376,7 +376,7 @@ D.心包膜
 **** 抑癌基因:P53
 **** 只穿BRA的RAS拿了53个hello kitty
 **** ((63551e8e-f90e-4f9e-9f58-c36840927761))
-*** 如何记忆 生长因子/PDGF/SIS 激活成癌基因的方式? #card
+*** 如何记忆 生长因子/PDGF/SIS 激活成癌基因的方式? :card:
 :PROPERTIES:
 :card-last-interval: 4.14
 :card-repeats: 2
@@ -386,7 +386,7 @@ D.心包膜
 :card-last-score: 3
 :END:
 **** 看到SIS的两个SS→过度表达
-*** 如何记忆 生长因子/PDGF/SIS 的常见肿瘤? #card
+*** 如何记忆 生长因子/PDGF/SIS 的常见肿瘤? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -396,7 +396,7 @@ D.心包膜
 :card-last-score: 5
 :END:
 **** 姐妹(SIS)同心似骨肉: 星形细胞瘤,骨肉瘤
-*** 如何记忆[[abl]](酪氨酸激酶)激活成癌基因的方式? #card
+*** 如何记忆[[abl]](酪氨酸激酶)激活成癌基因的方式? :card:
 :PROPERTIES:
 :card-last-interval: 3
 :card-repeats: 2
@@ -406,7 +406,7 @@ D.心包膜
 :card-last-score: 5
 :END:
 **** 转位
-*** 如何记忆[[abl]](酪氨酸激酶)常见的肿瘤? #card
+*** 如何记忆[[abl]](酪氨酸激酶)常见的肿瘤? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -418,7 +418,7 @@ D.心包膜
 :END:
 **** [[CML]]定性 9号染色体上的bcr基因与22号染色体上的abl形成融合基因
 **** [[急性白血病]]定量,出现[[abl]]预后很不好
-*** 如何记忆 [[ras]] 激活成癌基因的方式? #card
+*** 如何记忆 [[ras]] 激活成癌基因的方式? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -428,7 +428,7 @@ D.心包膜
 :card-last-score: 5
 :END:
 **** [[点突变]]
-*** 如何记忆 [[KIT]] 激活成癌基因的方式? #card
+*** 如何记忆 [[KIT]] 激活成癌基因的方式? :card:
 :PROPERTIES:
 :card-last-interval: 3
 :card-repeats: 2
@@ -438,7 +438,7 @@ D.心包膜
 :card-last-score: 5
 :END:
 **** 点突变
-*** 如何记忆 [[KIT]] 常见肿瘤? #card
+*** 如何记忆 [[KIT]] 常见肿瘤? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -450,7 +450,7 @@ D.心包膜
 :END:
 **** 胃肠间质瘤,[[精原细胞瘤]]
 **** Hello kitty做胃镜
-*** 如何记忆[[HER-2]]/[[ERBB-2]]激活癌基因的机制? #card
+*** 如何记忆[[HER-2]]/[[ERBB-2]]激活癌基因的机制? :card:
 :PROPERTIES:
 :card-last-interval: 5.34
 :card-repeats: 2
@@ -460,7 +460,7 @@ D.心包膜
 :card-last-score: 5
 :END:
 **** 扩增
-*** 如何记忆[[c-myc]]的激活机制与常见肿瘤? #card
+*** 如何记忆[[c-myc]]的激活机制与常见肿瘤? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -471,7 +471,7 @@ D.心包膜
 :id: 634cfc73-a5c6-42bc-94d4-1ee51e70e097
 :END:
 **** 转位, [[Burkitt]]淋巴瘤 t(8;14) 8号染色体上的 [[c-myc]]
-*** 如何记忆[[myc]]的激活机制与常见肿瘤? #card
+*** 如何记忆[[myc]]的激活机制与常见肿瘤? :card:
 :PROPERTIES:
 :card-last-interval: 5.34
 :card-repeats: 2
@@ -482,7 +482,7 @@ D.心包膜
 :END:
 **** 扩增,肺小细胞肺癌
 **** 不是点突变,也不是 [[c-myc]]的转为自然是扩增→或者直接记忆为 [[myc]]扩增, [[c-myc]]转为.
-*** 如何记忆[[Cyclin D]]的激活机制与常见肿瘤? #card
+*** 如何记忆[[Cyclin D]]的激活机制与常见肿瘤? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -498,7 +498,7 @@ A.癌
 B.肉瘤
 C.黑色素痛
 D.神经内分泌肿瘤
-*** #S 如何[[Ki-67]]用于反映肿瘤细胞的? #card
+*** #S 如何[[Ki-67]]用于反映肿瘤细胞的? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -509,7 +509,7 @@ D.神经内分泌肿瘤
 :END:
 **** 增殖活性,如 [[Burkitt]]
 **** Ki与Kitt这样记
-*** 如何记忆癌与肉瘤的标记? #card
+*** 如何记忆癌与肉瘤的标记? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -544,7 +544,7 @@ D.未降睾丸
 :collapsed: true
 :END:
 **** [[../assets/image_1665991093957_0.png]]
-*** 大肠癌前病变息肉病中的综合征包括? #card
+*** 大肠癌前病变息肉病中的综合征包括? :card:
 :PROPERTIES:
 :card-last-interval: 3
 :card-repeats: 2
@@ -565,8 +565,8 @@ D.未降睾丸
 :card-last-score: 5
 :id: 63556d9c-2c05-4aaf-9554-39debdaf61be
 :END:
-51. 引起系统性红斑狼疮的超敏反应类型是几型? #card
-*** [[系统性红斑狼疮]]的本质是什么? #card
+51. 引起系统性红斑狼疮的超敏反应类型是几型? :card:
+*** [[系统性红斑狼疮]]的本质是什么? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -579,7 +579,7 @@ D.未降睾丸
 *** [[超敏反应]]
 :PROPERTIES:
 :END:
-**** Ⅰ型: 速发型 包括哪些疾病? #card
+**** Ⅰ型: 速发型 包括哪些疾病? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 2
@@ -589,7 +589,7 @@ D.未降睾丸
 :card-last-score: 3
 :END:
 ***** 过敏 荨麻疹,哮喘,休克
-**** Ⅱ型: 细胞毒型 包括哪些疾病? #card
+**** Ⅱ型: 细胞毒型 包括哪些疾病? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -599,7 +599,7 @@ D.未降睾丸
 :card-last-score: 3
 :END:
 ***** 溶血,输血,[[风湿]](两个字Ⅱ型,[[类风湿]]三个字Ⅲ型),[[急性排斥反应]]血管型
-**** Ⅲ型: 免疫复合物/血管炎型包括哪些疾病? #card
+**** Ⅲ型: 免疫复合物/血管炎型包括哪些疾病? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -612,7 +612,7 @@ D.未降睾丸
 #+BEGIN_QUOTE
 {{embed ((635681c9-9dba-4b7b-b419-5fb11887ba40))}}
 #+END_QUOTE
-**** Ⅳ型:迟发型 包括哪些类型的疾病? #card
+**** Ⅳ型:迟发型 包括哪些类型的疾病? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 2
@@ -633,7 +633,7 @@ A.[[p53]]基因突变
  B.[[RAS]]基因突变
  C.[[myc]]基因扩增 [[Burkitt]] 
  D.[[bcr]]-[[abl]]融合基因形成 [[CML]], [[急性白血病]]
-*** 生物化学中DNA修复最常见的修复方式及参与的基因? #card
+*** 生物化学中DNA修复最常见的修复方式及参与的基因? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -643,10 +643,18 @@ A.[[p53]]基因突变
 :card-last-score: 5
 :id: 634d04ec-bdf6-4ea3-b74c-263c6aab8be7
 :END:
+- Backlinks:[[id:d7fd7941-e7d2-41ee-9c87-559dbc9a4832][损伤修复]]
 **** 为切除修复
 ***** 其中碱基切除修复有[[p53]]参与
+- Mnemonic: 记忆为识切补连
+
 ****** 糖苷酶去除碱基,AP核酸内切酶切除核糖,DNA pol Ⅰ [[klenow]]补上,再用DNA连接酶连接
-***** 核苷酸切除修复:不能识别具体的碱基但是能识别使DNA构象发生改变的碱基如原核生物的UVR(紫外线),与人的XP蛋白(着色性干皮病)
+***** 核苷酸切除修复:
+:PROPERTIES:
+:ID:       55e804fd-6557-40b7-b31a-861b5cf259ca
+:END:
+- Backlinks:[[id:d7fd7941-e7d2-41ee-9c87-559dbc9a4832][损伤修复]]
+- 不能识别具体的碱基但是能识别使DNA构象发生改变的碱基如原核生物的UVR(紫外线),与人的XP蛋白(着色性干皮病)
 ***** 碱基错配修复
 *** 与 [[p53]]相关的疾病 #S
 **** 宫颈癌,[[HPV]] E6搞p53,E7:搞RB
@@ -658,7 +666,7 @@ A.肾小球内皮细胞增生
 B.肾小球系膜区细胞增生
 C.肾小球内中性粒细胞浸润
 D.肾小球毛细血管拌纤维素样坏死
-*** [[IgA肾病]]与其他类型的肾小球疾病的沉积物的主要差别是? #card
+*** [[IgA肾病]]与其他类型的肾小球疾病的沉积物的主要差别是? :card:
 :PROPERTIES:
 :card-last-interval: 3
 :card-repeats: 2
@@ -669,7 +677,7 @@ D.肾小球毛细血管拌纤维素样坏死
 :END:
 **** IgA肾病为IgA,而其他则为[[IgG]]
 *** IgA肾病的1-3天感冒病史与黏膜免疫形成IgA的时间相当
-*** IgA分子相互聚集形成大块更容易沉积于何处为什么? #card
+*** IgA分子相互聚集形成大块更容易沉积于何处为什么? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -685,7 +693,7 @@ A.肠粘膜的皱装形态
 B.肠粘膜淋巴小结的形态
 C.肠粘膜淋巴管的走向
 D.肠粘膜血管的走向
-*** [[如何记忆]][[肠结核]]与[[伤寒]]的溃疡方向与原因? #card
+*** [[如何记忆]][[肠结核]]与[[伤寒]]的溃疡方向与原因? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -696,7 +704,7 @@ D.肠粘膜血管的走向
 :END:
 **** 肠结核最后一点是垂直于一撇,伤寒最后两点是平行的,所以肠结核是垂直于长轴同理
 **** 肠结核是由于[[淋巴管]]的走向,而伤寒则是由于[[淋巴小结]]的形态
-** 133 对[[风湿]]病最有诊断意义的病变是? #card
+** 133 对[[风湿]]病最有诊断意义的病变是? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -705,12 +713,12 @@ D.肠粘膜血管的走向
 :card-last-reviewed: 2022-10-23T09:50:52.934Z
 :card-last-score: 5
 :END:
-134.对[[风湿]]病人造成最严重危害的病变是? #card
+134.对[[风湿]]病人造成最严重危害的病变是? :card:
 *** 风湿性心脏病
 :PROPERTIES:
 :collapsed: true
 :END:
-**** 风湿性心内膜炎最易累及何瓣膜? #card
+**** 风湿性心内膜炎最易累及何瓣膜? :card:
 :PROPERTIES:
 :card-last-interval: 5.34
 :card-repeats: 2
@@ -720,7 +728,7 @@ D.肠粘膜血管的走向
 :card-last-score: 5
 :END:
 ***** [[二尖瓣]]
-**** 风湿性心内膜炎形成的赘生物的性质为? #card
+**** 风湿性心内膜炎形成的赘生物的性质为? :card:
 :PROPERTIES:
 :card-last-interval: 5.34
 :card-repeats: 2
@@ -731,7 +739,7 @@ D.肠粘膜血管的走向
 :id: 63556d9c-2a0f-4f0d-92a3-064833efcdfb
 :END:
 ***** 白色血栓:以血小板为主
-**** 风湿性心肌炎的[[Aschoff小体]]的位置为? #card
+**** 风湿性心肌炎的[[Aschoff小体]]的位置为? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 2
@@ -741,7 +749,7 @@ D.肠粘膜血管的走向
 :card-last-score: 5
 :END:
 ***** 间质血管旁的巨噬细胞吞噬纤维素样坏死物
-**** [[风湿性心包炎]]纤维素渗出为主时表现为? #card
+**** [[风湿性心包炎]]纤维素渗出为主时表现为? :card:
 :PROPERTIES:
 :card-last-score: 5
 :card-repeats: 2
@@ -753,8 +761,8 @@ D.肠粘膜血管的走向
 :END:
 ***** [[绒毛心]]→[[缩窄性心包炎]]
 ***** 补充问题:
-****** #未完成 如何将绒毛心与风湿病联系起来记忆? #card
-*** 风湿与类风湿的对比? #card
+****** #未完成 如何将绒毛心与风湿病联系起来记忆? :card:
+*** 风湿与类风湿的对比? :card:
 :PROPERTIES:
 :card-last-interval: 5.72
 :card-repeats: 2
@@ -764,7 +772,7 @@ D.肠粘膜血管的走向
 :card-last-score: 5
 :id: 63556d9c-ad72-4ecc-82db-f7a02f16d184
 :END:
-**** 其都为何种性质的炎症? #card
+**** 其都为何种性质的炎症? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -775,7 +783,7 @@ D.肠粘膜血管的走向
 :END:
 ***** 风湿为特殊增生性炎(肉芽肿性炎)
 ***** 类风湿为非特异性增生性炎
-**** 风湿与类风湿侵犯大小关节的对比? #card
+**** 风湿与类风湿侵犯大小关节的对比? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 2
@@ -790,7 +798,7 @@ A.炎细胞浸润
 B.肉芽组织形成
 C.血管反应
 D.上皮细胞增生
-*** #S 炎症的主要病理变化包括哪几大类? #card
+*** #S 炎症的主要病理变化包括哪几大类? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -802,7 +810,7 @@ D.上皮细胞增生
 **** 变性
 **** 渗出
 **** 增生
-*** 肉芽组织形成是否属于炎症? #card
+*** 肉芽组织形成是否属于炎症? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -818,7 +826,7 @@ A.起源于上皮细胞
 B.<2cm者很少转移
 C.细胞形态较一致
 D.可发生淋巴转移
-*** 类癌起源于何细胞? #card
+*** 类癌起源于何细胞? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 2
@@ -833,7 +841,7 @@ A.艾滋病病海是RNA病毒
 B.艾滋病病毒的入侵门户是CD8分子
 C.早期病变时淋巴滤泡发生萎缩
 D.继发性恶性肿病中最常见的是卡波西肉瘤
-*** AIDS病毒为RNA还是DNA病毒? #card
+*** AIDS病毒为RNA还是DNA病毒? :card:
 :PROPERTIES:
 :card-last-interval: 3
 :card-repeats: 2
@@ -843,7 +851,7 @@ D.继发性恶性肿病中最常见的是卡波西肉瘤
 :card-last-score: 5
 :END:
 **** 其为[[逆转录病毒]]所以是RNA病毒
-**** 哪些病毒为[[DNA病毒]]? #card
+**** 哪些病毒为[[DNA病毒]]? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -853,7 +861,7 @@ D.继发性恶性肿病中最常见的是卡波西肉瘤
 :card-last-score: 3
 :END:
 ***** HBV,HPV,EBV
-*** 如何记忆AIDS病毒侵犯哪些细胞? #card
+*** 如何记忆AIDS病毒侵犯哪些细胞? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -871,7 +879,7 @@ D.继发性恶性肿病中最常见的是卡波西肉瘤
 ***** 树突状细胞
 ***** 单核巨噬细胞
 ***** 神经细胞
-**** 其中何细胞为储备池? #card
+**** 其中何细胞为储备池? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -884,7 +892,7 @@ D.继发性恶性肿病中最常见的是卡波西肉瘤
 #+BEGIN_TIP
 记忆为池旁的溶树上
 #+END_TIP
-*** AIDS病最常见的机会性感染与恶性肿瘤分别是? #card
+*** AIDS病最常见的机会性感染与恶性肿瘤分别是? :card:
 :PROPERTIES:
 :card-last-interval: 3
 :card-repeats: 2
@@ -902,7 +910,7 @@ A.汇管区淋巴滤泡形成
 B.肝细胞脂肪变性明显
 C.碎片样坏死
 D.调亡小休
-*** 丙肝的特点包括? #极可能考 #card
+*** 丙肝的特点包括? #极可能考 :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -914,7 +922,7 @@ D.调亡小休
 :END:
 **** 吃饼干容易长胖
 **** 胖→脂肪变性,胖的像泡泡→汇管区淋巴滤泡形成,胆管损伤
-*** [[乙肝]]独有的特点包括? #card
+*** [[乙肝]]独有的特点包括? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -925,7 +933,7 @@ D.调亡小休
 :END:
 **** 毛玻璃样肝细胞 surface HBsAg:滑面内质网(玻璃滑滑滑)
 **** 砂粒体样细胞核 core HBcAg→复制活跃
-*** 乙肝与丙肝谁更易导致肝硬化? #card
+*** 乙肝与丙肝谁更易导致肝硬化? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -944,7 +952,7 @@ A.边界清楚
 B.癌细胞体积大
 C.有较多的淋巴细胞浸洞
 D.HER2/neu过度表达
-*** 病理里默认髓样癌的淋巴细胞浸润为? #card
+*** 病理里默认髓样癌的淋巴细胞浸润为? :card:
 :PROPERTIES:
 :card-last-interval: 3
 :card-repeats: 2
@@ -954,7 +962,7 @@ D.HER2/neu过度表达
 :card-last-score: 5
 :END:
 **** 大量淋巴细胞浸润
-*** [[HER-2]] 表达越多预后越? #card
+*** [[HER-2]] 表达越多预后越? :card:
 :PROPERTIES:
 :card-last-interval: 3
 :card-repeats: 2
@@ -975,7 +983,7 @@ A.复性时的温度
 B.复制时的温度
 C.50%双链被打开的温度
 D.由B型转变成A型的温度
-*** 哪些因素影响DNA的Tm值? #card
+*** 哪些因素影响DNA的Tm值? :card:
 :PROPERTIES:
 :card-last-interval: 3
 :card-repeats: 2
@@ -995,7 +1003,7 @@ A.葡萄糖转变成磷酸二羟丙酮
 B.葡萄糖转变成乙酰CoA
 C.葡萄糖转变成乳酸
 D.葡萄糖转变成丙酮酸
-*** #S 请描述脂肪生成的[[甘油二酯]]途径? #card
+*** #S 请描述脂肪生成的[[甘油二酯]]途径? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 2
@@ -1015,7 +1023,7 @@ D.葡萄糖转变成丙酮酸
  B.琥珀酰CoA
  C.脂肪酰CoA
 D.丙二酸单酰CoA
-*** [[底物水平磷酸化]]西综中只有3个例子 #card
+*** [[底物水平磷酸化]]西综中只有3个例子 :card:
 :PROPERTIES:
 :card-last-interval: 3
 :card-repeats: 2
@@ -1035,7 +1043,7 @@ A.亮氮酸
 B.丝氨酸
 C.丙氮酸
 D.甲硫氨酸
-*** 如何记忆一碳单位来源的氨基酸? #card
+*** 如何记忆一碳单位来源的氨基酸? :card:
 :PROPERTIES:
 :card-last-interval: 3
 :card-repeats: 2
@@ -1046,7 +1054,7 @@ D.甲硫氨酸
 :END:
 **** 施舍竹树杆
 **** 丝色组苏甘
-*** #S 一碳单位的作用是参与哪些物质的合成? #card
+*** #S 一碳单位的作用是参与哪些物质的合成? :card:
 :PROPERTIES:
 :card-last-interval: 3
 :card-repeats: 2
@@ -1058,7 +1066,7 @@ D.甲硫氨酸
 **** [[嘌呤]]与嘧啶中的[[胸腺嘧啶]]
 **** {{embed ((634fa6dc-20b5-4233-890e-aea12698f4b7))}}
 ****
-** 34.对广泛DNA损伤进行紧急、粗糙、高错误率的修复方式是? #card
+** 34.对广泛DNA损伤进行紧急、粗糙、高错误率的修复方式是? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1066,7 +1074,9 @@ D.甲硫氨酸
 :card-next-schedule: 2022-10-27T09:32:56.789Z
 :card-last-reviewed: 2022-10-23T09:32:56.790Z
 :card-last-score: 5
+:ID:       21c3cace-25e2-461e-a2b6-aa6f76e0dc73
 :END:
+- Backlinks:[[id:d7fd7941-e7d2-41ee-9c87-559dbc9a4832][损伤修复]]
 A.光修复
 B.切除修复
 C.重组修复
@@ -1075,15 +1085,19 @@ C.重组修复
 *** 双链断裂
 :PROPERTIES:
 :collapsed: true
+:ID:       5643358e-2c0f-4f78-b2e3-eb2c781c97cb
 :END:
-**** 原核:RecA
-**** 真核:XRCC4,DNA-PK
+- Backlinks:[[id:d7fd7941-e7d2-41ee-9c87-559dbc9a4832][损伤修复]]
+**** 原核:RecA (Recombination A) 同源重组修复
+**** 真核:XRCC4(X-ray cross combination),DNA-PK 非同源的重组修复
 *** SOS:跨损伤DNA合成修复
 :PROPERTIES:
 :collapsed: true
+:ID:       5ba7ab54-cab3-402b-935b-d14ea100debf
 :END:
+- Backlinks:[[id:5b0263cb-c028-4f72-a6c3-0249437bef84][原核生物DNA聚合酶Ⅳ,Ⅴ的主要作用是]]
 **** 原核生物:DNA pol Ⅳ,Ⅴ
-**** 如何记忆SOS修复系统缺陷导致的疾病? #card
+**** 如何记忆SOS修复系统缺陷导致的疾病? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1091,12 +1105,31 @@ C.重组修复
 :card-next-schedule: 2022-10-27T11:51:26.466Z
 :card-last-reviewed: 2022-10-23T11:51:26.466Z
 :card-last-score: 5
+:ID:       50c9dfa7-770c-420c-bf52-ada47a97758c
 :END:
+- Backlinks:[[id:d7fd7941-e7d2-41ee-9c87-559dbc9a4832][损伤修复]]
 ***** [[Fanconi贫血]] fan S 粉丝粉丝
+*** 如何记忆机制为错配修复缺陷的疾病
+:PROPERTIES:
+:ID:       21bf531e-f89a-46e3-b6f0-3f5208946053
+:END:
+- Backlinks:[[id:d7fd7941-e7d2-41ee-9c87-559dbc9a4832][损伤修复]]
+- Mnemonic: 记忆为非错不可
+- 遗传性非息肉病性结肠癌: 结肠癌可以由息肉而来,但是其与错配无关,有关的一定是非息肉性
+*** 如何记忆机制为重组修复缺陷的疾病
+:PROPERTIES:
+:ID:       4c8f8f0f-1db3-4730-9a29-d51ec8908ed7
+:END:
+- Backlinks:[[id:d7fd7941-e7d2-41ee-9c87-559dbc9a4832][损伤修复]]
+- 遗传性乳腺癌
+- bloom综合征
+- Mnemonic: 乳房重装假体boom爆炸
+
+
 ** 36
 :PROPERTIES:
 :END:
-*** 如何记忆真核生物的与原核生物的核糖体构成? #card
+*** 如何记忆真核生物的与原核生物的核糖体构成? :card:
 :PROPERTIES:
 :card-last-interval: 3
 :card-repeats: 2
@@ -1107,7 +1140,7 @@ C.重组修复
 :END:
 **** 原核是:爱上我要留下 23 5 ,16
 **** 真核是: 我爸是恶霸打我一巴掌: 5.8 28 5,18
-*** 如何记忆真核生物的与原核生物的核糖体中的转肽酶本质? #card
+*** 如何记忆真核生物的与原核生物的核糖体中的转肽酶本质? :card:
 :PROPERTIES:
 :card-last-interval: 3
 :card-repeats: 2
@@ -1118,15 +1151,11 @@ C.重组修复
 :END:
 **** 原核生物是23 s RNA
 **** 真核生物是28 s RNA
-*** 真核生物线粒体DNA复制的酶记忆复制特点为? #card
+*** 真核生物线粒体DNA复制的酶记忆复制特点为? :card:
 :PROPERTIES:
-:card-last-interval: 5.34
-:card-repeats: 2
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-10-29T14:59:53.327Z
-:card-last-reviewed: 2022-10-24T06:59:53.327Z
-:card-last-score: 5
+:ID:       51976932-bbde-43e7-9770-96e2ba2ce9e3
 :END:
+- Backlinks:[[id:277251d4-ad93-46c0-ad97-a85487dcbd25][线粒体的DNA复制]]
 **** 复制酶为[[DNA pol γ]] γ的上边像D环复制的下边 [[../assets/image_1666594770196_0.png]]{:height 158, :width 134}
 **** 复制特点为:[[D环复制]]:两条链的复制起点不同 [[../assets/image_1666009229823_0.png]]
 ** 39.以下选项中,能使原癌基因激活的机制是
@@ -1137,7 +1166,7 @@ A.获得启动子
 B.抑癌基因的过表达
 C.[[转录因子]]与RNA结合
 D.[[p53]]蛋白诱导细胞调亡
-*** 原癌基因活化为癌基因的方式包括? #card
+*** 原癌基因活化为癌基因的方式包括? :card:
 :PROPERTIES:
 :card-last-interval: 3
 :card-repeats: 2
@@ -1169,7 +1198,7 @@ D.[[p53]]蛋白诱导细胞调亡
 :PROPERTIES:
 :collapsed: true
 :END:
-*** #S 谷氨酰胺能否参与脂肪酸的合成? #card
+*** #S 谷氨酰胺能否参与脂肪酸的合成? :card:
 :PROPERTIES:
 :card-last-interval: 3
 :card-repeats: 2
@@ -1179,7 +1208,7 @@ D.[[p53]]蛋白诱导细胞调亡
 :card-last-score: 5
 :END:
 **** 体内所有生糖,生酮,生糖兼生酮氨基酸都可以转变为乙酰CoA从而参与脂肪酸的合成
-*** 谷氨酰胺是否参与血红素的合成? #card
+*** 谷氨酰胺是否参与血红素的合成? :card:
 :PROPERTIES:
 :background-color: red
 :card-last-interval: 4
@@ -1189,7 +1218,7 @@ D.[[p53]]蛋白诱导细胞调亡
 :card-last-reviewed: 2022-10-23T11:23:28.037Z
 :card-last-score: 3
 :END:
-**** 如何记忆血红素的合成原料? #card
+**** 如何记忆血红素的合成原料? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1204,7 +1233,7 @@ D.[[p53]]蛋白诱导细胞调亡
 :PROPERTIES:
 :collapsed: true
 :END:
-*** 真核生物转录完成与加尾过程的时序性? #card
+*** 真核生物转录完成与加尾过程的时序性? :card:
 :PROPERTIES:
 :card-last-interval: 3
 :card-repeats: 2
@@ -1219,7 +1248,7 @@ D.[[p53]]蛋白诱导细胞调亡
 :collapsed: true
 :END:
 **** AAU(T)AAA
-*** 剪接体识别的序列是? #card
+*** 剪接体识别的序列是? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1235,7 +1264,7 @@ D.[[p53]]蛋白诱导细胞调亡
 :collapsed: true
 :END:
 *** [[抗生素的作用机制]]
-**** 如何记忆抑制大亚基抗生素? #card
+**** 如何记忆抑制大亚基抗生素? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1247,7 +1276,7 @@ D.[[p53]]蛋白诱导细胞调亡
 ***** 都是有颜色的
 ***** 如真核生物:[[放线菌酮]](铜),[[蓖麻毒蛋白]](白)
 ***** 原核生物:[[氯霉素]],[[红霉素]],[[林可霉素]]
-**** 如何记忆抑制小亚基的抗生素? #card
+**** 如何记忆抑制小亚基的抗生素? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1260,7 +1289,7 @@ D.[[p53]]蛋白诱导细胞调亡
 ***** [[四环素]] 进位 使劲使劲
 ***** [[大观霉素]] 打转,打转
 ***** 想想一个人坐在沙发上吃着糖看着CCTV4的综艺大观里面的奥迪疯狂原地打转
-**** 白喉毒素的致毒机制为? #card
+**** 白喉毒素的致毒机制为? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1271,7 +1300,7 @@ D.[[p53]]蛋白诱导细胞调亡
 :END:
 ***** 白岩(延长因子)松吐(two=2)糖(糖基化)
 ****** 延长因子eEF-2糖基化
-**** 干扰素干扰蛋白质生物合成的机制? #card
+**** 干扰素干扰蛋白质生物合成的机制? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 2
@@ -1290,7 +1319,7 @@ A.肝脏缩小
 B.脾脏缩小
 C.腹水量明显减少
 D.腹壁静脉曲张加重
-*** 肝功能硬化一定要想到哪两个方面? #card
+*** 肝功能硬化一定要想到哪两个方面? :card:
 :PROPERTIES:
 :card-last-interval: 3
 :card-repeats: 2
@@ -1301,7 +1330,7 @@ D.腹壁静脉曲张加重
 :END:
 **** 肝功能不全
 **** 门脉高压
-*** [[门脉高压症]]最早的表现是? #card
+*** [[门脉高压症]]最早的表现是? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1311,7 +1340,7 @@ D.腹壁静脉曲张加重
 :card-last-score: 5
 :END:
 **** 脾大
-*** [[门脉高压症]]最有特征性最有价值的表现是? #card
+*** [[门脉高压症]]最有特征性最有价值的表现是? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1326,7 +1355,7 @@ A.为全舒张期
 B.强度不受呼吸影响
 C.向剑突方问传导
 D.多为递增迷减型
-*** [[二狭]]的杂音时相为? #card
+*** [[二狭]]的杂音时相为? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1336,7 +1365,7 @@ D.多为递增迷减型
 :card-last-score: 5
 :END:
 **** 舒张中晚期
-**** 舒张早期是只有等容舒张期吗? #card
+**** 舒张早期是只有等容舒张期吗? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1346,7 +1375,7 @@ D.多为递增迷减型
 :card-last-score: 3
 :END:
 ***** 不是,还包含了一部分的舒张充盈期
-***** 那为什么早期的部分充盈期有充盈但是无杂音? #card
+***** 那为什么早期的部分充盈期有充盈但是无杂音? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1357,7 +1386,7 @@ D.多为递增迷减型
 :END:
 ****** 因为早期充盈的血流不多,二尖瓣漂浮程度不高,瓣口相对还是够大的
 ****** 而随着回流的血流越多瓣口的漂浮程度越高瓣口逐步缩小呈现递增性杂音
-*** [[二狭]]的杂音是否传导? #card
+*** [[二狭]]的杂音是否传导? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1367,7 +1396,7 @@ D.多为递增迷减型
 :card-last-score: 5
 :END:
 **** 不传导,局限
-*** [[二狭]]可否闻及胸骨左缘第二肋间的舒张期杂音? #card
+*** [[二狭]]可否闻及胸骨左缘第二肋间的舒张期杂音? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1380,7 +1409,7 @@ D.多为递增迷减型
 **** #+BEGIN_TIP
 一个是二狭一个是主闭, [[G-S杂音]] 与[[A-F杂音]]
 #+END_TIP
-*** [[二闭]]与[[主狭]]的第二心音分裂差异? #card
+*** [[二闭]]与[[主狭]]的第二心音分裂差异? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1391,7 +1420,7 @@ D.多为递增迷减型
 :END:
 **** [[二闭]]为通常分裂
 **** [[主狭]]为逆分裂
-*** 只要是瓣膜关闭不全都容易听到? #card
+*** 只要是瓣膜关闭不全都容易听到? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1401,7 +1430,7 @@ D.多为递增迷减型
 :card-last-score: 5
 :END:
 **** 第三,四心音[[奔马律]]
-*** 慢性轻度[[主闭]]与慢性中重度主闭的杂音特点? #card
+*** 慢性轻度[[主闭]]与慢性中重度主闭的杂音特点? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 2
@@ -1412,7 +1441,7 @@ D.多为递增迷减型
 :END:
 **** 轻度为舒张早期的柔和杂音
 **** 中重度为全舒张期的粗糙杂音
-*** 出现心尖舒张期与收缩期杂音可有哪些情况? #card
+*** 出现心尖舒张期与收缩期杂音可有哪些情况? :card:
 :PROPERTIES:
 :card-last-interval: 5.72
 :card-repeats: 2
@@ -1426,7 +1455,7 @@ D.多为递增迷减型
 ** [[房颤]]
 :PROPERTIES:
 :END:
-*** 一提到房颤就应想到的思路是? #card
+*** 一提到房颤就应想到的思路是? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1440,7 +1469,7 @@ D.多为递增迷减型
 :PROPERTIES:
 :collapsed: true
 :END:
-***** 有瓣膜病首选? #card
+***** 有瓣膜病首选? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1450,7 +1479,7 @@ D.多为递增迷减型
 :card-last-score: 3
 :END:
 ****** 华法林
-***** 无瓣膜病如何处理? #card
+***** 无瓣膜病如何处理? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1473,7 +1502,7 @@ D.多为递增迷减型
 :PROPERTIES:
 :id: 634e422f-578b-4dab-a9bf-3b82b5a51086
 :END:
-*** #S 二者的冠脉阻塞血栓的类型? #card
+*** #S 二者的冠脉阻塞血栓的类型? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1487,7 +1516,7 @@ D.多为递增迷减型
 **** #+BEGIN_TIP
 不严重的肯定是血小板为主啦
 #+END_TIP
-*** #S 二者的冠脉阻塞程度为? #card
+*** #S 二者的冠脉阻塞程度为? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1498,7 +1527,7 @@ D.多为递增迷减型
 :END:
 **** NSTEMI不完全
 **** STEMI 完全
-*** #S 二者是否能溶栓? #card
+*** #S 二者是否能溶栓? :card:
 :PROPERTIES:
 :card-last-interval: 5.34
 :card-repeats: 2
@@ -1509,7 +1538,7 @@ D.多为递增迷减型
 :END:
 **** [[NSTEMI]]禁止溶栓,因其为血小板为主
 **** [[STEMI]]:无禁忌症可以溶栓,与肺血栓栓塞作对比后者高危不管禁忌症直接溶栓
-*** #S 两者是否有[[病理Q波]]? #card
+*** #S 两者是否有[[病理Q波]]? :card:
 :PROPERTIES:
 :card-last-interval: 5.34
 :card-repeats: 2
@@ -1523,7 +1552,7 @@ D.多为递增迷减型
 ** [[间质性肺疾病]]
 :PROPERTIES:
 :END:
-*** [[特发性肺纤维化]]的诊断金标准是? #card
+*** [[特发性肺纤维化]]的诊断金标准是? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1533,7 +1562,7 @@ D.多为递增迷减型
 :card-last-score: 5
 :END:
 **** HRCT
-*** 特发性肺纤维化的影像学表现常出现的部位是? #card
+*** 特发性肺纤维化的影像学表现常出现的部位是? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1543,7 +1572,7 @@ D.多为递增迷减型
 :card-last-score: 5
 :END:
 **** 双肺胸膜下,基底部分布的网格影
-*** [[结节病]]的BALF表现为? #card
+*** [[结节病]]的BALF表现为? :card:
 :PROPERTIES:
 :card-last-interval: 3
 :card-repeats: 2
@@ -1554,7 +1583,7 @@ D.多为递增迷减型
 :END:
 **** CD4阳性T细胞增多
 **** ((63550528-6bdf-4542-801e-bcf959a30b5b))
-*** [[结节病]]的胸片特点是? #card
+*** [[结节病]]的胸片特点是? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1565,7 +1594,7 @@ D.多为递增迷减型
 :id: 6354d357-cb0e-4229-aa6b-07e2c76b2e15
 :END:
 **** 双肺门淋巴结肿大
-*** [[结节病]]的金标准是? #card
+*** [[结节病]]的金标准是? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1576,7 +1605,7 @@ D.多为递增迷减型
 :END:
 **** 支气管镜检查若见到黏膜的铺路石样改变
 **** 注意与 [[肺泡蛋白沉着病]]鉴别
-*** [[过敏性肺炎]]BALF的表现为? #card
+*** [[过敏性肺炎]]BALF的表现为? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1587,7 +1616,7 @@ D.多为递增迷减型
 :END:
 **** CD8增多
 **** {{embed ((63550528-6bdf-4542-801e-bcf959a30b5b))}}
-*** 如何记忆[[过敏性肺炎]]的HRCT为? #card
+*** 如何记忆[[过敏性肺炎]]的HRCT为? :card:
 :PROPERTIES:
 :card-last-interval: 5.34
 :card-repeats: 2
@@ -1600,9 +1629,11 @@ D.多为递增迷减型
 *** [[肺泡蛋白沉着病]]的BALF表现为? #未考过的极可能考点
 :PROPERTIES:
 :collapsed: true
+:ID:       0527f3fe-25af-421e-b008-debdbec2ab1c
 :END:
+- Backlinks:[[id:37d08d02-2315-476c-ab19-b5425e43ef9f][46. 女，48 岁，咳嗽胸闷 4 个月，无发热，CT 示双侧肺门、纵隔淋巴结肿大伴双侧网格状影及小结节影。双下肺少许蜂窝状改变，支气管镜示支气管粘膜呈铺路石状改变，支气管肺泡灌洗液检查最可能的结果为]]
 **** 乳白色,PAS阳性
-*** [[肺泡蛋白沉着病]]的影像学表现为? #card
+*** [[肺泡蛋白沉着病]]的影像学表现为? :card:
 :PROPERTIES:
 :card-last-interval: 5.72
 :card-repeats: 2
@@ -1610,15 +1641,21 @@ D.多为递增迷减型
 :card-next-schedule: 2022-10-30T00:00:54.571Z
 :card-last-reviewed: 2022-10-24T07:00:54.571Z
 :card-last-score: 5
+:ID:       9bbedd8e-ac3c-4ee4-aa24-f54020b0edd7
 :END:
-**** 蝴蝶样,地图样(病变部位与正常部位截然分开),铺路石样
-**** [[../assets/image_1666074468425_0.png]]
+- Backlinks:[[id:37d08d02-2315-476c-ab19-b5425e43ef9f][46. 女，48 岁，咳嗽胸闷 4 个月，无发热，CT 示双侧肺门、纵隔淋巴结肿大伴双侧网格状影及小结节影。双下肺少许蜂窝状改变，支气管镜示支气管粘膜呈铺路石状改变，支气管肺泡灌洗液检查最可能的结果为]]
+- 蝴蝶样,地图样(病变部位与正常部位截然分开),铺路石样
+- Mnemonic: 记忆为牛奶撒了一地吸引了蝴蝶
+
+[[../assets/image_1666074468425_0.png]]
 *** [[肺泡蛋白沉着病]]的治疗为
 :PROPERTIES:
 :collapsed: true
+:ID:       75243e4f-3a20-43fd-a272-35f01ecb6e4e
 :END:
+- Backlinks:[[id:37d08d02-2315-476c-ab19-b5425e43ef9f][46. 女，48 岁，咳嗽胸闷 4 个月，无发热，CT 示双侧肺门、纵隔淋巴结肿大伴双侧网格状影及小结节影。双下肺少许蜂窝状改变，支气管镜示支气管粘膜呈铺路石状改变，支气管肺泡灌洗液检查最可能的结果为]]
 **** 全肺灌洗
-*** 嗜酸性细胞性肺炎的影像学表现为? #card
+*** 嗜酸性细胞性肺炎的影像学表现为? :card:
 :PROPERTIES:
 :card-last-interval: -1
 :card-repeats: 1
@@ -1630,7 +1667,7 @@ D.多为递增迷减型
 **** 靠近肺外带的水肿(一般的肺水肿都是靠近肺门的)
 **** [[../assets/image_1666074602576_0.png]]
 ** 66 [[幽门螺杆菌]]
-*** 与 [[幽门螺杆菌]]相关的疾病包括? #card
+*** 与 [[幽门螺杆菌]]相关的疾病包括? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1650,7 +1687,7 @@ A.肾静脉血栓形成
 B水电解)质茶乱
 C.急性肾衰端
 D.营养不良
-*** #S [[肾病综合征]]的并发症包括哪些? #card
+*** #S [[肾病综合征]]的并发症包括哪些? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1674,7 +1711,7 @@ C.二甲双肌
 D.那格列奈
 *** {{embed ((634d59cc-1095-4588-ada0-5ea79180f669))}}
 *** 该病的心脏疾病并非继发于糖尿病所以不选用胰岛素
-** 75 [[选择性COX-2抑制剂]]主要是? #card
+** 75 [[选择性COX-2抑制剂]]主要是? :card:
 :PROPERTIES:
 :card-last-interval: 5.34
 :card-repeats: 2
@@ -1686,7 +1723,7 @@ D.那格列奈
 :END:
 *** [[塞来昔布]],[[美洛昔康]]
 ** 91 [[胸腔积液]]的叩诊与听诊 与2007N178A 作比较
-*** 右侧胸腔积液叩诊时肝界如何移动? #card
+*** 右侧胸腔积液叩诊时肝界如何移动? :card:
 :PROPERTIES:
 :card-last-interval: 3
 :card-repeats: 2
@@ -1696,7 +1733,7 @@ D.那格列奈
 :card-last-score: 5
 :END:
 **** 假性的上移,因为积液的存在从胸骨柄往下叩诊时提前出现浊音误以为肝界上移
-*** [[PNH]]时 [[NAP]]如何变化? #card
+*** [[PNH]]时 [[NAP]]如何变化? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1708,7 +1745,7 @@ D.那格列奈
 **** 减少
 **** 本质上[[PNH]]的造血干细胞是存在问题的可以向^^急粒^^转化,所以其NAP也是下降的
 **** ((6350b9ac-cc1d-4fee-a1fa-6369c363cfdd))
-*** 如何记忆[[NAP]]减少的疾病? #card
+*** 如何记忆[[NAP]]减少的疾病? :card:
 :PROPERTIES:
 :card-last-interval: 5.34
 :card-repeats: 2
@@ -1719,7 +1756,7 @@ D.那格列奈
 :id: 6350b9ac-cc1d-4fee-a1fa-6369c363cfdd
 :END:
 **** 粒粒睡病毒
-*** 大量胸腔积液时肺底移动度如何变化? #card
+*** 大量胸腔积液时肺底移动度如何变化? :card:
 :PROPERTIES:
 :card-last-interval: 3
 :card-repeats: 2
@@ -1729,7 +1766,7 @@ D.那格列奈
 :card-last-score: 5
 :END:
 **** 消失
-*** 正常支气管呼吸音只能在何处听到? #card
+*** 正常支气管呼吸音只能在何处听到? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1739,7 +1776,7 @@ D.那格列奈
 :card-last-score: 5
 :END:
 **** 肺外
-*** #S 异常支气管呼吸音的出现部位? #card
+*** #S 异常支气管呼吸音的出现部位? :card:
 :PROPERTIES:
 :card-last-interval: 5.72
 :card-repeats: 2
@@ -1750,7 +1787,7 @@ D.那格列奈
 :END:
 **** 实变,空洞
 **** 积液上方
-*** #S 胸腔积液量是否能达到上肺的关系? #card
+*** #S 胸腔积液量是否能达到上肺的关系? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1763,7 +1800,7 @@ D.那格列奈
 **** 少量胸腔积液一定达不到上肺
 **** 中等量胸腔积液可能达到上肺
 ** 93 [[风湿性心脏病]]
-*** [[../assets/image_1666078414365_0.png]]心后三角的意义是? #card
+*** [[../assets/image_1666078414365_0.png]]心后三角的意义是? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1773,7 +1810,7 @@ D.那格列奈
 :card-last-score: 5
 :END:
 **** 只要见心后三角说明左心室无扩大
-*** 风心病所致的瓣膜病左心室的扩大情况? #card
+*** 风心病所致的瓣膜病左心室的扩大情况? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1784,7 +1821,7 @@ D.那格列奈
 :END:
 **** 只有二狭不大,其他全大
 ** 94 杂音
-*** 如何理解动脉导管未闭是连续性杂音? #card
+*** 如何理解动脉导管未闭是连续性杂音? :card:
 :PROPERTIES:
 :card-last-interval: 3
 :card-repeats: 2
@@ -1795,7 +1832,7 @@ D.那格列奈
 :END:
 **** 因为心脏里的血液是断续的
 **** 而血管内的血液才是连续的
-** 95 [[如何记忆]]NYHA分级? #card
+** 95 [[如何记忆]]NYHA分级? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1807,7 +1844,7 @@ D.那格列奈
 *** 关键是看躺没躺下去,躺的下去就是夜间阵发性呼吸困难 Ⅰ级
 *** 躺不下去就是端坐呼吸Ⅳ级
 ** 96 呼吸系统疾病
-*** #S 呼吸系统疾病如何判断能否高浓度吸氧? #card
+*** #S 呼吸系统疾病如何判断能否高浓度吸氧? :card:
 :PROPERTIES:
 :card-last-interval: 3
 :card-repeats: 2
@@ -1818,7 +1855,7 @@ D.那格列奈
 :END:
 **** Ⅰ型呼衰可以
 **** Ⅱ型呼衰坚决不行
-*** #S 呼吸系统疾病该不该补碱的标准是? #card
+*** #S 呼吸系统疾病该不该补碱的标准是? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1828,7 +1865,7 @@ D.那格列奈
 :card-last-score: 5
 :END:
 **** pH是否<7.2 记住与 [[DKA]]相鉴别
-*** #S 是否能用吗啡? #card
+*** #S 是否能用吗啡? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1838,7 +1875,7 @@ D.那格列奈
 :card-last-score: 5
 :END:
 **** 不能,所有呼吸系统疾病都不应用吗啡
-*** 酸碱中毒失代偿[[pH]]值为? #card
+*** 酸碱中毒失代偿[[pH]]值为? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1850,7 +1887,7 @@ D.那格列奈
 **** \<7.35酸中毒失代偿
 **** \>7.45碱中毒失代偿
 ** 98 [[天天师兄/内科学/呼吸系统/COPD]]的稳定期治疗
-*** [[COPD]]稳定期是否使用激素的标准是? #card
+*** [[COPD]]稳定期是否使用激素的标准是? :card:
 :PROPERTIES:
 :card-last-interval: 3
 :card-repeats: 2
@@ -1860,7 +1897,7 @@ D.那格列奈
 :card-last-score: 5
 :END:
 **** 高风险组才使用
-*** COPD患者经过治疗出现踌躇惊厥的原因是? #card
+*** COPD患者经过治疗出现踌躇惊厥的原因是? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1886,7 +1923,7 @@ A.慢性肾小球肾炎
 B.肾病综合征
 C.高血压病肾损害
 D.糖尿薄野病
-*** #S 慢性肾衰竭主要由何疾病转来? #card
+*** #S 慢性肾衰竭主要由何疾病转来? :card:
 :PROPERTIES:
 :card-last-interval: 5.72
 :card-repeats: 2
@@ -1899,7 +1936,7 @@ D.糖尿薄野病
 **** [[肾病综合征]]急性肾衰都很少见,慢性肾衰更少见
 **** ((63551e8e-d55a-488b-a51f-2dda71f13c99))
 ****
-*** #S 慢性肾衰导致出血倾向的原因是? #card
+*** #S 慢性肾衰导致出血倾向的原因是? :card:
 :PROPERTIES:
 :card-last-interval: 5.34
 :card-repeats: 2
@@ -1920,7 +1957,7 @@ D.糖尿薄野病
 :END:
 *** 含酶的一定是髓系的,淋系不需要酶去执行作用
 *** 所以MPO/POX,NSE都在髓系阳性,但是急粒与急单又有区别 [[../assets/image_1666081423999_0.png]]
-*** #S 提示预后差的染色体异常包括? #card
+*** #S 提示预后差的染色体异常包括? :card:
 :PROPERTIES:
 :card-last-interval: 5.34
 :card-repeats: 2
@@ -1931,7 +1968,7 @@ D.糖尿薄野病
 :END:
 **** t(9:22)费城染色体
 **** 与t(6:9)
-*** t(8:21)为几型白血病的染色体改变? #card
+*** t(8:21)为几型白血病的染色体改变? :card:
 :PROPERTIES:
 :card-last-interval: 5.34
 :card-repeats: 2
@@ -1941,7 +1978,7 @@ D.糖尿薄野病
 :card-last-score: 5
 :END:
 **** M2型→找一堆2 [[../assets/image_1666081608784_0.png]]
-*** [[M3型白血病]]的染色体改变为? #card
+*** [[M3型白血病]]的染色体改变为? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1953,7 +1990,7 @@ D.糖尿薄野病
 **** 等差数列的感染 15,17→PML-RARA
 **
 ** 110
-*** [[甲状腺危象]]的治疗药物首选? #card
+*** [[甲状腺危象]]的治疗药物首选? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1963,7 +2000,7 @@ D.糖尿薄野病
 :card-last-score: 3
 :END:
 **** [[PTU]] 起效快,同时能抑制T4转向T3
-*** [[甲状腺危象]]的治疗药物包括? #card
+*** [[甲状腺危象]]的治疗药物包括? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1976,7 +2013,7 @@ D.糖尿薄野病
 ** 140 高血压的药物治疗
 *** [[../assets/image_1666083236870_0.png]]
 ** 144 [[炎症性肠病]]
-*** [[中毒性巨结肠]]为何疾病的并发症? #card
+*** [[中毒性巨结肠]]为何疾病的并发症? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1986,7 +2023,7 @@ D.糖尿薄野病
 :card-last-score: 5
 :END:
 **** 严重的UC最常见的并发症
-*** #S 中毒性巨结肠的本质是?故哪些因素会诱发它? #card
+*** #S 中毒性巨结肠的本质是?故哪些因素会诱发它? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -1997,7 +2034,7 @@ D.糖尿薄野病
 :END:
 **** [[麻痹性肠梗阻]]
 **** 钡剂灌肠,低钾,抗胆碱药,阿片药
-*** #S 中毒性巨结肠的表现包括? #card
+*** #S 中毒性巨结肠的表现包括? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -2007,7 +2044,7 @@ D.糖尿薄野病
 :card-last-score: 5
 :END:
 **** 全腹压痛,膨隆,肠鸣音↓,易急性穿孔,因为累及的比较深
-**** [[溃疡性结肠炎]]是否易穿孔? #card
+**** [[溃疡性结肠炎]]是否易穿孔? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -2017,7 +2054,7 @@ D.糖尿薄野病
 :card-last-score: 5
 :END:
 ***** 浅溃疡一般不穿孔
-*** #S #极可能考 中毒性巨结肠首选的检查为以及最常见的部位为? #card
+*** #S #极可能考 中毒性巨结肠首选的检查为以及最常见的部位为? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -2029,7 +2066,7 @@ D.糖尿薄野病
 **** X线,而不是钡剂或肠镜,肠镜可能捅坏肠子
 **** 横结肠
 ** 169 冠脉循环
-*** [[X综合征]]的机制为? #card
+*** [[X综合征]]的机制为? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -2041,7 +2078,7 @@ D.糖尿薄野病
 **** 冠脉的微循环发生病变,所以预后好,不会猝死.
 **** 运动负荷试验阳性但是做冠脉造影无冠脉狭窄阻塞
 ** 171 肝癌的伴癌综合征
-*** 为什么出现低糖血症? #card
+*** 为什么出现低糖血症? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -2052,7 +2089,7 @@ D.糖尿薄野病
 :END:
 **** 肝癌本身也会消耗葡萄糖
 ** 172 复杂性尿感
-*** #S 复杂性尿感包括哪三大类? #card
+*** #S 复杂性尿感包括哪三大类? :card:
 :PROPERTIES:
 :background-color: red
 :card-last-interval: 4
@@ -2066,7 +2103,7 @@ D.糖尿薄野病
 **** 免疫低下 如肾移植
 **** 有基础疾病
 ** 173 [[溶血性贫血]]
-*** 骨髓红系明显增生的三大表现? #card
+*** 骨髓红系明显增生的三大表现? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -2078,17 +2115,9 @@ D.糖尿薄野病
 **** 网织红明显增多
 **** 粒红比倒置
 **** 有核红细胞增多,见H-J小体,卡波环
-*** 反映溶血的敏感指标为? #card
-:PROPERTIES:
-:card-last-interval: 4
-:card-repeats: 1
-:card-ease-factor: 2.6
-:card-next-schedule: 2022-10-27T09:50:41.331Z
-:card-last-reviewed: 2022-10-23T09:50:41.331Z
-:card-last-score: 5
-:END:
+*** 反映溶血的敏感指标为? :card:
 **** [[触珠蛋白]]下降
-**** [[血管外溶血]]是否会导致触珠蛋白下降? #card
+**** [[血管外溶血]]是否会导致触珠蛋白下降? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -2108,7 +2137,7 @@ B.血浆结合珠蛋白
 C.血中破碎红细胞
 D.尿隐血试验
  E.尿Rous试验
-***** #易错 血管外溶血是否可见血管内的破碎红细胞? #card
+***** #易错 血管外溶血是否可见血管内的破碎红细胞? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -2118,7 +2147,7 @@ D.尿隐血试验
 :card-last-score: 5
 :END:
 ****** 可以
-***** #S 尿隐血试验是用来检测? #card
+***** #S 尿隐血试验是用来检测? :card:
 :PROPERTIES:
 :card-last-interval: 5.34
 :card-repeats: 2
@@ -2129,7 +2158,7 @@ D.尿隐血试验
 :END:
 ****** 尿中血尿与血红蛋白尿都会出表现为阳性→需要做尿沉渣镜检以进一步诊断
 *** 174 [[Liddle综合征]]
-**** #S [[Liddle综合征]]的机制为? #card
+**** #S [[Liddle综合征]]的机制为? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -2143,7 +2172,7 @@ D.尿隐血试验
 :PROPERTIES:
 :collapsed: true
 :END:
-** 77 正常人每天所需的热量为? #card
+** 77 正常人每天所需的热量为? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -2153,7 +2182,7 @@ D.尿隐血试验
 :card-last-score: 5
 :END:
 *** 25-30kcal/kg
-*** 若为肥胖者BMI大于多少?其能量需求变为? #card
+*** 若为肥胖者BMI大于多少?其能量需求变为? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -2164,7 +2193,7 @@ D.尿隐血试验
 :END:
 **** 肥胖者BMI>30
 **** 其能量需要变为正常值的70%-80%
-*** 若为手术者其能量需求如何改变? #card
+*** 若为手术者其能量需求如何改变? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -2178,7 +2207,7 @@ D.尿隐血试验
 :PROPERTIES:
 :collapsed: true
 :END:
-*** 开放性气胸的[[纵隔扑动]]现象吸气与呼气时的纵隔位置? #card
+*** 开放性气胸的[[纵隔扑动]]现象吸气与呼气时的纵隔位置? :card:
 :PROPERTIES:
 :card-last-interval: 3
 :card-repeats: 2
@@ -2190,7 +2219,7 @@ D.尿隐血试验
 **** 吸气时纵隔偏向健侧
 **** 呼气时回到正常位置
 **** [[../assets/image_1666092117935_0.png]]
-*** 交通性气胸于吸气末还是呼气末堵住破口? #card
+*** 交通性气胸于吸气末还是呼气末堵住破口? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -2200,7 +2229,7 @@ D.尿隐血试验
 :card-last-score: 5
 :END:
 **** 呼气末,当然是希望胸膜腔里的气体少点
-*** 张力性气胸如何处理? #card
+*** 张力性气胸如何处理? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -2218,7 +2247,7 @@ B.慢性输入粹梗阻
 C.输出祥梗阻
 D.吻合口梗阻
 *** [[胃大部切除术]]术后并发症
-*** 输出袢梗阻的呕吐物特点? #card
+*** 输出袢梗阻的呕吐物特点? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -2229,7 +2258,7 @@ D.吻合口梗阻
 :END:
 **** 既会吐食物又会吐胆汁
 **** [[../assets/image_1666092799589_0.png]]
-*** [[急性完全性输入袢梗阻]]的呕吐物特点? #card
+*** [[急性完全性输入袢梗阻]]的呕吐物特点? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -2240,7 +2269,7 @@ D.吻合口梗阻
 :END:
 **** 无胆汁,虽然食物可以流走但是强烈的呕吐还是会吐出食物
 **** 呕吐频繁,闭袢性肠梗阻容易绞窄,吐后不缓解 #胰腺炎 #碱性反流性胃炎 呕吐后不缓解
-*** [[慢性不完全性输入袢梗阻]]的呕吐物特点? #card
+*** [[慢性不完全性输入袢梗阻]]的呕吐物特点? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -2251,7 +2280,7 @@ D.吻合口梗阻
 :END:
 **** 肠发生于进食半小时后
 **** 慢性不完全使得胆汁大量聚集,所以吐出大量胆汁,食物可以顺利流走所以不会吐食物
-** 82 [[腹腔间隔室综合征]]诊断与手术的标准为? #card
+** 82 [[腹腔间隔室综合征]]诊断与手术的标准为? :card:
 :PROPERTIES:
 :card-last-interval: 3
 :card-repeats: 2
@@ -2261,7 +2290,7 @@ D.吻合口梗阻
 :card-last-score: 5
 :END:
 *** 诊断为20mmHg,手术为25mmHg
-** 86 [[瓷化胆囊]]与胆囊癌发病有无关系? #card
+** 86 [[瓷化胆囊]]与胆囊癌发病有无关系? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -2272,7 +2301,7 @@ D.吻合口梗阻
 :END:
 *** {{embed ((634d59f1-e7cb-48e2-bb80-a1a3a0216b84))}}
 ** 113 [[乙状结肠扭转]]
-*** [[乙状结肠扭转]] 的表现为? #card
+*** [[乙状结肠扭转]] 的表现为? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -2290,7 +2319,7 @@ D.吻合口梗阻
 :END:
 ***** 完全性:停止
 ***** 不完全:尚有
-*** [[乙状结肠扭转]]的可能可能最可能为? #card
+*** [[乙状结肠扭转]]的可能可能最可能为? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -2300,7 +2329,7 @@ D.吻合口梗阻
 :card-last-score: 5
 :END:
 **** 便秘史+老年人+活动后
-** 114 如何记忆[[非结构性脊柱侧突]]? #card
+** 114 如何记忆[[非结构性脊柱侧突]]? :card:
 :PROPERTIES:
 :card-last-score: 5
 :card-repeats: 2
@@ -2312,7 +2341,7 @@ D.吻合口梗阻
 *** 神医说知无不言
 *** 神 神经根受刺激 医 癔症 说 髋关节孪缩 知 姿势不当 无 非结构脊柱侧突 不 下肢不等长 言 炎症
 ** 148
-*** 缺血性骨坏死最易发生的部位是? #card
+*** 缺血性骨坏死最易发生的部位是? :card:
 :PROPERTIES:
 :card-last-interval: 3
 :card-repeats: 2
@@ -2326,7 +2355,7 @@ D.吻合口梗阻
 :PROPERTIES:
 :collapsed: true
 :END:
-*** 肘关节骨折最常见的并发症为? #card
+*** 肘关节骨折最常见的并发症为? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1
@@ -2337,7 +2366,7 @@ D.吻合口梗阻
 :id: 63551e8e-ce32-459e-ba64-0e8f528b9f1b
 :END:
 **** 肱骨髁上骨折,骨化性肌炎(创伤性骨化)
-** 179 直腿抬高试验与加强试验阳性可见于? #card
+** 179 直腿抬高试验与加强试验阳性可见于? :card:
 :PROPERTIES:
 :card-last-interval: 4
 :card-repeats: 1

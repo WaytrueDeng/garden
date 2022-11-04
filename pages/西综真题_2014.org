@@ -1,5 +1,7 @@
+:PROPERTIES:
+:ID:       2b92064d-92ef-41bf-b109-fcec65d8b81f
+:END:
 #+title: 西综真题2014
-* {{cards 西综真题/2014}}
 * 生理
 :PROPERTIES:
 :collapsed: true
@@ -118,6 +120,14 @@
 :PROPERTIES:
 :END:
 **** 涉及到糖转化为脂肪的问题,呼吸商>1.糖转化为脂肪放出部分氧,所以机体就不需要从外界摄取这部分氧
+*** 呼吸商最高的物质是
+:PROPERTIES:
+:ID:       d388fdb3-a7cf-4117-b6f5-d654c63771f3
+:END:
+- Backlinks:[[id:e9eb2ff3-e0fe-43be-9310-2a64c6bea357][哪种食物的氧热价最高]]
+- Contents: 糖
+- Mnemonic: 因为糖的氧原子多
+
 ** 15
 :PROPERTIES:
 :collapsed: true
@@ -762,6 +772,15 @@ D.幼年性息肉
 *** 如何记忆系统性红斑狼疮抗ENA抗体? :card:
 :PROPERTIES:
 :collapsed: true
+:FC_CREATED: 2022-11-02T02:52:45Z
+:FC_TYPE:  normal
+:ID:       3aefb281-e751-4a04-8fb4-9842b225f118
+:END:
+- Backlinks:[[id:88d87a0a-22be-4a48-90e8-5f53aba17824][76. 2016N76A 抗ENA抗体谱中不包括的抗体是]]
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-02T02:52:46Z |
 :END:
 **** 记忆ESR
 **** Sm的特点是? :card:

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       138e663a-9e26-409f-bfe3-2cb01535a3ab
+:END:
+#+title: 酶 
+#+creationTime: [2022-11-03 Thu 16:43]
+- 如何理解反竞争性抑制的Km减小与Vm减小
+  #+DOWNLOADED: screenshot @ 2022-11-03 16:43:43
+  [[file:../assets/反竞争性抑制的Km减小.png]]

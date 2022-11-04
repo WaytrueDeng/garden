@@ -112,6 +112,10 @@
 :collapsed: true
 :END:
 ***** 当[[GABA]]结合突触后膜上的[[GABA-A受体]]或[[GABA-C受体]]→Cl⁻通道打开→Cl⁻内流→突触后膜产生抑制性电位[[IPSP]]
+:PROPERTIES:
+:ID:       c8c8f8f1-b0f2-48e2-95f1-8fac8af26129
+:END:
+- Backlinks:[[id:3b6fee9a-d385-45b1-aced-1a01f3774ea1][GABAA受体与GABAB受体的类型差别]]
 **** [[如何记忆]] [[谷氨酸]]与 [[甘氨酸]]谁是结合阳离子谁是结合阴离子受体? #card
 :PROPERTIES:
 :END:
@@ -120,6 +124,7 @@
 :PROPERTIES:
 :id: 634f848e-417c-456b-895f-54ca0b92432f
 :END:
+- Backlinks:[[id:3b6fee9a-d385-45b1-aced-1a01f3774ea1][GABAA受体与GABAB受体的类型差别]]
 [[GABA-B受体]]是 [[G蛋白耦联受体]], [[GABA-A受体]]与 [[GABA-C受体]]是^^离子通道型受体^^
 [[如何记忆]]? 
 #+BEGIN_TIP

@@ -1,0 +1,898 @@
+:PROPERTIES:
+:ID:       e2ce8f42-073f-4f7f-860a-9838a2fa2e1f
+:END:
+#+title: 西医综合2017年真题
+#+creationTime: [2022-11-02 Wed 15:06]
+
+* 生理
+** 1
+*** 果糖葡萄糖半乳糖在小肠上皮刷状缘的吸收方式是 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-02T08:03:51Z
+:FC_TYPE:  normal
+:ID:       73ef6d3f-19b3-4ec3-85eb-096f74a5b2e6
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-02T08:03:51Z |
+:END:
+- 果糖是协助扩散
+- 葡萄糖与半乳糖是主动转运
+*** 红细胞有摄取葡萄糖的方式是 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-02T08:03:54Z
+:FC_TYPE:  normal
+:ID:       aa2d6e5c-af80-4769-aff3-23b5603ef6da
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-02T08:03:54Z |
+:END:
+- 协助扩散
+- Mnemonic: 2、在血浆中，红细胞周围有足够的葡萄糖浓度，红细胞能量消耗很小（没有线粒体），对葡萄糖的需求不大，并且它是帮助扩散方法吸收葡萄糖的最佳选择。
+3、如果血浆中的血糖浓度不足（并且低于红细胞中的葡萄糖浓度），也可以通过辅助扩散通道从红细胞中获得葡萄糖来补充。
+
+*** [#A] 己糖与戊糖的吸收速率谁快 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-02T08:03:57Z
+:FC_TYPE:  normal
+:ID:       5513a8c7-b59e-4137-8814-bded6986f110
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-02T08:03:57Z |
+:END:
+- 己糖
+- Mnemonic: 毕竟吸收能源物质是最主要的,戊糖其实体内并不缺为什么需要吸收那么快呢
+
+
+*** 如何记忆己糖的吸收速率排序 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-02T08:03:57Z
+:FC_TYPE:  normal
+:ID:       4242fa57-56af-49af-bc64-875fcead314c
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-02T08:03:57Z |
+:END:
+- Mnemonic: 袒胸露乳吃葡萄结果吸干了
+  #+DOWNLOADED: screenshot @ 2022-11-03 22:42:39
+  [[file:../assets/20221103-224239_screenshot.png]]
+
+- Contents: 乳>G>果>甘
+** 2
+*** 横管与纵管是指 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-02T08:03:58Z
+:FC_TYPE:  normal
+:ID:       c65b9b39-b63a-4a6c-ad64-ed2312a1f0c1
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-02T08:03:58Z |
+:END:
+- 横管指的是肌细胞膜的向内凹陷
+- 纵管是指的内质网(肌浆网)
+- Mnemonic: 记忆为横管的横是相对于长轴的一横所以必然是向内的凹陷
+
+*** T管上的钙离子通道类型是 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-02T08:03:59Z
+:FC_TYPE:  normal
+:ID:       9b0396a9-f970-4aad-a05e-177380acb96c
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-02T08:03:59Z |
+:END:
+- L型Ca²⁺通道
+- Mnemonic: T型Ca²⁺通道考研只考窦房结细胞的四期自动去极化
+*** L型Ca²⁺通道的阻断剂是 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-03T14:44:11Z
+:FC_TYPE:  normal
+:ID:       043d1eaa-6a36-4098-aa13-128c04186ec9
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-03T14:44:11Z |
+:END:
+- Contents: CCB
+
+*** T型Ca²⁺通道的阻断剂是 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-02T08:04:00Z
+:FC_TYPE:  normal
+:ID:       3fcde36c-5dbe-491c-8ce0-4cf336d30f99
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-02T08:04:00Z |
+:END:
+- Ni²⁺
+** 3
+*** 免疫复合物导致的血小板聚集临床案例是 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-02T08:04:01Z
+:FC_TYPE:  normal
+:ID:       b97cd471-1aa5-4265-9f27-c0e8290372ee
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-02T08:04:01Z |
+:END:
+- 肾病综合征时免疫复合物攻击内皮细胞导致内皮细胞受损从而导致血小板的易聚集,形成肾静脉血栓
+
+** 4
+- [[id:e70ba415-557e-4b95-8ffb-81243fa16d4e][为什么窦房结的最大复极电位仅为-70mv]]
+** 9
+*** 哪种食物的热价最高 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-02T08:27:18Z
+:FC_TYPE:  normal
+:ID:       2410bc7a-fd14-4198-bab5-3c273baf834d
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-02T08:27:18Z |
+:END:
+- 脂肪
+*** 哪种营养物质的热价最低
+- 糖
+*** [#A] 哪种营养物质的氧热价最高 :card:
+:PROPERTIES:
+:ID:       e9eb2ff3-e0fe-43be-9310-2a64c6bea357
+:FC_CREATED: 2022-11-02T08:27:17Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-02T08:27:17Z |
+:END:
+- Contents: 糖
+- References: [[id:d388fdb3-a7cf-4117-b6f5-d654c63771f3][呼吸商最高的物质是]]
+*** 哪种营养物质的氧热价最低
+- 蛋白质
+*** 生物热价与物理热价是指氧热价还是热价 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-02T08:27:16Z
+:FC_TYPE:  normal
+:ID:       9ef6892a-7d64-451a-b117-4fc906830fdc
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-02T08:27:16Z |
+:END:
+- 热价
+** 11
+*** [#A] U型肾小血管在肾髓质中的作用为 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-02T08:27:05Z
+:FC_TYPE:  normal
+:ID:       9ee734cc-9e5c-4c7f-a427-f130921598f5
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-02T08:27:05Z |
+:END:
+- Contents: 维持高渗,而不是形成高渗,形成高渗依赖的是逆流倍矰
+*** 尿液的浓缩稀释功能的正常实现需要哪些因素 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-02T08:27:00Z
+:FC_TYPE:  normal
+:ID:       9bb4dc1b-59d4-439c-bc11-54b1afae1f4c
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-02T08:27:00Z |
+:END:
+- Contents: 动力,通透性,结构
+  - 动力: 由NaCl与尿素所形成的浓度差
+  - 通透性: 如ADH等渗素
+  - 结构:直小血管等维持因素
+**** 影响浓缩稀释动力的情况包括 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-02T08:26:57Z
+:FC_TYPE:  normal
+:ID:       b163fe8e-6ba8-4c90-b674-7b3b47089438
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-02T08:26:57Z |
+:END:
+- Contents: 呋噻米等影响NaCl,影响不良等影响尿素
+**** 抗利尿激素ADH除了增加对水的通透性外还可以增加 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-02T09:19:15Z
+:FC_TYPE:  normal
+:ID:       341c337a-61a4-4bef-8ec3-1041b17edde7
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-02T09:19:15Z |
+:END:
+- 对尿素的通透性
+** 12
+*** 瞳孔对光反射的中枢位于 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-02T09:19:08Z
+:FC_TYPE:  normal
+:ID:       d3810ac9-77bf-4106-bb11-a3159a0498b2
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-02T09:19:08Z |
+:END:
+- Contents: 中脑,而延髓是呼吸与循环的中枢
+- Mnemonic: 瞳孔对光反射用来判断病情的严重程度一旦中脑受损了问题就很严重了.也从一方面反应了为啥不是延髓,延髓是呼吸和循环表现都很明显我还需要瞳孔对光反射来判断吗
+*** 视觉传导通路的损伤部位及其表现 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-02T09:19:09Z
+:FC_TYPE:  normal
+:ID:       501aee20-3b63-4bd6-ad16-a392abe0d3c8
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-02T09:19:09Z |
+:END:
+
+#+DOWNLOADED: screenshot @ 2022-11-02 16:52:06
+[[file:../assets/视觉通路及损伤部位表现.png]]
+- Mnemonic:
+#+DOWNLOADED: screenshot @ 2022-11-02 16:57:27
+[[file:../assets/视觉传导通路记忆.png]]
+** 13
+*** 突触后抑制的IPSP的递质是 :card:
+:PROPERTIES:
+:ID:       687e01e1-e04f-40b9-a00b-8a5c0dc06fc3
+:FC_CREATED: 2022-11-03T14:28:00Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-03T14:28:00Z |
+:END:
+- Contents: GABA
+- References: [[id:c8a9bafe-055b-4612-82da-93d1bcc95d89][如何记忆谷氨酸的产物]]
+*** GABAA受体与GABAB受体的类型差别 :card:
+:PROPERTIES:
+:ID:       3b6fee9a-d385-45b1-aced-1a01f3774ea1
+:FC_CREATED: 2022-11-02T09:19:02Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-02T09:19:02Z |
+:END:
+- References:
+  - [[id:c8c8f8f1-b0f2-48e2-95f1-8fac8af26129][当GABA结合突触后膜上的GABA-A受体或GABA-C受体→Cl⁻通道打开→Cl⁻内流→突触后膜产生抑制性电位IPSP]]
+  - [[id:634f848e-417c-456b-895f-54ca0b92432f][ACh的M-R是何G蛋白耦联受体,N受体才是何^^离子通道型^^受体? #card]]
+*** 突触后抑制通过抑制中间神经元的例子是 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-02T09:19:00Z
+:FC_TYPE:  normal
+:ID:       02a17359-fc9f-4241-9b42-f45cde184a23
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-02T09:19:00Z |
+:END:
+- Contents: 屈肌与伸肌的协调运动
+*** 突触后抑制通过回返细胞抑制的例子是 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-02T09:18:53Z
+:FC_TYPE:  normal
+:ID:       6a9db723-12e3-4b04-b649-6b042ff5991a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-02T09:18:53Z |
+:END:
+- Contents: 破伤风时的人闰绍细胞
+** 14 脊髓参与的姿势反射
+*** [#A] 脊髓参与的姿势反射包括 :card:易出多选:
+:PROPERTIES:
+:FC_CREATED: 2022-11-02T09:12:38Z
+:FC_TYPE:  normal
+:ID:       3a644f63-c171-4155-af74-d33382c83a24
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-02T09:12:38Z |
+:END:
+- Contents: 牵张反射,对侧伸肌反射,节间反射(搔爬反射)
+- Mnemonic: 想象一只蛙蛙在不停伸腿→节间,对侧伸肌
+
+- 干扰类容: 屈肌反射,屈肌反射虽然有激髓参与但是其不是姿势反射,对侧伸肌反射才是
+**** 什么是节间反射
+- Contents: 刺激脊蛙的腿会不停的挠受刺激的部位
+**** 举一个对侧伸肌反射的例子
+- Contents: 人脚踩到钉子同侧腿收缩,对侧脚伸直以维持重心
+** 15
+*** 睾丸包括哪些细胞,其作用分别是
+**** 如何记忆睾丸的间质细胞分泌雄激素
+:PROPERTIES:
+:ID:       1bc62147-97c7-4bfe-a4fb-17d55a71e6a8
+:END:
+- Mnemonic: 黄奸雄
+- References: [[id:9b3486f2-b6dc-4b7d-9de6-07017f74a893][黄体生成素作用于何细胞?]]
+
+**** 如何记忆睾丸的支持细胞的作用
+- 受FSH与雄激素的调节
+- 分泌雄激素结合蛋白
+- 具有芳香化酶使雄激素转变为雌激素,一定剂量的雌激素有利于生精
+
+#+DOWNLOADED: screenshot @ 2022-11-03 23:05:46
+[[file:../assets/20221103-230546_screenshot.png]]
+
+**** 黄体生成素作用于何细胞?
+:PROPERTIES:
+:ID:       9b3486f2-b6dc-4b7d-9de6-07017f74a893
+:END:
+- Backlinks:[[id:1bc62147-97c7-4bfe-a4fb-17d55a71e6a8][如何记忆睾丸的间质细胞分泌雄激素]]
+- Contents: LH作用于间质细胞促进睾酮的合成
+
+** 119 激素调节(内分泌章节)
+*** 缩宫素参与哪些反应 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-03T02:30:00Z
+:FC_TYPE:  normal
+:ID:       21add04c-343c-43d9-8784-69c4da9490e5
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-03T02:30:00Z |
+:END:
+- 催产
+- 射乳而不是催乳,与催乳素区别开,但是射乳反射也需要催乳素的作用
+*** 缩宫素的释放依赖何种调节 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-03T02:30:03Z
+:FC_TYPE:  normal
+:ID:       0e67e5a4-21aa-48ad-b050-8c10202f5cda
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-03T02:30:03Z |
+:END:
+- 神经-内分泌
+*** 无靶腺的下丘脑激素包括哪些及其调控的特点
+- 生长激素,催乳素,促黑素
+- 其正负调节均受下丘脑的控制
+
+** 137
+*** 小肠的分节运动的意义 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-03T02:49:16Z
+:FC_TYPE:  normal
+:ID:       2567dcb6-518d-4bc4-8c43-6401d7d91eea
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   1 |     0.01 | 2022-11-03T14:46:07Z |
+:END:
+- 促进食糜的混合,促进食麋的吸收,有一定的促进推动作用(因为自上而下有频率差)
+*** 大肠的运动形式
+- 袋状往反运动,集团蠕动,分节推进与多袋推进,蠕动
+*** 袋状往反运动的发生时间及意义
+- 发生在空腹时,所以只是促进水的吸收,其运动无规律
+*** 大肠内的细菌可以合成哪些维生素
+- KB
+- Mnemonic: 流量
+** 138
+*** CO₂的主要运输形式是碳酸氢钠还是碳酸氢钾 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-03T15:09:27Z
+:FC_TYPE:  normal
+:ID:       dfad738f-f57c-4e08-888c-8739958784d9
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-03T15:09:27Z |
+:END:
+- 钠,因为在血浆运输为主
+**** 碳酸氢根主要产生于何处 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-03T15:09:33Z
+:FC_TYPE:  normal
+:ID:       5054005a-eb41-422f-a0d4-dbf9ca8e9718
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-03T15:09:33Z |
+:END:
+- 红细胞内因为红细胞内多碳酸酐酶
+*** 碳酸酐酶算不算在CO₂的运输中发挥作用 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-03T15:10:10Z
+:FC_TYPE:  normal
+:ID:       fb08c095-f91a-44de-b9f6-d31e39a797dc
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-03T15:10:10Z |
+:END:
+- 酸
+** 139促进肾素分泌的因素 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-03T14:27:51Z
+:FC_TYPE:  normal
+:ID:       b887eac5-dc12-4075-9317-3712c4d4a984
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-03T14:27:51Z |
+:END:
+- 低灌注:血压下降.血容量下降
+- 低Na⁺:血浆Na⁺下降,肾小球滤过Na⁺下降
+- 舒张肾血管的物质:ANP,NO,PG,缓激肽,小剂量多巴胺
+- 交感神经兴奋: 兴奋颗粒细胞的β1受体
+** 140
+*** 刚分泌的汗液是等渗的还是高渗的 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-03T14:27:52Z
+:FC_TYPE:  normal
+:ID:       608f44f7-4a90-40bd-8e79-adb10b9c688a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-03T14:27:52Z |
+:END:
+- Mnemonic: 和原尿一起记吧
+
+
+*** 汗液内的Na⁺吸收受何调节 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-03T14:27:52Z
+:FC_TYPE:  normal
+:ID:       24d3a874-7b76-4b0a-96fc-bd8ad5c22508
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-03T14:27:52Z |
+:END:
+- 醛固酮
+- Mnemonic: 也和原尿一起记
+
+* 生化
+** 蛋白质α螺旋的螺旋方向与长轴的关系 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-03T14:27:12Z
+:FC_TYPE:  normal
+:ID:       c32f7931-c459-434e-a4a0-2a19bbdc9b91
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-03T14:27:12Z |
+:END:
+- α-螺旋（α-helix）：蛋白质中常见的二级结构，肽链主链绕假想的中心轴盘绕成螺旋状，一般都是右手螺旋结构，螺旋是靠链内氢键维持的。每个氨基酸残基（第n个）的羰基与多肽链C端方向的第4个残基（第4+n个）的酰胺氮形成氢键。在古典的右手α-螺旋结构中，螺距为0.54nm，每一圈含有3.6个氨基酸残基，每个残基沿着螺旋的长轴上升0.15nm。
+** 二级结构主要靠何维系 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-03T14:27:13Z
+:FC_TYPE:  normal
+:ID:       d025136f-88bb-422e-9ebf-09c137c0249d
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-03T14:27:13Z |
+:END:
+    - 氢键
+    #+DOWNLOADED: screenshot @ 2022-11-03 11:51:27
+    [[file:../assets/α螺旋.png]]
+** 蛋白质的磷氧比值是指 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-03T14:27:13Z
+:FC_TYPE:  normal
+:ID:       6bc1d18f-df7a-4646-ada0-fea2352c9259
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-03T14:27:13Z |
+:END:
+- 生成ATP的数量与消耗1/2O₂的比值
+** 谷类与豆类的营养价值互补是指 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-03T14:27:14Z
+:FC_TYPE:  normal
+:ID:       7094f3c6-8a8b-4c72-98a3-3f538c514f28
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-03T14:27:14Z |
+:END:
+- 谷类色氨酸多赖氨酸少豆类相反
+- Mnemonic: 古色古香与豆奶
+** 端粒的合成过程 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-03T14:27:17Z
+:FC_TYPE:  normal
+:ID:       298ab519-eb02-4be7-8438-b47efbdff74d
+:END:
+- Backlinks:[[id:62e0a8cb-0d77-45e3-ad2c-fcd7a8978dc6][端粒]]
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   1 |     0.01 | 2022-11-03T14:47:57Z |
+:END:
+ - 首先找到母链的3'端富含有GT的序列
+ - 找到后以自己的模板延长这一序列
+ - 再以延长后的母链以模板进行DNA合成注意需要引物而引物是RNA
+ - 最后用DNA聚合酶聚合子链
+ - 去除子链的RNA引物
+ - 注意母链与子链的长度不一样长
+
+#+DOWNLOADED: screenshot @ 2022-11-03 12:41:16
+  [[file:../assets/端粒的合成过程.png]]
+** 氨基酸的修饰包括哪些 :card:
+:PROPERTIES:
+:ID:       311e700b-5d2c-4ec4-b479-ae491e925139
+:FC_CREATED: 2022-11-03T14:27:18Z
+:FC_TYPE:  normal
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-03T14:27:18Z |
+:END:
+- 甲乙羟糖磷酸化+形成二硫键
+- Mnemonic:
+  - 乙酰化:Easy,Nice→赖,丝
+  - 羟基化:来复枪→赖,服
+  - 磷酸化:有机磷农药喂老鼠→酪苏丝
+    - References: [[id:5f9d3226-53aa-47f6-b0d6-3d1b62ddb362][如何记忆被磷酸化的氨基酸一般都是? #card]]
+
+** 蛋白质空间构象的修饰包括哪两大类蛋白 :card:未考过:
+:PROPERTIES:
+:FC_CREATED: 2022-11-03T14:27:18Z
+:FC_TYPE:  normal
+:ID:       d4e125bc-491e-4f00-9cb9-4c7e2eb32626
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-03T14:27:18Z |
+:END:
+- 分子伴侣
+- 异构酶
+*** 分子伴侣包括哪些类型的蛋白
+- 热休克蛋白 HSP70
+- 伴侣蛋白
+  - 在真核生物为HSP60
+  - 在原核生物为GroE
+
+*** 异构酶的作用包括 :未考过的极可能考点:
+- 参与二硫键的正确形成
+- 参与脯氨酸在转角处的正确折叠
+** 翻译后蛋白质的靶向输送 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-03T14:27:19Z
+:FC_TYPE:  normal
+:ID:       d694f51d-f39e-46b0-989e-8898f6f624ba
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-03T14:27:19Z |
+:END:
+*** 跨膜蛋白与分泌蛋白的分拣信号在肽链中的的部位
+- 信号肽
+- N端
+*** 核蛋白的分拣信号及在肽链中的部位
+- 核定位序列
+- 不定
+*** 内质网蛋白的分拣信号及在肽链中的作用
+- 内质网滞留信号
+- C端
+*** 参与靶向输送的RNA是
+- scRNA与蛋白质组成信号识别颗粒
+*** 描述分泌蛋白进入内质网的过程
+- 分泌蛋白先合成的是N端的信号肽序列,然后被scRNA和蛋白质所组成的信号识别颗粒所识别SRP,将其引导至内质网内再进行进一步的转录
+
+** 蛋白质的丝苏氨酸激酶 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-03T14:27:19Z
+:FC_TYPE:  normal
+:ID:       f0d2755b-f390-4e98-8540-48434aef5dc8
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-03T14:27:19Z |
+:END:
+*** PKB/AKT在何通路发生作用
+- PIP3→PI3K-AKT 被PTEN抑制
+  #+DOWNLOADED: screenshot @ 2022-11-03 13:36:13
+  [[file:../assets/20221103-133613_screenshot.png]]
+** 如何记忆与TATA盒结合的蛋白质 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-03T14:27:21Z
+:FC_TYPE:  normal
+:ID:       65f44250-12a2-4665-82c8-522fa5770861
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-03T14:27:21Z |
+:END:
+- 是真核生物的Ⅱ类启动子所以是RNA聚合酶Ⅱ
+- DATADATA记忆为TFⅡD的TBP亚基(TATA Binding protein)
+** TF亚基需要复习 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-03T14:27:21Z
+:FC_TYPE:  normal
+:ID:       8993d460-e50b-4dd7-b929-b0b13be9a34f
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-03T14:27:21Z |
+:END:
+* 病理
+** 急性左心衰导致肺出血的原因是 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-03T14:27:23Z
+:FC_TYPE:  normal
+:ID:       c96d26ac-d936-468a-97d3-13262ececeae
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-03T14:27:23Z |
+:END:
+- 肺静脉毛细血管漏出增加
+** 阿米巴肠病是否易导致肠狭窄 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-03T14:27:24Z
+:FC_TYPE:  normal
+:ID:       897ed0a7-96b6-4849-af6e-a4b7c4595725
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-03T14:27:24Z |
+:END:
+- 易,因为溃疡比较渗,纤维化比较多,容易狭窄,但是还是肠结核更易狭窄
+** 慢性肾盂肾炎与急性肾盂肾炎都属于何种类型的炎症其细胞渗出的差异 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-03T14:27:24Z
+:FC_TYPE:  normal
+:ID:       ed894a97-eed8-4b96-b222-fa3f5f0adf26
+:END:
+- Backlinks:[[id:67223284-a62d-447f-85bd-43382a73fae0][53. 2016N53A 属于慢性肾盂肾炎的病理变化是]]
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    | 2.50 |   1 |     0.01 | 2022-11-03T14:45:24Z |
+:END:
+- 都属于化脓性的炎症,急性的中性粒细胞为主,慢性的虽然是化弄性炎但是以淋巴细胞浆细胞为主
+** 淋巴瘤的发病率顺序与预后顺序 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-03T14:27:25Z
+:FC_TYPE:  normal
+:ID:       e7c62c8d-181c-4ccf-b8b0-e951bc4f7058
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-03T14:27:25Z |
+:END:
+** 疣状赘生物见于哪些疾病
+- 风心,SLE
+** 乙型肝炎的病理特点,毛玻璃样物质的本质 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-03T14:27:26Z
+:FC_TYPE:  normal
+:ID:       25af1c5c-61b9-495b-b8c6-883a66b88e1a
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-03T14:27:26Z |
+:END:
+** 淀粉样物质见于哪些疾病
+- 甲髓癌
+- T2DM的胰岛
+- 前增
+- MM
+** 常考的肉牙肿性炎 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-03T14:27:28Z
+:FC_TYPE:  normal
+:ID:       720e4ce7-4bf2-4f29-9e6f-4c77bd0376d5
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-03T14:27:28Z |
+:END:
+- 一些没妈的疯姐姐压伤了矩阵猫
+  #+DOWNLOADED: screenshot @ 2022-11-03 16:14:53
+  [[file:../assets/20221103-161453_screenshot.png]]
+**
+** 宫颈癌及其相关的考点 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-03T14:27:28Z
+:FC_TYPE:  normal
+:ID:       e9d7cf59-2624-43dd-9e73-e75b2a383078
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-03T14:27:28Z |
+:END:
+** 淋巴瘤的免疫组化 :card:
+:PROPERTIES:
+:FC_CREATED: 2022-11-03T14:27:33Z
+:FC_TYPE:  normal
+:ID:       a451d741-a336-4a25-a9fd-3f46696a6e10
+:END:
+:REVIEW_DATA:
+| position | ease | box | interval | due                  |
+|----------+------+-----+----------+----------------------|
+| front    |  2.5 |   0 |        0 | 2022-11-03T14:27:33Z |
+:END:
+* 内科
+** 41
+*** 由颜面部开始向全身发展的水肿为何疾病的特点
+- 肾炎性水肿
+** 42
+*** 剑突下搏动增强如何区别为右心大所致还是腹主动脉瘤所致
+- 深吸一口气增强的是右心所致,减弱是腹主动脉瘤所致
+*** [#A] 室壁瘤从心电图来看其特点是 :未考过:
+- ST段持续升高不降
+*** 室壁瘤的查体体征表现为
+- 左侧心界扩大
+** 43
+*** 如何记忆社区获得性肺炎与医院获得性肺炎最常见的病原体
+- Mnemonic:
+  - 社区: 练支一流兵
+  - 医院: 打波波绿金 大肠杆菌,克雷伯菌,鲍曼不动杆菌,假铜绿单胞菌,金黄色葡萄球菌
+** 44 男, 46岁,发热伴咳嗽咳痰3天,右侧胸痛2天,既往“关节炎”病史。查体: T38.7°C,右下肺呼吸音减低,可闻及少许湿性罗音,胸片示右侧胸腔积液。胸水示:白细胞15000x106/L,单核10%, pH 6.9, LDH 986 U/L, ADA 90 U/L,该患者胸腔积液最可能是
+:PROPERTIES:
+:ID:       a3c06664-a5d8-41d1-b35e-93cf40fce429
+:END:
+[[id:7cb05ab3-6033-48bf-aa76-49a51124699f][胸腔积液]]
+*** 症状才3天一般不考虑
+- 结核
+** 45. 男，72 岁，慢性咳嗽、咳痰 20 年。活动后呼吸困难 3 年，加重 1 周。既往吸烟史 50 年。血气分析提示 PaO2 50 mmHg，PaCO2 68 mmHg。患者出现呼吸衰竭最主要的机制
+A. 通气/血流比值失调
+B. 肺泡通气量下降
+C. 弥散功能障碍
+D. 肺内分流
+*** 血气分析PCO₂分压的正常值为
+- 35-45
+*** COPD患者若表现为Ⅰ型呼衰则其呼吸衰竭的主要机制是
+- 弥散功能障碍与V/Q比值失调
+** 46. 女，48 岁，咳嗽胸闷 4 个月，无发热，CT 示双侧肺门、纵隔淋巴结肿大伴双侧网格状影及小结节影。双下肺少许蜂窝状改变，支气管镜示支气管粘膜呈铺路石状改变，支气管肺泡灌洗液检查最可能的结果为
+:PROPERTIES:
+:ID:       37d08d02-2315-476c-ab19-b5425e43ef9f
+:END:
+A.嗜酸性粒细胞增加
+B.中性粒细胞增加
+C.淋巴细胞比例增高且 CD4+/CD8+比值增高
+D.淋巴细胞比例增高且 CD4+/CD8+比值降低
+
+- [[id:e35a0958-84bb-480c-b5d7-f74b0e7b821e][结节病]]
+- References:
+   - [[id:0527f3fe-25af-421e-b008-debdbec2ab1c][肺泡蛋白沉着病的BALF表现为? #未考过的极可能考点]]
+   - [[id:9bbedd8e-ac3c-4ee4-aa24-f54020b0edd7][肺泡蛋白沉着病的影像学表现为?]]
+   - [[id:75243e4f-3a20-43fd-a272-35f01ecb6e4e][肺泡蛋白沉着病的治疗为]]
+*** 间质性肺疾病的两种铺路石样改变分别是指
+- 结节病的铺路石见于支气管镜时的支气管黏膜表现
+- 肺泡蛋白沉着病的X线表现
+** 47. 以下关于血浆脑钠肽（BNP）的描述中，正确的是
+A.主要来源于左心房
+B.左心室功能不全可明显增高
+C.增高可提示存在心肌损伤
+D.快速心房颤动时明显增高
+*** 如何记忆ANP,BNP,CNP的产生部位
+- A顺序在B的前面,所以记忆为A是心房B是心室,C记忆为Circulation循环→血管
+*** BNP在何时升高
+- 室壁张力升高时,所以心衰时室壁张力明显升高BNP也明显升高
+*** BNP的临床意义
+- 敏感性极特异性低故仅用于排除诊断
+** 48. 男，56 岁，一个月 3 次夜间睡觉中因突发心前区疼痛而惊醒，伴出汗，咽部发紧，呼吸不畅，持续 10 分钟后可自行缓解，白天活动正常，既往发现血压升高 1 年，未经治疗，吸烟 20 年。查体：P 60 次/分，BP 160/80 mmHg，双肺正常，心律整，心音正常，双下肢不肿，首选的降压药物
+A.血管紧张素转换酶抑制剂
+B.血管紧张素Ⅱ受体拮抗剂
+C.钙通道阻滞剂
+D.β 受体拮抗剂
+*** 会表现为夜间痛的不稳定型心绞痛包括
+- 静息型心绞痛与变异型心绞痛
+*** 体征与临床表现如何区别静息型心绞痛与变异型心绞痛
+- 无法区别,变异型的就是表现为静息型
+*** 如何区别静息型心绞痛与变异型心绞痛
+- 只能通过心电图,静息型ST段压低,变异型ST段抬高
+- Mnemonic: 静息型因为斑块破裂形成血栓,而变异型冠脉强烈痉挛表现为透壁型梗死十分严重
+*** 静息型心绞痛与变异型心绞痛的治疗首选药
+- 静息型无首选,变异型首选CCB而禁用β-INR
+*** 单纯收缩期高血压最佳首选降压药及其原因
+- 单纯收缩期高血压最常见于主动脉等粥样硬化,所以应选用CCB一方面抑制Ca²⁺防止血小板积聚,具有抗动脉粥样硬化的作用
+** 49. 男，65 岁，因心衰 2 年来院。查体：口唇稍发绀，颈静脉充盈，双肺底均可闻及湿啰，心界向两侧扩大，心律整齐，心率 76 次/分，双下肢凹陷性水肿(+)。心电图示：窦性律，完全性左束支传导阻滞，超声心动图示：左心室扩大，室壁弥漫性运动减弱伴运动不协调，LVEF 32%，该患者最佳的治疗措施是
+:PROPERTIES:
+:ID:       82928baa-1201-4f93-b211-a0f5bbb57e41
+:END:
+A.CRT
+B.联合使用正性肌力药及血管扩张药
+C.联合使用 β 受体阻滞剂和利尿剂
+D.长期使用醛固酮受体拮抗剂
+- Contents: B选项不是最佳,CD可以用但无法解决运动不协调,LVEF过低的问题
+- References:
+    - [[id:2f899992-fe7e-4695-8028-5fc1c8e1459e][慢性心衰的四架马车? #card]]
+*** [#A] 什么是CRT以及以及其最佳适应征
+- 心肌再同步化治疗:特别适合LVEF<35%,完全左束支传导阻滞,心肌收缩不同步的病人
+*** 扩心病的治疗策略是
+- 慢性心衰怎么治扩心病就怎么治
+*** [#A] 完全左束支传导阻滞是β受体阻滞剂的禁忌症吗
+- 不是,9版教材已更新,只有Ⅱ度Ⅱ型及以上的房室传导阻滞才是
+** 52. 男，53 岁，肝硬化病史 8 年。五天来无明显原因出现腹胀，腹水迅速增加，脾脏进一步增大，体温正常。该患者最可能发生的并发症是
+A.原发性肝细胞癌
+B.门静脉血栓形成
+C.原发性腹膜炎
+D.肝肾综合征
+*** 什么是原发性腹膜炎及其可能可能最可能
+- 腹膜的原发性细菌感染,应该表现为白细胞增高,发热等表现与本题不符
+***
+*** 肝肾综合征的可能可能最可能
+- 肾功能损害,低尿钠,稀释性的低血钠
+*** 诊断肝肾综合征的标准是
+诊断肝肾综合征的标准：
+肝硬化合并腹水
+缓进性血肌酐＞133mmol/L、急进性血肌酐＞226mmol/L; 265
+停用利尿剂至少2天后、应用白蛋白扩张血容量、血肌酐仍＞133mmol/L;
+无休克；
+近期未使用肾毒性或扩血管药物；
+不存在肾实质病变。
+*** 肝肾综合征的表现为
+少尿、无尿
+氮质血症
+低尿钠
+稀释性低血钠
+*** 肝硬化患者若腹水比重<1.018蛋白<30g/L,SAAG>11,细胞>500以中性粒细胞为主时为渗出液还是漏出液
+- 渗出液,肝硬化患者渗出液比重与蛋白少于标准并奇怪,本身血蛋白就低
+** 54. 以下检查结果中支持诊断溶血性贫血的是
+:PROPERTIES:
+:ID:       de7d1475-7e4b-4bd9-af52-b75b09ff6c98
+:END:
+A.尿中尿胆原排泄减少
+B.血清非结合胆红素减少
+C.血清结合珠蛋白减少
+D.血网织红细胞减少
+- References:
+  - [[id:e02e4496-2297-4d00-8720-daddee4e4591][反映溶血的敏感指标为?]]

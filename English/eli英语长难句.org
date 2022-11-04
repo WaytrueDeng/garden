@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       80e6e9a2-7670-445d-af0e-7db123b374d7
+:END:
+#+title: ELI英语长难句
+#+creationTime: [2022-11-03 Thu 21:14]
+*
+#+DOWNLOADED: screenshot @ 2022-11-03 21:16:19
+[[file:../assets/Eli_first_long_phrase.png]]
+
+#+DOWNLOADED: screenshot @ 2022-11-03 21:18:34
+[[file:../assets/20221103-211834_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2022-11-03 21:21:39
+[[file:../assets/20221103-212139_screenshot.png]]

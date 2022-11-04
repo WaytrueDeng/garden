@@ -11,7 +11,7 @@
 1324
 #+END_TIP
 * #B 门静脉高压是指压力达到? #card
-** {{embed ((631c6f53-0b84-4377-9dff-407ecaed5b56))}}
+** 631c6f53-0b84-4377-9dff-407ecaed5b56
 * ## 解剖概要
 :PROPERTIES:
 :heading: 2

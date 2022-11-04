@@ -2,7 +2,40 @@
 :ID:       795743f4-cbde-42de-90e1-4b7b6dd0c0dc
 :END:
 #+title: 英语真题 
-#+creationTime: [2022-11-01 Tue 21:26]  
+#+creationTime: [2022-11-01 Tue 21:26]
+
+* 2001
+**
+ A history of long and ==effortless success== can be ==dreadful== handicap, but, if properly handled, it may becoming a driven force
+ - 不需要特别努力的成功
+ - 糟糕透顶的
+#+DOWNLOADED: screenshot @ 2022-11-03 21:38:40
+[[file:../assets/20221103-213840_screenshot.png]]
+
+
+** When the United States entered just such a ==glowing== period after the end of the Second World War, it had a market eight times larger than any competitor, giving its industries unparalleled economies of scale.
+- 高光时刻
+
+** America and Americans were prosperous beyond the dreams of the Europeans and Asians whose economies the war had destroyed. :作文:
+
+#+DOWNLOADED: screenshot @ 2022-11-03 21:57:45
+[[file:../assets/20221103-215745_screenshot.png]]
+
+#+DOWNLOADED: screenshot @ 2022-11-03 21:59:37
+[[file:../assets/20221103-215937_screenshot.png]]
+
+*** Find A B/MAKE A B
+- 若B是名词,就是发现A是B,若是形容词就是发现A像B这样
+** ④Some huge American industries, such as consumer electronics, had ==shrunk== or vanished in the face of foreign competition.
+*** 单词最重要的是判断词性!
+Shrink做名词在口语中可以作为心理医生
+** America’s machine-tool industry was on the ropes
+*** on the ropes
+- Contents: 命悬一线的
+** [#A] For a while it looked as though the making of semiconductors, which America had invented and which sat at the heart of the new computer age, was going to be the next ==casualty==.
+*** casualty
+- 受害者
+
 * 2014
 ** And it ==is far from== the only one of its type.
 - 远非
@@ -22,3 +55,11 @@
 暴富的
 ** status quo
 现状
+** as scatterd as
+像...一样分散的
+**   As Nature has pointed out before, there are some legitimate concerns about how science prizes - both new and old- are distributed.
+- 合法的
+- The Breakthrough Prize in Life Sciences, launched this year, takes an unrepresentative view of what the life sciences include.
+** has long been ==outgrown== by
+- 早就因为...而不适用
+**  all we can do is ==articulate== our reactions to it, and not grasp' music itself.

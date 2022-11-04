@@ -56,7 +56,9 @@
 :END:
 *** miRNA与siRNA的来源? :card:
 :PROPERTIES:
+:ID:       dfb3a51a-bad1-4a4c-9d03-968d2c48fc11
 :END:
+- Backlinks:[[id:4e6e87c4-4fd8-4c12-891b-c3098be8b42a][如何记忆真核生物RNA聚合酶Ⅱ的作用]]
 **** miRNA由[[RNA pol Ⅱ]]产生,其一定是内源的
 **** siRNA既可以是内源又可以是外源
 *** 如何记忆miRNA与siRNA为单链还是双链? :card:
@@ -64,7 +66,7 @@
 :END:
 **** miRNA为单链,siRNA为双链
 **** 因为siRNA是Dicer在双链的基础上剪切下来的
-**** #+BEGIN_TIP
+#+BEGIN_TIP
 想到miRNA全为内源性,内源几乎无双链RNA,而siRNA很大程度来自于外源病毒之类的就有双链的RNA经过Dicer切割后称为双链
 #+END_TIP
 *** miRNA与siRNA发挥作用时是否要求与靶基因完全配对? :card:
@@ -95,7 +97,9 @@
 “神经鞘磷脂(sphingomyelin)是人体含量最多的鞘磷脂，由鞘氨醇、脂肪酸及磷酸胆碱构成” (“Biochemeistry”, p. 160)
 *** 如何记忆哪些由 [[SAM循环]]提供甲基的产物? :card:
 :PROPERTIES:
+:ID:       426fa8fd-469b-4ac6-b87f-873de1b14c36
 :END:
+- Backlinks:[[id:6e5dee13-80e6-4194-9e84-1376df53483e][真核生物hnRNA加帽所需要的甲基由何提供]]
 **** 体内很多反应都是由 [[SAM循环]]提供的,典型的包括一荤一素一肌一蛋([[肉碱]],[[肾上腺素]],[[肌酸]],[[胆碱]])还有mRNA的5'帽子,还有多胺
 **** 关键是记住不由其提供的,如dUMP→TMP的过程,由N5-N10-CH₂提供
 ** 脂蛋白
@@ -171,6 +175,10 @@
 *** [[../assets/image_1666425357380_0.png]]
 *** 从现在开始倒数十秒(嗒嗒)我要开始转录了
 ** [[乳糖操纵子]] #极可能考
+:PROPERTIES:
+:ID:       b7801b71-f4a5-43af-a7fb-293528ff98c5
+:END:
+- Backlinks:[[id:c8efef4d-92ce-46f7-9d66-53f22c6ccbcd][乳糖操纵子中谁与CAP结合序列结合?]]
 *** 乳糖操纵子的结构基因的作用是合成乳糖还是分解乳糖? :card:
 :PROPERTIES:
 :END:
@@ -593,7 +601,9 @@ N*LP*HL
 ** [[胸腔积液]]
 :PROPERTIES:
 :collapsed: true
+:ID:       7cb05ab3-6033-48bf-aa76-49a51124699f
 :END:
+- Backlinks:2017年[[id:a3c06664-a5d8-41d1-b35e-93cf40fce429][44]]
 *** 教材中的[[血性胸水]]主要是哪几种疾病? :card:
 :PROPERTIES:
 :END:
@@ -608,7 +618,7 @@ N*LP*HL
 **** [[淋巴细胞]]
 **** 嘌呤核苷酸循环时AMP脱氨基转变为IMP时的酶([[腺苷酸脱氨酶]])
 **** 转氨基作用中生成的[[天冬氨酸]]与次黄嘌呤核苷酸([[IMP]])作用生成[[腺苷酸代琥珀酸,]]后者在裂解酶作用下生成延胡索酸和[[腺嘌呤核苷酸]],腺嘌呤核苷酸在[[腺苷酸脱氨酶]]作用下脱掉氨基又生成IMP的过程.
-*** 判断胸腔积液性质的思路? :card:
+*** [#A] 判断胸腔积液性质的思路? :card:
 :PROPERTIES:
 :ID:       7c0ba8d7-b82e-487c-bcd0-a2313474dad9
 :END:
@@ -864,7 +874,9 @@ Luster→光亮的→白→白三烯
 ** [[结节病]]
 :PROPERTIES:
 :collapsed: true
+:ID:       e35a0958-84bb-480c-b5d7-f74b0e7b821e
 :END:
+- Backlinks:[[id:37d08d02-2315-476c-ab19-b5425e43ef9f][46. 女，48 岁，咳嗽胸闷 4 个月，无发热，CT 示双侧肺门、纵隔淋巴结肿大伴双侧网格状影及小结节影。双下肺少许蜂窝状改变，支气管镜示支气管粘膜呈铺路石状改变，支气管肺泡灌洗液检查最可能的结果为]]
 *** {{embed ((6354d357-cb0e-4229-aa6b-07e2c76b2e15))}}
 *** [[结节病]]与[[肺结核]]的肺门淋巴结肿大有何差异? :card:
 :PROPERTIES:

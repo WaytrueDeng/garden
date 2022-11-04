@@ -1,0 +1,159 @@
+:PROPERTIES:
+:ID:       ed5627ff-1092-44ae-b0f1-b5881700b47e
+:END:
+#+title: DNA的合成 
+#+creationTime: [2022-11-04 Fri 12:48]
+* 大肠杆菌的OriC的序列特点是富含何种脱氧核苷酸
+- AT
+* 真核生物为了解决基因组庞大的问题所采取的复制策略是
+- 多复制子复制
+* 延长DNA链所需的原料是dNxP?及延长一个所消耗的能量
+- 原料是dNTP→耗费两个高能磷酸键以dNMP的形式加到链上
+* 原核生物
+** 原核生物DNA聚合酶
+*** 原核生物DNA聚合酶Ⅳ,Ⅴ的主要作用是
+:PROPERTIES:
+:ID:       5b0263cb-c028-4f72-a6c3-0249437bef84
+:END:
+- SOS修复
+- References:
+  - [[id:5ba7ab54-cab3-402b-935b-d14ea100debf][SOS:跨损伤DNA合成修复]]
+*** 原核生物DNA聚合酶Ⅰ,Ⅱ,Ⅲ均具有何方向的DNA外切酶活性及其意义
+- 3'→5',其意义在于及时的纠正错配的碱基
+*** [#A] DNA聚合酶Ⅰ的小片段具有的酶活性及其意义
+:PROPERTIES:
+:ID:       50066b05-b1ae-4e26-80e8-3fe047b32291
+:END:
+- Backlinks:[[id:bf499d43-96e8-45e5-9bf3-de7fc11b62de][真核生物切除引物的酶是]]
+- 5'→3'核酸外切酶活性
+  - 修复损伤
+  - 切除RNA引物
+*** DNA聚合酶Ⅰ的Klenow片段的作用是
+:PROPERTIES:
+:ID:       0642698c-5593-4e7e-8ff3-e95047d784d5
+:END:
+- 填补其小片段切除RNA引物后的空隙
+- References:
+  - [[id:0487069c-617d-4ee0-ba2e-d47d293394e8][cDNA的第一链与第二链分别由何酶所执行合成]]
+*** DNA聚合酶Ⅱ在体内发挥的主要作用是
+:PROPERTIES:
+:ID:       495b2e13-4f86-4d30-9cba-155799b155c5
+:END:
+- Backlinks:[[id:8577258b-9c77-4ed2-a9b8-a2bbed620e54][进行DNA低保真复制高保真修复的酶是]]
+- 应急低保真复制
+
+*** 单核生物执行DNA复制最主要的酶是
+- DNA聚合酶Ⅲ
+  [[file:../assets/20221104-131532_screenshot.png]]
+*** DNA聚合酶Ⅲ核心酶由哪些亚基组成及其相应的作用
+- α亚基:5→3聚合酶活性
+- ε亚基:3→5核酸外切酶活性
+- θ亚基:维系二聚体作用
+*** DNA聚合酶Ⅲ的β亚基的作用是
+:PROPERTIES:
+:ID:       9625ac30-0eb6-4ca9-b57a-b54624e0ca8f
+:END:
+- Backlinks:[[id:454df028-1772-441e-9b81-bb595da0658d][如何记忆真核生物与原核生物谁需要PCNA的辅助及其作用]]
+- 滑动夹:夹稳模板链的作用,
+  [[file:../assets/20221104-131532_screenshot.png]]
+** 拓补异构酶
+*** 拓补异构酶参与DNA合成的哪一过程
+- 全过程都参与,因为随时都可能打结
+*** 拓补异构酶是否需要ATP与否
+- 拓补异构酶Ⅰ不需要ATP水解单链
+- 拓补异构酶Ⅱ需要ATP能水解双链
+*** 拓补异构酶Ⅱ与正负超螺旋的关系
+- 使正超螺旋变为负超螺旋
+  [[file:../assets/20221104-132355_screenshot.png]]
+*** 拓补异构酶具有DNA水解作用还是连接作用
+- 两种作用都必须有
+** 引物酶
+*** [#A] 为什么DNA复制过程中需要引物
+- 因为DNA聚合酶不具有使游离dNTP之间形成磷酸二酯键的能力
+*** [#A] 如何记忆原核生物的DNA合成引物酶
+:PROPERTIES:
+:ID:       137bdbc4-616b-431f-b7db-bb9310ccdd5f
+:END:
+- Backlinks:[[id:9408ef5e-c58b-47d9-8cea-d919a951a0a2][真核生物的引物酶是]]
+- DnaG蛋白
+- Mnemonic: G for guidence
+*** DNA合成过程中引物酶的本质是
+- DDRP→DNA Depended RNA polymerase
+** 原核生物的DNA合成过程
+*** 如何记忆原核生物寻找DNA复制起始点的蛋白质是
+- DnaA
+- Mnemonic: A for aim 瞄准
+*** 如何记忆原核生物DNA解链酶及其运输者
+- DnaB B for Binding
+- DnaC C for carry
+*** 原核生物解链后防止双链重新结合的酶是
+- SSB
+*** 原核生物DNA复制起始复合物(引发体的)的组成
+- Dna B/C/G+起始点
+- Mnemonic: 没有Dna A 因为被B替换下来了
+* 真核生物的DNA合成过程
+** 真核生物的引物酶是
+:PROPERTIES:
+:ID:       9408ef5e-c58b-47d9-8cea-d919a951a0a2
+:END:
+- Contents: DNA α
+- References:
+  - [[id:137bdbc4-616b-431f-b7db-bb9310ccdd5f][如何记忆原核生物的DNA合成引物酶]]
+*** 为什么DNA α只能合成引物
+:PROPERTIES:
+:ID:       5155095c-cb9e-49d5-baab-47261c860995
+:END:
+- Backlinks:[[id:454df028-1772-441e-9b81-bb595da0658d][如何记忆真核生物与原核生物谁需要PCNA的辅助及其作用]]
+因为其不具备连续合成的能力
+** 真核生物切除引物的酶是
+:PROPERTIES:
+:ID:       bf499d43-96e8-45e5-9bf3-de7fc11b62de
+:END:
+- RNase,FEN1
+- References: [[id:50066b05-b1ae-4e26-80e8-3fe047b32291][DNA聚合酶Ⅰ的小片段具有的酶活性及其意义]]
+** 九版教材未写明真核生物的引物其实本质是
+- 一部分RNA+一部分DNA而单纯的RNase无法完全切除所以需要FEN1
+** 进行DNA低保真复制高保真修复的酶是
+:PROPERTIES:
+:ID:       8577258b-9c77-4ed2-a9b8-a2bbed620e54
+:END:
+- 原核生物的DNA pol Ⅱ
+- 真核生物的DNA β
+- References:
+  - [[id:495b2e13-4f86-4d30-9cba-155799b155c5][DNA聚合酶Ⅱ在体内发挥的主要作用是]]
+** 如何记忆真核生物主要司延长DNA链的酶是
+:PROPERTIES:
+:ID:       3aed3c88-2a64-40da-b7fe-2b50be7da4ee
+:END:
+- Backlinks:[[id:454df028-1772-441e-9b81-bb595da0658d][如何记忆真核生物与原核生物谁需要PCNA的辅助及其作用]]
+- DNA δ: 延长后随链 δ长的像后字
+- DNA ε: 延长前导链
+** 如何记忆真核生物与原核生物谁需要PCNA的辅助及其作用
+:PROPERTIES:
+:ID:       454df028-1772-441e-9b81-bb595da0658d
+:END:
+- 真核生物需要PCNA(增强细胞核抗原)的辅助使得DNA δ与ε具有连续合成的能力
+- 具有加稳模板链与使酶在模板链上滑动的作用
+- References:
+  - [[id:3aed3c88-2a64-40da-b7fe-2b50be7da4ee][如何记忆真核生物主要司延长DNA链的酶是]]
+  - [[id:5155095c-cb9e-49d5-baab-47261c860995][为什么DNA α只能合成引物]]
+  - [[id:9625ac30-0eb6-4ca9-b57a-b54624e0ca8f][DNA聚合酶Ⅲ的β亚基的作用是]]
+** 线粒体的DNA复制
+:PROPERTIES:
+:ID:       277251d4-ad93-46c0-ad97-a85487dcbd25
+:END:
+- References:
+  - [[id:51976932-bbde-43e7-9770-96e2ba2ce9e3][真核生物线粒体DNA复制的酶记忆复制特点为?]]
+** 端粒
+:PROPERTIES:
+:ID:       62e0a8cb-0d77-45e3-ad2c-fcd7a8978dc6
+:END:
+- [[id:298ab519-eb02-4be7-8438-b47efbdff74d][端粒的合成过程]]
+*** 端粒富含何序列
+GT
+* 逆转录病毒
+** 逆转录酶具有哪些酶活性恰好无何酶活性
+- RDDP,DDDP,RNase
+- 恰好无3-5'的外切酶活性
+** [#A] 逆转录时DNA合成所需要的引物来自于
+- 病毒自身提供,来自于其tRNA
